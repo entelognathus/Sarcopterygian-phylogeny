@@ -52,19 +52,13 @@
 > Lu *et al*., (2017,char. 24), Lu *et al*., (2016; char. 24), Giles *et al*.,(2015; char. 24), Davis *et al*., (2012; char. 13).
 25. Basal pore in scales: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 25), Lu *et al*., (2016; char. 25), Giles *et al*.,(2015; char. 25).
-26. Flank scale alignment:
-Changed from ‘-‘ to ‘?’ for Chondrenchelys.
-0. vertical rows oblique rows or hexagonal
-1. rhombic packing
-2. disorganised
-27. Scute-like ridge scales (basal fulcra):
-0. absent
-1. present
-28. Sensory line canal:
-0. perforates scales
-1. passes between scales
-2. C-shaped scales
-Dermal bones of the skull
+26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
+> Lu *et al*., (2017,char. 26), Lu *et al*., (2016; char. 26), Giles *et al*.,(2015; char. 26), Davis *et al*., (2012; char. 14).
+27. Scute-like ridge scales (basal fulcra): 0. absent; 1. present.
+> Lu *et al*., (2017,char. 27), Lu *et al*., (2016; char. 27), Giles *et al*.,(2015; char. 27), Patterson, (1982; char. 19), Gardiner, (1984; char. 12), Friedman & Brazeau (2010; char. 25).
+28. Sensory line canal: 0. perforates scales; 1. passes between scales; 2. C-shaped scales.
+> Lu *et al*., (2017,char. 28), Lu *et al*., (2016; char. 28), Giles *et al*.,(2015; char. 28), Davis *et al*., (2012; char. 15).
+##*Dermal bones of the skull*
 29. Dermal ornamentation:
 Changed from ‘1’ to ‘3’ for Glyptolepis, from ‘3’ to ‘-‘ for Onychoselache, from ‘3’ to ‘0’ 
 for Psarolepis. 
