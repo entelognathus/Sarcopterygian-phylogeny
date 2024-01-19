@@ -44,7 +44,7 @@
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 14), Lu *et al*., (2016; char. 14), Giles *et al*.,(2015; char. 14).
+> Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
 > Lu *et al*., (2017,char. 15), Lu *et al*., (2016; char. 15), Giles *et al*.,(2015; char. 15), Davis *et al*., (2012; char. 8).
 16. Body scale growth concentric: 0. absent; 1. present.
