@@ -41,6 +41,7 @@
 > Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
 
 ##*Squamation*
+
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
