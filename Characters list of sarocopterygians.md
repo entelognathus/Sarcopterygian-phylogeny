@@ -69,14 +69,14 @@
 25. Basal pore in scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 25; Lu *et al*. (2016), Character 25; Giles *et al*. (2015), Character 25.
 26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
-> Lu *et al*., (2017,char. 26), Lu *et al*., (2016; char. 26), Giles *et al*.,(2015; char. 26), Davis *et al*., (2012; char. 14).
+> Lu *et al*. (2017), Character 26; Lu *et al*. (2016), Character 26; Giles *et al*. (2015), Character 26; Davis *et al*. (2012), Character 14.
 27. Scute-like ridge scales (basal fulcra): 0. absent; 1. present.
-> Lu *et al*., (2017,char. 27), Lu *et al*., (2016; char. 27), Giles *et al*.,(2015; char. 27), Patterson, (1982; char. 19), Gardiner, (1984; char. 12), Friedman & Brazeau (2010; char. 25).
+> Lu *et al*. (2017), Character 27; Lu *et al*. (2016), Character 27; Giles *et al*. (2015), Character 27; Patterson (1982), Character 19; Gardiner (1984), Character 12; Friedman & Brazeau (2010), Character 25.
 28. Sensory line canal: 0. perforates scales; 1. passes between scales; 2. C-shaped scales.
-> Lu *et al*., (2017,char. 28), Lu *et al*., (2016; char. 28), Giles *et al*.,(2015; char. 28), Davis *et al*., (2012; char. 15).
+> Lu *et al*. (2017), Character 28; Lu *et al*. (2016), Character 28; Giles *et al*. (2015), Character 28; Davis *et al*. (2012), Character 15.
 ##*Dermal bones of the skull*
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
-> Lu *et al*., (2017,char. 29), Lu *et al*., (2016; char. 29), Giles *et al*.,(2015; char. 29).
+> Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
 > Lu *et al*., (2017,char. 30), Lu *et al*., (2016; char. 30), Giles *et al*.,(2015; char. 30), Davis *et al*., (2012; char. 16).
 31. Sensory canals/grooves: 0. contained within the thickness of dermal bones; 1. contained in prominent ridges on visceral surface of bone.
