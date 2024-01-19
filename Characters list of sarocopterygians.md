@@ -21,21 +21,15 @@
 > Lu *et al*., (2017,char. 9), Lu *et al*., (2016; char. 9), Giles *et al*.,(2015; char. 9).
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
 > Lu *et al*., (2017,char. 10), Lu *et al*., (2016; char. 10), Giles *et al*.,(2015; char. 10).
-11. Bone cell lacunae in body scale bases:
-0. present
-1. absent
-12. Main dentinous tissue forming fin spine:
-Changed from ‘-‘ to ‘0’ in Pterichthyodes.
-0. osteodentine
-1. orthodentine
-Squamation
-13. Longitudinal scale alignment in fin webs:
-Changed from ‘-‘ to ‘0’ in Pterichthyodes.
-0. present
-1. absent
-14. Differentiated lepidotrichia:
-0. absent
-1. present
+11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
+> Burrow	&	Turner, (2010; char. 61), Lu *et al*., (2017,char. 11), Lu *et al*., (2016; char. 11), Giles *et al*.,(2015; char. 11).
+12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
+> Burrow	&	Turner, (2010; char. 60), Lu *et al*., (2017,char. 12), Lu *et al*., (2016; char. 12), Giles *et al*.,(2015; char. 12).
+##*Squamation*
+13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
+> Lu *et al*., (2017,char. 13), Lu *et al*., (2016; char. 13), Giles *et al*.,(2015; char. 13).
+14. Differentiated lepidotrichia: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 14), Lu *et al*., (2016; char. 14), Giles *et al*.,(2015; char. 14).
 15. Body scale growth pattern:
 0. comprising single odontode unit/generation ("monodontode")
 1. comprising a complex of multipe odontode generations/units ("polyodontode")
