@@ -131,22 +131,19 @@
 > Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.	
 56. Preopercular shape: 0. rhombic; 1. bar-shaped.
 > Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
-> Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
+> -Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
 57. Vertical canal associated with preopercular/suborbital canal: 0. absent; 1. present.
 Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
 58. Enlarged postorbital tessera separate from orbital series: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 58; Lu *et al*. (2016), Character 58; Giles *et al*. (2015), Character 58; Davis *et al*. (2012), Character 26.
 59. Extent of maxilla along cheek: 0. to posterior margin of cheek; 1. cheek bones exclude maxilla from posterior margin of cheek.
 > Lu *et al*. (2017), Character 59; Lu *et al*. (2016), Character 59; Giles *et al*. (2015), Character 59; Friedman (2007), Character 151; Zhu *et al*.	(2009), Character 81; Zhu	*et al*. (2013), Character 182.
-Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
-60. Dermal neck joint:
-0. overlap
-1. ginglymoid
-61. Sensory line scales/plates on head:
-0. unspecialized
-1. apposed growth
-2. paralleling canal
-3. semicylindrical C-shaped ring scales
+> -Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
+60. Dermal neck joint: 0. overlap; 1. ginglymoid.
+> Lu *et al*. (2017), Character 60; Lu *et al*. (2016), Character 60; Giles *et al*. (2015), Character 60; Zhu *et al*. (2013), Character 169.
+> -The	presence of a dermal neck joint is not a probable	placoderm synapomorphy	per	se.	Rather,	the	articulation of the shoulder and skull in mandibulate	stem gnathostomes	is distinguished from	the condition	in osteichthyans by being a ginglymoid articulation. The articulation in *Brindabellaspis* is peculiar	in that it does not appear to be a dermal linkage	but	was	instead	an endochondral one	(Young	1980).
+61. Sensory line scales/plates on head: 0. unspecialized; 1. apposed growth; 2. paralleling canal; 3. semicylindrical C-shaped ring scales.
+> Lu *et al*. (2017), Character 61; Lu *et al*. (2016), Character 61; Giles *et al*. (2015), Character 61; Davis *et al*. (2012), Character 15; Burrow & Turner	(2010),	Character 66.
 62. Bony hyoidean gill-cover series (branchiostegals):
 0. absent
 1. present
