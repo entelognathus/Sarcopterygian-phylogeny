@@ -61,13 +61,13 @@
 21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
 > Lu *et al*. (2017), Character 21; Lu *et al*. (2016), Character 21; Giles *et al*. (2015), Character 21; Davis *et al*. (2012), Character 11.
 22. Profile of scales with constriction between crown and base: 0. neck similar in width to crown; 1. neck greatly constricted, resulting in anvil-like shape.
-> Lu *et al*., (2017,char. 22), Lu *et al*., (2016; char. 22), Giles *et al*.,(2015; char. 22).
+> Lu *et al*. (2017), Character 22; Lu *et al*. (2016), Character 22; Giles *et al*. (2015), Character 22.
 23. Body scales with bulging base: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 23), Lu *et al*., (2016; char. 23), Giles *et al*.,(2015; char. 23), Davis *et al*., (2012; char. 12).
+> Lu *et al*. (2017), Character 23; Lu *et al*. (2016), Character 23; Giles *et al*. (2015), Character 23; Davis *et al*. (2012), Character 12.
 24. Body scales with flattened base: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 24), Lu *et al*., (2016; char. 24), Giles *et al*.,(2015; char. 24), Davis *et al*., (2012; char. 13).
+> Lu *et al*. (2017), Character 24; Lu *et al*. (2016), Character 24; Giles *et al*. (2015), Character 24; Davis *et al*. (2012), Character 13.
 25. Basal pore in scales: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 25), Lu *et al*., (2016; char. 25), Giles *et al*.,(2015; char. 25).
+> Lu *et al*. (2017), Character 25; Lu *et al*. (2016), Character 25; Giles *et al*. (2015), Character 25.
 26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
 > Lu *et al*., (2017,char. 26), Lu *et al*., (2016; char. 26), Giles *et al*.,(2015; char. 26), Davis *et al*., (2012; char. 14).
 27. Scute-like ridge scales (basal fulcra): 0. absent; 1. present.
