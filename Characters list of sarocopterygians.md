@@ -122,30 +122,23 @@
 51. Paired pits on ventral surface of nuchal plate: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 51; Lu *et al*. (2016), Character 51; Giles *et al*. (2015), Character 51; Miles & Dennis (1979), Character 10;	Dennis & Miles (1981), Character 10.
 52. Sclerotic ring: 0. absent; 1. present.
-> 
-53. Consolidated cheek plates:
-0. absent
-1. present
-54. Cheek plate:
-0. undivided
-1. divided (i.e., squamosal and preopercular)
-55. Subsquamosals in taxa with divided cheek:
-Changed from ‘?‘ to ‘-’ for Chondrenchelys.
-0. absent
-1. present
-56. Preopercular shape:
-Changed from ‘?‘ to ‘-’ for Chondrenchelys.
-0. rhombic
-1. bar-shaped
-57. Vertical canal associated with preopercular/suborbital canal:
-0. absent
-1. present
-58. Enlarged postorbital tessera separate from orbital series:
-0. absent
-1. present
-59. Extent of maxilla along cheek:
-0. to posterior margin of cheek
-1. cheek bones exclude maxilla from posterior margin of cheek
+> Lu *et al*. (2017), Character 52; Lu *et al*. (2016), Character 52; Giles *et al*. (2015), Character 52.
+53. Consolidated cheek plates: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 53; Lu *et al*. (2016), Character 53; Giles *et al*. (2015), Character 53; Davis *et al*. (2012), Character 24.
+54. Cheek plate: 0. undivided; 1. divided (i.e., squamosal and preopercular).
+> Lu *et al*. (2017), Character 54; Lu *et al*. (2016), Character 54; Giles *et al*. (2015), Character 54.
+55. Subsquamosals in taxa with divided cheek: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.	
+56. Preopercular shape: 0. rhombic; 1. bar-shaped.
+> Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
+> Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
+57. Vertical canal associated with preopercular/suborbital canal: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
+58. Enlarged postorbital tessera separate from orbital series: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 58; Lu *et al*. (2016), Character 58; Giles *et al*. (2015), Character 58; Davis *et al*. (2012), Character 26.
+59. Extent of maxilla along cheek: 0. to posterior margin of cheek; 1. cheek bones exclude maxilla from posterior margin of cheek.
+> Lu *et al*. (2017), Character 59; Lu *et al*. (2016), Character 59; Giles *et al*. (2015), Character 59; Friedman (2007), Character 151; Zhu *et al*.	(2009), Character 81; Zhu	*et al*. (2013), Character 182.
+> Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
 60. Dermal neck joint:
 0. overlap
 1. ginglymoid
