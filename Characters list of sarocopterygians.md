@@ -40,11 +40,13 @@
 > Burrow	&	Turner (2010), Character 61; Lu *et al*. (2017), Character 11; Lu *et al*. (2016), Character 11; Giles *et al*. (2015), Character 11.
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
 > Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
+> - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
 
 ##*Squamation*
 
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
+> - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
@@ -55,22 +57,29 @@
 > Lu *et al*. (2017), Character 17; Lu *et al*. (2016), Character 17; Giles *et al*. (2015), Character 17.
 18. Body scales with peg-and-socket articulation: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 19. Scale peg: 0. broad; 1. narrow.
 > Lu *et al*. (2017), Character 19; Lu *et al*. (2016), Character 19; Giles *et al*. (2015), Character 19; Patterson (1982), Character 5; Cloutier & Ahlberg (1996), Character 4; Dietze (2000), Character 57; Schultze & Cumbaa (2001), Character 88; Zhu & Schultze (2001), Character 199; Zhu *et	al*. (2001), Character 145; Zhu & Yu (2002), Character 145; Cloutier & Arratia (2004), Character 178; Zhu *et al*. (2006), Character 112; Friedman (2007), Character 128; Brazeau (2009), Character 139; Zhu *et al*. (2009), Character 139; Zhu *et al*. (2013), Character 143.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
 20. Anterodorsal process on scale: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 20; Lu *et al*. (2016), Character 20; Giles *et al*. (2015), Character 20; Patterson (1982), Character 4; Lauder & Liem (1983), Character 4; Gardiner (1984), Character 1; Gardiner & Schaeffer (1989), Character A20; Schultze (1992), Character 2, in part; Schultze & Cumbaa	(2001), Character 89;	Zhu	&	Schultze (2001), Character 201; Zhu *et al*. (2001), Character 146;	Zhu	&	Yu (2002), Character 146;	Cloutier & Arratia (2004), Character 179;	Friedman & Blom (2006), Character 33; Zhu *et al*.	(2006), Character 113; Friedman (2007), Character 129; Zhu *et al*. (2009), Character 140; Zhu *et al*. (2013), Character 144.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
 > Lu *et al*. (2017), Character 21; Lu *et al*. (2016), Character 21; Giles *et al*. (2015), Character 21; Davis *et al*. (2012), Character 11.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 22. Profile of scales with constriction between crown and base: 0. neck similar in width to crown; 1. neck greatly constricted, resulting in anvil-like shape.
 > Lu *et al*. (2017), Character 22; Lu *et al*. (2016), Character 22; Giles *et al*. (2015), Character 22.
 23. Body scales with bulging base: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 23; Lu *et al*. (2016), Character 23; Giles *et al*. (2015), Character 23; Davis *et al*. (2012), Character 12.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
 24. Body scales with flattened base: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 24; Lu *et al*. (2016), Character 24; Giles *et al*. (2015), Character 24; Davis *et al*. (2012), Character 13.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 25. Basal pore in scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 25; Lu *et al*. (2016), Character 25; Giles *et al*. (2015), Character 25.
 26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
 > Lu *et al*. (2017), Character 26; Lu *et al*. (2016), Character 26; Giles *et al*. (2015), Character 26; Davis *et al*. (2012), Character 14.
+> - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘?’ for *Chondrenchelys*.
 27. Scute-like ridge scales (basal fulcra): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 27; Lu *et al*. (2016), Character 27; Giles *et al*. (2015), Character 27; Patterson (1982), Character 19; Gardiner (1984), Character 12; Friedman & Brazeau (2010), Character 25.
 28. Sensory line canal: 0. perforates scales; 1. passes between scales; 2. C-shaped scales.
@@ -78,6 +87,7 @@
 ##*Dermal bones of the skull*
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
 > Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*. 
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
 > Lu *et al*. (2017), Character 30; Lu *et al*. (2016), Character 30; Giles *et al*. (2015), Character 30; Davis *et al*. (2012), Character 16.
 31. Sensory canals/grooves: 0. contained within the thickness of dermal bones; 1. contained in prominent ridges on visceral surface of bone.
@@ -88,6 +98,7 @@
 > Lu *et al*. (2017), Character 33; Lu *et al*. (2016), Character 33; Giles *et al*. (2015), Character 33; Davis *et al*. (2012), Character 18.
 34. Anterior pit line of dermal skull roof: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 34; Lu *et al*. (2016), Character 34; Giles *et al*. (2015), Character 34.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Cheirolepis*.
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
 > Lu *et al*. (2017), Character 35; Lu *et al*. (2016), Character 35; Giles *et al*. (2015), Character 35; Davis *et al*. (2012), Character 19.
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
@@ -96,6 +107,7 @@
 > Lu *et al*. (2017), Character 37; Lu *et al*. (2016), Character 37; Giles *et al*. (2015), Character 37; Davis *et al*. (2012), Character 20.
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 38; Lu *et al*. (2016), Character 38; Giles *et al*. (2015), Character 38; Davis *et al*. (2012), Character 21.
+> - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘-’ for *Ischnacanthus*.
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 39; Lu *et al*. (2016), Character 39; Giles *et al*. (2015), Character 39; Davis *et al*. (2012), Character 22.
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
@@ -112,10 +124,12 @@
 > Lu *et al*. (2017), Character 45; Lu *et al*. (2016), Character 45; Giles *et al*. (2015), Character 45.
 46. Dermal cranial joint at level of sphenoid-otic junction: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 46; Lu *et al*. (2016), Character 46; Giles *et al*. (2015), Character 46; Cloutier & Ahlberg (1996), Character 81;	Ahlberg & Johanson (1998), Character 71;	Zhu	*et al*.	(2001), Character 20;	Zhu	&	Schultze (2001), Character 31; Zhu & Yu	(2002), Character 20;	Zhu & Ahlberg (2004), Character 71; Daeschler *et	al*. (2006), Character 50;	Long *et al*. (2006), Character 3;	Zhu *et	al*. (2006), Character 24; Friedman (2007), Character 19;	Zhu	*et	al*.	(2009), Character 21;	Zhu	*et	al*. (2013), Character 147.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
 47. Otic canal extends through postparietals: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 47; Lu *et al*. (2016), Character 47; Giles *et al*. (2015), Character 47; Cloutier	&	Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37;	Zhu	& Yu (2002), Character 37;	Friedman (2007), Character 40.
 48. Number of bones of skull roof lateral to postparietals: 0. two; 1. one; 2. more than two.
 > Lund *et al*. (1995), Character 21;	Cloutier & Ahlberg (1996), Character 37; Ahlberg & Johanson (1998), Character 49;	Zhu	&	Ahlberg	(2004), Character 49; Schultze & Cumbaa	(2001), Character 74;	Zhu	&	Schultze	(2001:	character	27), Zhu et al. (2001), Character 19; Zhu & Yu (2002), Character 19;	Cloutier & Arratia (2004), Character 75;	Daeschler *et al*. (2006), Character 39; Zhu *et	al*. (2006), Character 22; Friedman (2007), Character 18;	Zhu	*et al*. (2009), Character 27.
+> - Lu *et al*. (2016; 2017): We have modified this character to take into account the condition in *Powichthys* and lungfishes (new additions to the matrix), which show more than two bones lateral to the postparietals.
 49. Suture between paired skull roofing bones (centrals of placoderms; postparietals of osteichthyans): 0. straight; 1. sinusoidal.
 > Lu *et al*. (2017), Character 49; Lu *et al*. (2016), Character 49; Giles *et al*. (2015), Character 49; Miles & Dennis (1979), Character 6.
 50. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: 0. absent; 1. present; 2. paranuchals precluded from nuchal by centrals; 3. no median posterior skull roof bone.
@@ -129,10 +143,12 @@
 54. Cheek plate: 0. undivided; 1. divided (i.e., squamosal and preopercular).
 > Lu *et al*. (2017), Character 54; Lu *et al*. (2016), Character 54; Giles *et al*. (2015), Character 54.
 55. Subsquamosals in taxa with divided cheek: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.	
+> Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
 56. Preopercular shape: 0. rhombic; 1. bar-shaped.
 > Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
 > - Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
 57. Vertical canal associated with preopercular/suborbital canal: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
 58. Enlarged postorbital tessera separate from orbital series: 0. absent; 1. present.
