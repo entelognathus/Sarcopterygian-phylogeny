@@ -2,13 +2,13 @@
 
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
-> Lu *et al*., (2017;char. 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1).
+> Lu *et al*., (2017;char. 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1), Davis *et al*., (2012; char. 1).
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
 > Lu *et al*., (2017,char. 2), Lu *et al*., (2016; char. 2), Giles *et al*.,(2015; char. 2), Maisey	(2001; char.	17),	Pradel	*et	al*.,	(2011; character 0).
 3. Perichondral bone: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 3), Lu *et al*., (2016; char. 3), Giles *et al*.,(2015; char. 3).
+> Lu *et al*., (2017,char. 3), Lu *et al*., (2016; char. 3), Giles *et al*.,(2015; char. 3), Davis *et al*., (2012; char. 2).
 4. Extensive endochondral ossification: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 4), Lu *et al*., (2016; char. 4), Giles *et al*.,(2015; char. 4).
+> Lu *et al*., (2017,char. 4), Lu *et al*., (2016; char. 4), Giles *et al*.,(2015; char. 4), Davis *et al*., (2012; char. 3).
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 5), Lu *et al*., (2016; char. 5), Giles *et al*.,(2015; char. 5), Friedman, (2007; char. 131).
 6. Enamel: 0. single-layered; 1. multi-layered.
@@ -27,31 +27,21 @@
 > Burrow	&	Turner, (2010; char. 60), Lu *et al*., (2017,char. 12), Lu *et al*., (2016; char. 12), Giles *et al*.,(2015; char. 12).
 ##*Squamation*
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 13), Lu *et al*., (2016; char. 13), Giles *et al*.,(2015; char. 13).
+> Lu *et al*., (2017,char. 13), Lu *et al*., (2016; char. 13), Giles *et al*.,(2015; char. 13), Davis *et al*., (2012; char. 7).
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 14), Lu *et al*., (2016; char. 14), Giles *et al*.,(2015; char. 14).
-15. Body scale growth pattern:
-0. comprising single odontode unit/generation ("monodontode")
-1. comprising a complex of multipe odontode generations/units ("polyodontode")
-16. Body scale growth concentric:
-0. absent
-1. present
-17. Generations of odontodes:
-0. buried
-1. areally growing
-2. resorbed
-18. Body scales with peg-and-socket articulation:
-Changed from ‘?’ to ‘1’ in Styloichthys.
-0. absent
-1. present
-19. Scale peg:
-Changed from ‘?’ to ‘0’ in Styloichthys.
-0. broad
-1. narrow
-20. Anterodorsal process on scale:
-Changed from ‘?’ to ‘1’ in Styloichthys.
-0. absent
-1. present
+15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
+> Lu *et al*., (2017,char. 15), Lu *et al*., (2016; char. 15), Giles *et al*.,(2015; char. 15), Davis *et al*., (2012; char. 8).
+16. Body scale growth concentric: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 16), Lu *et al*., (2016; char. 16), Giles *et al*.,(2015; char. 16), Davis *et al*., (2012; char. 9).
+17. Generations of odontodes: 0. buried; 1. areally growing; 2. resorbed.
+> Lu *et al*., (2017,char. 17), Lu *et al*., (2016; char. 17), Giles *et al*.,(2015; char. 17).
+18. Body scales with peg-and-socket articulation: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 18), Lu *et al*., (2016; char. 18), Giles *et al*.,(2015; char. 18), Davis *et al*., (2012; char. 10).
+19. Scale peg: 0. broad; 1. narrow.
+> Lu *et al*., (2017,char. 19), Lu *et al*., (2016; char. 19), Giles *et al*.,(2015; char. 19), Patterson, (1982; char. 5), Cloutier & Ahlberg, (1996; char. 4), Dietze, (2000; char. 57), Schultze & Cumbaa, (2001; char. 88), Zhu & Schultze (2001; char. 199), Zhu *et	al*., (2001; char. 145), Zhu & Yu, (2002; char. 145), Cloutier & Arratia, (2004; char. 178), Zhu *et al*., (2006; char. 112), Friedman, (2007; char. 128), Brazeau, (2009; char. 139), Zhu *et al*., (2009; char. 139), Zhu *et al*., (2013; char. 143).
+20. Anterodorsal process on scale: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 20), Lu *et al*., (2016; char. 20), Giles *et al*.,(2015; char. 20), Patterson, (1982; char. 4), Lauder & Liem, (1983; char. 4), Gardiner, (1984; character 1), Gardiner & Schaeffer, (1989;	char. A20), Schultze, (1992; char. 2,	in part), Schultze & Cumbaa,	(2001; char. 89),	Zhu	&	Schultze, (2001; char. 201), Zhu *et al*., (2001; char.	146),	Zhu	&	Yu (2002; char. 146),	Cloutier & Arratia (2004; char. 179), 	Friedman & Blom (2006; char. 33), Zhu *et al*.	(2006; char. 113), Friedman, (2007;	char.129), Zhu *et al*., (2009; char. 140), Zhu *et al*., (2013, char. 144).
 21. Body scale profile:
 Changed from ‘?’ to ‘1’ in Styloichthys.
 0. distinct crown and base demarcated by a constriction ("neck")
