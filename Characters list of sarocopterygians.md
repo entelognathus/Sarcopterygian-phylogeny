@@ -23,6 +23,8 @@
 
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 5; Lu *et al*. (2016), Character 5; Giles *et al*. (2015), Character 5; Friedman (2007), Character 131.
+>
+> - Zhujiangyuan porolepiform:
 6. Enamel: 0. single-layered; 1. multi-layered.
 >  Lu *et al*. (2017), Character 6; Lu *et al*. (2016), Character 6; Giles *et al*. (2015), Character 6; Friedman (2007), Character 138.
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
