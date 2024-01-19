@@ -144,20 +144,16 @@ Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al
 > -The	presence of a dermal neck joint is not a probable	placoderm synapomorphy	per	se.	Rather,	the	articulation of the shoulder and skull in mandibulate	stem gnathostomes	is distinguished from	the condition	in osteichthyans by being a ginglymoid articulation. The articulation in *Brindabellaspis* is peculiar	in that it does not appear to be a dermal linkage	but	was	instead	an endochondral one	(Young	1980).
 61. Sensory line scales/plates on head: 0. unspecialized; 1. apposed growth; 2. paralleling canal; 3. semicylindrical C-shaped ring scales.
 > Lu *et al*. (2017), Character 61; Lu *et al*. (2016), Character 61; Giles *et al*. (2015), Character 61; Davis *et al*. (2012), Character 15; Burrow & Turner	(2010),	Character 66.
-62. Bony hyoidean gill-cover series (branchiostegals):
-0. absent
-1. present
-63. Branchiostegal plate series along ventral margin of lower jaw:
-0. absent
-1. present
-64. Branchiostegal ossifications*:
-0. plate-like
-1. narrow and ribbon-like
-2. filamentous
-65. Branchiostegal ossifications:
-Changed from ‘1’ to ‘0’ for Porolepis, Gogonasus.
-0. ornamented
-1. unornamented
+62. Bony hyoidean gill-cover series (branchiostegals): 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 62; Lu *et al*. (2016), Character 62; Giles *et al*. (2015), Character 62; Davis *et al*. (2012), Character 27.
+> Giles *et al*. (2015): We	have re-coded	*Acanthodes* and *Homalacanthus* as	'1', reflecting	the	classic interpretation of the	presence of	branchiostegal	rays in these	taxa.	Davis	*et	al*. (2012)	coded	the	filamentous	rays articulating with	the	hyoid	arches of	these	acanthodids	as '0', hypothesizing	that they	might	represent	endoskeletal hyoid rays	like those present in	modern	and	fossil chondrichthyans. This conclusion was	based	on overall morphological	similarity;	the	structures in *Acanthodes* and *Homalacanthus*	are	thin and	filamentous, like	chondrichthyan hyoid rays	and unlike many	(but not all) osteichthyan branchiostegal	rays. Here we	code taxa bearing	other	ossifications	associated with the hyoid	arch (e.g. submandibulars, gulars, suboperculars)	as	'1'	for	this character.
+63. Branchiostegal plate series along ventral margin of lower jaw: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 63; Lu *et al*. (2016), Character 63; Giles *et al*. (2015), Character 63.
+64. Branchiostegal ossifications*: 0. plate-like; 1. narrow and ribbon-like; 2. filamentous.
+> Lu *et al*. (2017), Character 64; Lu *et al*. (2016), Character 64; Giles *et al*. (2015), Character 64; Davis *et al*. (2012), Character 29.
+65. Branchiostegal ossifications: 0. ornamented; 1. unornamented.
+>Lu *et al*. (2017), Character 65; Lu *et al*. (2016), Character 65; Giles *et al*. (2015), Character 65; Davis *et al*. (2012), Character 30.
+> -Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
 66. Imbricated branchiostegal ossifications:
 0. absent
 1. present
