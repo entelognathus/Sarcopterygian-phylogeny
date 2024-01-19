@@ -42,24 +42,16 @@
 > Lu *et al*., (2017,char. 19), Lu *et al*., (2016; char. 19), Giles *et al*.,(2015; char. 19), Patterson, (1982; char. 5), Cloutier & Ahlberg, (1996; char. 4), Dietze, (2000; char. 57), Schultze & Cumbaa, (2001; char. 88), Zhu & Schultze (2001; char. 199), Zhu *et	al*., (2001; char. 145), Zhu & Yu, (2002; char. 145), Cloutier & Arratia, (2004; char. 178), Zhu *et al*., (2006; char. 112), Friedman, (2007; char. 128), Brazeau, (2009; char. 139), Zhu *et al*., (2009; char. 139), Zhu *et al*., (2013; char. 143).
 20. Anterodorsal process on scale: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 20), Lu *et al*., (2016; char. 20), Giles *et al*.,(2015; char. 20), Patterson, (1982; char. 4), Lauder & Liem, (1983; char. 4), Gardiner, (1984; character 1), Gardiner & Schaeffer, (1989;	char. A20), Schultze, (1992; char. 2,	in part), Schultze & Cumbaa,	(2001; char. 89),	Zhu	&	Schultze, (2001; char. 201), Zhu *et al*., (2001; char.	146),	Zhu	&	Yu (2002; char. 146),	Cloutier & Arratia (2004; char. 179), 	Friedman & Blom (2006; char. 33), Zhu *et al*.	(2006; char. 113), Friedman, (2007;	char.129), Zhu *et al*., (2009; char. 140), Zhu *et al*., (2013, char. 144).
-21. Body scale profile:
-Changed from ‘?’ to ‘1’ in Styloichthys.
-0. distinct crown and base demarcated by a constriction ("neck")
-1. flattened
-22. Profile of scales with constriction between crown and base:
-0. neck similar in width to crown
-1. neck greatly constricted, resulting in anvil-like shape
-23. Body scales with bulging base:
-Changed from ‘?’ to ‘0’ in Styloichthys.
-0. absent
-1. present
-24. Body scales with flattened base:
-Changed from ‘?’ to ‘1’ in Styloichthys.
-0. present
-1. absent
-25. Basal pore in scales:
-0. absent
-1. present
+21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
+> Lu *et al*., (2017,char. 21), Lu *et al*., (2016; char. 21), Giles *et al*.,(2015; char. 21), Davis *et al*., (2012; char. 11).
+22. Profile of scales with constriction between crown and base: 0. neck similar in width to crown; 1. neck greatly constricted, resulting in anvil-like shape.
+> Lu *et al*., (2017,char. 22), Lu *et al*., (2016; char. 22), Giles *et al*.,(2015; char. 22).
+23. Body scales with bulging base: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 23), Lu *et al*., (2016; char. 23), Giles *et al*.,(2015; char. 23), Davis *et al*., (2012; char. 12).
+24. Body scales with flattened base: 0. present; 1. absent.
+> Lu *et al*., (2017,char. 24), Lu *et al*., (2016; char. 24), Giles *et al*.,(2015; char. 24), Davis *et al*., (2012; char. 13).
+25. Basal pore in scales: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 25), Lu *et al*., (2016; char. 25), Giles *et al*.,(2015; char. 25).
 26. Flank scale alignment:
 Changed from ‘-‘ to ‘?’ for Chondrenchelys.
 0. vertical rows oblique rows or hexagonal
