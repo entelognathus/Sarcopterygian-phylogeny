@@ -4,39 +4,23 @@
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 > Lu *et al*., (2017;char. 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1).
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
-> Lu *et al*., (2017,char 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1), Maisey	(2001; char.	17),	Pradel	*et	al*.,	(2011; character 0).
+> Lu *et al*., (2017,char. 2), Lu *et al*., (2016; char. 2), Giles *et al*.,(2015; char. 2), Maisey	(2001; char.	17),	Pradel	*et	al*.,	(2011; character 0).
 3. Perichondral bone: 0. present; 1. absent.
-> Lu *et al*., (2017,char 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1).
+> Lu *et al*., (2017,char. 3), Lu *et al*., (2016; char. 3), Giles *et al*.,(2015; char. 3).
 4. Extensive endochondral ossification: 0. absent; 1. present.
-> 
-5. Enamel(oid) present on dermal bones and scales:
-0. absent
-1. present
-6. Enamel:
-0. single-layered
-1. multi-layered
-7. Enamel layers:
-0. applied directly to one another (ganoine)
-1. separated by layers of dentine
-8. Pore canal network (sensu Zhu et al. 2010):
-The previous formulation of this character referenced an extensive pore canal network. 
-However, this leaves assessment of presence and absence ambiguous based on subjective 
-interpretations of when such a network might be considered ‘extensive’. Instead, we have 
-reformulated this character to capture those instances in which cavities connect with the 
-outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for Cassidiceps, 
-Euthacanthus, Helodus, Homalacanthus, Ischnacanthus, Janusiscus, Kathemacanthus, 
-Kentuckia, Latviacanthus, ‘Ligualepis’, Mesacanthus, Onychodus, Pterichthyodes, 
-Tristychius; from ‘1’ to ‘0’ in Dialipina, Poracanthodes; from ‘0’ to ‘?’ in Guiyu, 
-Jagorina, Moythomasia.
-0. absent
-1. present
-9. Dentinous tissue:
-0. absent
-1. present
-10. Dentine kind:
-0. mesodentine
-1. semidentine
-2. orthodentine
+> Lu *et al*., (2017,char. 4), Lu *et al*., (2016; char. 4), Giles *et al*.,(2015; char. 4).
+5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 5), Lu *et al*., (2016; char. 5), Giles *et al*.,(2015; char. 5), Friedman, (2007; char. 131).
+6. Enamel: 0. single-layered; 1. multi-layered.
+>  Lu *et al*., (2017,char. 6), Lu *et al*., (2016; char. 6), Giles *et al*.,(2015; char. 6), Friedman, (2007; char. 138).
+7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
+> Lu *et al*., (2017,char. 7), Lu *et al*., (2016; char. 7), Giles *et al*.,(2015; char. 7), Friedman, (2007; char. 195).
+8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
+> Lu *et al*., (2017,char. 8), Lu *et al*., (2016; char. 8), Giles *et al*.,(2015; char. 8).
+9. Dentinous tissue: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 9), Lu *et al*., (2016; char. 9), Giles *et al*.,(2015; char. 9).
+10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
+> Lu *et al*., (2017,char. 10), Lu *et al*., (2016; char. 10), Giles *et al*.,(2015; char. 10).
 11. Bone cell lacunae in body scale bases:
 0. present
 1. absent
