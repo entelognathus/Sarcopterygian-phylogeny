@@ -48,7 +48,7 @@
 > Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
 
-##*Squamation*
+## *Squamation*
 
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
@@ -90,7 +90,7 @@
 > Lu *et al*. (2017), Character 27; Lu *et al*. (2016), Character 27; Giles *et al*. (2015), Character 27; Patterson (1982), Character 19; Gardiner (1984), Character 12; Friedman & Brazeau (2010), Character 25.
 28. Sensory line canal: 0. perforates scales; 1. passes between scales; 2. C-shaped scales.
 > Lu *et al*. (2017), Character 28; Lu *et al*. (2016), Character 28; Giles *et al*. (2015), Character 28; Davis *et al*. (2012), Character 15.
-##*Dermal bones of the skull*
+## *Dermal bones of the skull*
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
 > Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*. 
