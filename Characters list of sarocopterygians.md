@@ -5,12 +5,10 @@
 > Lu *et al*., (2017;char. 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1).
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
 > Lu *et al*., (2017,char 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1), Maisey	(2001; char.	17),	Pradel	*et	al*.,	(2011; character 0).
-3. Perichondral bone:
-0. present
-1. absent
-4. Extensive endochondral ossification:
-0. absent
-1. present
+3. Perichondral bone: 0. present; 1. absent.
+> Lu *et al*., (2017,char 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1).
+4. Extensive endochondral ossification: 0. absent; 1. present.
+> 
 5. Enamel(oid) present on dermal bones and scales:
 0. absent
 1. present
