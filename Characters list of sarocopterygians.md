@@ -3,7 +3,7 @@
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 > Lu *et al*.(2017), Character 1; Lu *et al*. (2016), Character 1; Giles *et al*. (2015), Character 1; Davis *et al*. (2012), Character 1.
->
+> - Giles *et al*. (2015): Based on	our	examination	of material	of *Howqualepis*, we are convinced	that the hard	tissue surrounding the braincase and other	endoskeletal structures	in this genus	is not prismatic calcified	cartilage. We therefore	revise the code for this genus to	'0'.
 > - Zhujiangyuan porolepiform:
 
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
@@ -13,27 +13,31 @@
 
 3. Perichondral bone: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 3; Lu *et al*. (2016), Character 3; Giles *et al*. (2015), Character 3; Davis *et al*. (2012), Character 2.
-> 
+> - Giles *et al*. (2015): Presence	of perichondral	bone in	*Yunnanolepis* is	reported by Zhu (1996).
 > - Zhujiangyuan porolepiform:
 
 4. Extensive endochondral ossification: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 4, Lu *et al*. (2016), Character 4; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 3.
->
+> - Giles *et al*. (2015): *Dicksonosteus* and	*Macropetalichthys* are	scored	'0'. Even	while	some internal ossification has been	reported in	these	taxa (Stensiö 1925; Goujet 1984), it	hardly qualifies as being	extensive, and the interpretation as	endochondral bone	is dubious.
 > - Zhujiangyuan porolepiform:
 
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 5; Lu *et al*. (2016), Character 5; Giles *et al*. (2015), Character 5; Friedman (2007), Character 131.
->
+> - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
 > - Zhujiangyuan porolepiform:
 6. Enamel: 0. single-layered; 1. multi-layered.
 >  Lu *et al*. (2017), Character 6; Lu *et al*. (2016), Character 6; Giles *et al*. (2015), Character 6; Friedman (2007), Character 138.
+> - Giles *et al*. (2015): See notes above for character 5.
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
 > Lu *et al*. (2017), Character 7; Lu *et al*. (2016), Character 7; Giles *et al*. (2015), Character 7; Friedman (2007), Character 195.
+> - Giles *et al*. (2015): See notes above for character 5.
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 8; Lu *et al*. (2016), Character 8; Giles *et al*. (2015), Character 8.
 > - Lu *et al*. (2016; 2017): The previous formulation of this character referenced an extensive pore canal network. However, this leaves assessment of presence and absence ambiguous based on subjective interpretations of when such a network might be considered ‘extensive’. Instead, we have reformulated this character to capture those instances in which cavities connect with the outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for *Cassidiceps*, *Euthacanthus*, *Helodus*, *Homalacanthus*, *Ischnacanthus*, *Janusiscus*, *Kathemacanthus*, *Kentuckia*, *Latviacanthus*, ‘*Ligualepis*’, *Mesacanthus*, *Onychodus*, *Pterichthyodes*, *Tristychius*; from ‘1’ to ‘0’ in *Dialipina*, *Poracanthodes*; from ‘0’ to ‘?’ in *Guiyu*, *Jagorina*, *Moythomasia*.
+> - Giles *et al*. (2015): See notes above for character 5. Extensive	pore	canal	networks represent a key component of	the	complex	tissue type	known	as	cosmine, but networks	of vascular	canals that	open to	the	surface	of bones and	scales by	pores	are	widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also	found	in a range of	taxa including	probable stem	osteichthyans (e.g.	*Ligulalepis sensu stricto*; Schultze 1968: figs 1-4),	acanthodians (e.g. *Poracanthodes*;	Valiukevicius 1992: figs 4, 9),	and	osteostracans	(e.g.	*Tremataspis*, Denison 1947: fig. 1).	Sarcopterygian pore-canal	networks are distinguished from these	other	examples	in the density of	pore canals, and the flask-like	shape	of these structures.	
 9. Dentinous tissue: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 9; Lu *et al*. (2016), Character 9; Giles *et al*. (2015), Character 9; Davis *et al*. (2012), Character 4.
+> - Giles *et al*. (2015): Modified	based	on Giles et al.	(2013).	*Onychoselache* and	*Tamiobatis* are re-scored '?' based on	the	absence	of figured	material documenting this	condition. Gross (1947) describes	dentine	tubules	seen in	sections through the scales	of *Mesacanthus* and *Ischnacanthus*.	
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
 > Lu *et al*. (2017), Character 10; Lu *et al*. (2016), Character 10; Giles *et al*. (2015), Character 10; Davis *et al*. (2012), Character 5.
 11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
