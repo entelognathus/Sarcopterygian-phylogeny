@@ -96,23 +96,23 @@
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 38; Lu *et al*. (2016), Character 38; Giles *et al*. (2015), Character 38; Davis *et al*. (2012), Character 21.
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 39), Lu *et al*., (2016; char. 39), Giles *et al*.,(2015; char. 39), Davis *et al*., (2012; char. 22).
+> Lu *et al*. (2017), Character 39; Lu *et al*. (2016), Character 39; Giles *et al*. (2015), Character 39; Davis *et al*. (2012), Character 22.
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
-> Lu *et al*., (2017,char. 40), Lu *et al*., (2016; char. 40), Giles *et al*.,(2015; char. 40).
+> Lu *et al*. (2017), Character 40; Lu *et al*. (2016), Character 40; Giles *et al*. (2015), Character 40.
 41. Pineal opening perforation in dermal skull roof: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 41), Lu *et al*., (2016; char. 41), Giles *et al*.,(2015; char. 41), Davis *et al*., (2012; char. 25).
+> Lu *et al*. (2017), Character 41; Lu *et al*. (2016; ), Character 41; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 25.
 42. Dermal plate associated with pineal eminence or foramen: 0. contributes to orbital margin; 1. plate bordered laterally by skull roofing bones.
-> Lu *et al*., (2017,char. 42), Lu *et al*., (2016; char. 42), Giles *et al*.,(2015; char. 42).
+> Lu *et al*. (2017), Character 42; Lu *et al*. (2016), Character 42; Giles *et al*. (2015), Character 42.
 43. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): 0. absent; 1. present.
-> Lu *et al*., (2017,char. 43), Lu *et al*., (2016; char. 43), Giles *et al*.,(2015; char. 43), Davis *et al*., (2012; char. 23).
+> Lu *et al*. (2017), Character 43; Lu *et al*. (2016), Character 43; Giles *et al*. (2015), Character 43; Davis *et al*. (2012), Character 23.
 44. Broad supraorbital vaults: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 44), Lu *et al*., (2016; char. 44), Giles *et al*.,(2015; char. 44), Dennis & Miles, (1981; char. 16).
+> Lu *et al*. (2017), Character 44; Lu *et al*. (2016), Character 44; Giles *et al*. (2015), Character 44; Dennis & Mile, (1981), Character 16.
 45. Median commissure between supraorbital sensory lines: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 45), Lu *et al*., (2016; char. 45), Giles *et al*.,(2015; char. 45).
+> Lu *et al*. (2017), Character 45; Lu *et al*. (2016), Character 45; Giles *et al*. (2015), Character 45.
 46. Dermal cranial joint at level of sphenoid-otic junction: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 46), Lu *et al*., (2016; char. 46), Giles *et al*.,(2015; char. 46), Cloutier & Ahlberg, (1996; char. 81),	Ahlberg & Johanson, (1998; char. 71),	Zhu	*et al*.,	(2001; char. 20),	Zhu	&	Schultze, (2001; char. 31), Zhu & Yu,	(2002; char. 20),	Zhu & Ahlberg, (2004; char. 71), Daeschler *et	al*., (2006; char. 50),	Long *et al*., (2006; char. 3),	Zhu *et	al*., (2006; char. 24), Friedman, (2007;	char. 19),	Zhu	*et	al*.,	(2009; char. 21),	Zhu	*et	al*., (2013; char. 147).
+> Lu *et al*. (2017), Character 46; Lu *et al*. (2016), Character 46; Giles *et al*. (2015), Character 46; Cloutier & Ahlberg (1996), Character 81;	Ahlberg & Johanson (1998), Character 71;	Zhu	*et al*.	(2001), Character 20;	Zhu	&	Schultze (2001), Character 31; Zhu & Yu	(2002), Character 20;	Zhu & Ahlberg (2004), Character 71; Daeschler *et	al*. (2006), Character 50;	Long *et al*. (2006), Character 3;	Zhu *et	al*. (2006), Character 24; Friedman (2007), Character 19;	Zhu	*et	al*.	(2009), Character 21;	Zhu	*et	al*. (2013), Character 147.
 47. Otic canal extends through postparietals: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 47), Lu *et al*., (2016; char. 47), Giles *et al*.,(2015; char. 46),
+> Lu *et al*. (2017), Character 47; Lu *et al*. (2016), Character 47; Giles *et al*. (2015), Character 47; Cloutier	&	Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37;	Zhu	& Yu (2002), Character 37;	Friedman (2007), Character 40.
 48. Number of bones of skull roof lateral to postparietals:
 We have modified this character to take into account the condition in Powichthys and 
 lungfishes (new additions to the matrix), which show more than two bones lateral to the 
