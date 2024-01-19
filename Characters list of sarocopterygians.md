@@ -154,7 +154,7 @@ Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al
 65. Branchiostegal ossifications: 0. ornamented; 1. unornamented.
 >Lu *et al*. (2017), Character 65; Lu *et al*. (2016), Character 65; Giles *et al*. (2015), Character 65; Davis *et al*. (2012), Character 30.
 > 
-> -Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
+> - Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
 66. Imbricated branchiostegal ossifications:
 0. absent
 1. present
