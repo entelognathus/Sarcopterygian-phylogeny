@@ -78,23 +78,23 @@
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
 > Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
-> Lu *et al*., (2017,char. 30), Lu *et al*., (2016; char. 30), Giles *et al*.,(2015; char. 30), Davis *et al*., (2012; char. 16).
+> Lu *et al*. (2017), Character 30; Lu *et al*. (2016), Character 30; Giles *et al*. (2015), Character 30; Davis *et al*. (2012), Character 16.
 31. Sensory canals/grooves: 0. contained within the thickness of dermal bones; 1. contained in prominent ridges on visceral surface of bone.
-> Lu *et al*., (2017,char. 31), Lu *et al*., (2016; char. 31), Giles *et al*.,(2015; char. 31),  Goujet, (1984b; unnumbered	character), Brazeau, (2009; 17).
+> Lu *et al*. (2017), Character 31; Lu *et al*. (2016), Character 31; Giles *et al*. (2015), Character 31; Goujet (1984b), unnumbered	character; Brazeau (2009), Character 17.
 32. Jugal portion of infraorbital canal joins supramaxillary canal: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 32), Lu *et al*., (2016; char. 32), Giles *et al*.,(2015; char. 32), Davis *et al*., (2012; char. 17).
+> Lu *et al*. (2017), Character 32; Lu *et al*. (2016), Character 32; Giles *et al*. (2015), Character 32; Davis *et al*. (2012), Character 17.
 33. Dermal skull roof: 0. includes large dermal plates; 1. consists of undifferentiated plates or tesserae.
-> Lu *et al*., (2017,char. 33), Lu *et al*., (2016; char. 33), Giles *et al*.,(2015; char. 33), Davis *et al*., (2012; char. 18).
+> Lu *et al*. (2017), Character 33; Lu *et al*. (2016), Character 33; Giles *et al*. (2015), Character 33; Davis *et al*. (2012), Character 18.
 34. Anterior pit line of dermal skull roof: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 34), Lu *et al*., (2016; char. 34), Giles *et al*.,(2015; char. 34).
+> Lu *et al*. (2017), Character 34; Lu *et al*. (2016), Character 34; Giles *et al*. (2015), Character 34.
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
-> Lu *et al*., (2017,char. 35), Lu *et al*., (2016; char. 35), Giles *et al*.,(2015; char. 35), Davis *et al*., (2012; char. 19).
+> Lu *et al*. (2017), Character 35; Lu *et al*. (2016), Character 35; Giles *et al*. (2015), Character 35; Davis *et al*. (2012), Character 19.
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
-> Lu *et al*., (2017,char. 36), Lu *et al*., (2016; char. 36), Giles *et al*.,(2015; char. 36).
+> Lu *et al*. (2017), Character 36; Lu *et al*. (2016), Character 36; Giles *et al*. (2015), Character 36.
 37. Extent of dermatocranial cover: 0. complete; 1. incomplete (limited to skull roof).
-> Lu *et al*., (2017,char. 37), Lu *et al*., (2016; char. 37), Giles *et al*.,(2015; char. 37), Davis *et al*., (2012; char. 20).
+> Lu *et al*. (2017), Character 37; Lu *et al*. (2016), Character 37; Giles *et al*. (2015), Character 37; Davis *et al*. (2012), Character 20.
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 38), Lu *et al*., (2016; char. 38), Giles *et al*.,(2015; char. 38), Davis *et al*., (2012; char. 21).
+> Lu *et al*. (2017), Character 38; Lu *et al*. (2016), Character 38; Giles *et al*. (2015), Character 38; Davis *et al*. (2012), Character 21.
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 39), Lu *et al*., (2016; char. 39), Giles *et al*.,(2015; char. 39), Davis *et al*., (2012; char. 22).
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
