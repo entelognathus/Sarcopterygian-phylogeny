@@ -133,12 +133,12 @@
 > Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
 > Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
 57. Vertical canal associated with preopercular/suborbital canal: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
+Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
 58. Enlarged postorbital tessera separate from orbital series: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 58; Lu *et al*. (2016), Character 58; Giles *et al*. (2015), Character 58; Davis *et al*. (2012), Character 26.
 59. Extent of maxilla along cheek: 0. to posterior margin of cheek; 1. cheek bones exclude maxilla from posterior margin of cheek.
 > Lu *et al*. (2017), Character 59; Lu *et al*. (2016), Character 59; Giles *et al*. (2015), Character 59; Friedman (2007), Character 151; Zhu *et al*.	(2009), Character 81; Zhu	*et al*. (2013), Character 182.
-> Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
+Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
 60. Dermal neck joint:
 0. overlap
 1. ginglymoid
