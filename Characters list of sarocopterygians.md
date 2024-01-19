@@ -113,28 +113,16 @@
 > Lu *et al*. (2017), Character 46; Lu *et al*. (2016), Character 46; Giles *et al*. (2015), Character 46; Cloutier & Ahlberg (1996), Character 81;	Ahlberg & Johanson (1998), Character 71;	Zhu	*et al*.	(2001), Character 20;	Zhu	&	Schultze (2001), Character 31; Zhu & Yu	(2002), Character 20;	Zhu & Ahlberg (2004), Character 71; Daeschler *et	al*. (2006), Character 50;	Long *et al*. (2006), Character 3;	Zhu *et	al*. (2006), Character 24; Friedman (2007), Character 19;	Zhu	*et	al*.	(2009), Character 21;	Zhu	*et	al*. (2013), Character 147.
 47. Otic canal extends through postparietals: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 47; Lu *et al*. (2016), Character 47; Giles *et al*. (2015), Character 47; Cloutier	&	Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37;	Zhu	& Yu (2002), Character 37;	Friedman (2007), Character 40.
-48. Number of bones of skull roof lateral to postparietals:
-We have modified this character to take into account the condition in Powichthys and 
-lungfishes (new additions to the matrix), which show more than two bones lateral to the 
-postparietals.
-0. two
-1. one
-2. more than two
-49. Suture between paired skull roofing bones (centrals of placoderms; postparietals of 
-osteichthyans):
-0. straight
-1. sinusoidal
-50. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate:
-0. absent
-1. present
-2. paranuchals precluded from nuchal by centrals
-3. no median posterior skull roof bone
-51. Paired pits on ventral surface of nuchal plate:
-0. absent
-1. present
-52. Sclerotic ring:
-0. absent
-1. present
+48. Number of bones of skull roof lateral to postparietals: 0. two; 1. one; 2. more than two.
+> Lund *et al*. (1995), Character 21;	Cloutier & Ahlberg (1996), Character 37; Ahlberg & Johanson (1998), Character 49;	Zhu	&	Ahlberg	(2004), Character 49; Schultze & Cumbaa	(2001), Character 74;	Zhu	&	Schultze	(2001:	character	27), Zhu et al. (2001), Character 19; Zhu & Yu (2002), Character 19;	Cloutier & Arratia (2004), Character 75;	Daeschler *et al*. (2006), Character 39; Zhu *et	al*. (2006), Character 22; Friedman (2007), Character 18;	Zhu	*et al*. (2009), Character 27.
+49. Suture between paired skull roofing bones (centrals of placoderms; postparietals of osteichthyans): 0. straight; 1. sinusoidal.
+> Lu *et al*. (2017), Character 49; Lu *et al*. (2016), Character 49; Giles *et al*. (2015), Character 49; Miles & Dennis (1979), Character 6.
+50. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: 0. absent; 1. present; 2. paranuchals precluded from nuchal by centrals; 3. no median posterior skull roof bone.
+> Lu *et al*. (2017), Character 50; Lu *et al*. (2016), Character 50; Giles *et al*. (2015), Character 50. 
+51. Paired pits on ventral surface of nuchal plate: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 51; Lu *et al*. (2016), Character 51; Giles *et al*. (2015), Character 51; Miles & Dennis (1979), Character 10;	Dennis & Miles (1981), Character 10.
+52. Sclerotic ring: 0. absent; 1. present.
+> 
 53. Consolidated cheek plates:
 0. absent
 1. present
