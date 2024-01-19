@@ -18,9 +18,9 @@
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
 > Lu *et al*., (2017,char. 8), Lu *et al*., (2016; char. 8), Giles *et al*.,(2015; char. 8).
 9. Dentinous tissue: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 9), Lu *et al*., (2016; char. 9), Giles *et al*.,(2015; char. 9).
+> Lu *et al*., (2017,char. 9), Lu *et al*., (2016; char. 9), Giles *et al*.,(2015; char. 9), Davis *et al*., (2012; char. 4).
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
-> Lu *et al*., (2017,char. 10), Lu *et al*., (2016; char. 10), Giles *et al*.,(2015; char. 10).
+> Lu *et al*., (2017,char. 10), Lu *et al*., (2016; char. 10), Giles *et al*.,(2015; char. 10), Davis *et al*., (2012; char. 5).
 11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
 > Burrow	&	Turner, (2010; char. 61), Lu *et al*., (2017,char. 11), Lu *et al*., (2016; char. 11), Giles *et al*.,(2015; char. 11).
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
@@ -68,46 +68,35 @@
 32. Jugal portion of infraorbital canal joins supramaxillary canal: 0. present; 1. absent.
 > Lu *et al*., (2017,char. 32), Lu *et al*., (2016; char. 32), Giles *et al*.,(2015; char. 32), Davis *et al*., (2012; char. 17).
 33. Dermal skull roof: 0. includes large dermal plates; 1. consists of undifferentiated plates or tesserae.
-> Lu *et al*., (2017,char. 33), Lu *et al*., (2016; char. 33), Giles *et al*.,(2015; char. 33).
+> Lu *et al*., (2017,char. 33), Lu *et al*., (2016; char. 33), Giles *et al*.,(2015; char. 33), Davis *et al*., (2012; char. 18).
 34. Anterior pit line of dermal skull roof: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 34), Lu *et al*., (2016; char. 34), Giles *et al*.,(2015; char. 34).
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
-> Lu *et al*., (2017,char. 35), Lu *et al*., (2016; char. 35), Giles *et al*.,(2015; char. 35).
+> Lu *et al*., (2017,char. 35), Lu *et al*., (2016; char. 35), Giles *et al*.,(2015; char. 35), Davis *et al*., (2012; char. 19).
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
 > Lu *et al*., (2017,char. 36), Lu *et al*., (2016; char. 36), Giles *et al*.,(2015; char. 36).
 37. Extent of dermatocranial cover: 0. complete; 1. incomplete (limited to skull roof).
-> Lu *et al*., (2017,char. 37), Lu *et al*., (2016; char. 37), Giles *et al*.,(2015; char. 37).
+> Lu *et al*., (2017,char. 37), Lu *et al*., (2016; char. 37), Giles *et al*.,(2015; char. 37), Davis *et al*., (2012; char. 20).
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 38), Lu *et al*., (2016; char. 38), Giles *et al*.,(2015; char. 38).
-39. Endolymphatic ducts with oblique course through dermal skull bones:
-0. absent
-1. present
-40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate):
-0. within median bone
-1. on bones flanking the median bone (e.g. paranuchals)
-41. Pineal opening perforation in dermal skull roof:
-0. present
-1. absent
-42. Dermal plate associated with pineal eminence or foramen:
-0. contributes to orbital margin
-1. plate bordered laterally by skull roofing bones
-43. Series of paired median skull roofing bones that meet at the dorsal midline of the 
-skull (rectilinear skull roof pattern):
-0. absent
-1. present
-44. Broad supraorbital vaults:
-0. absent
-1. present
-45. Median commissure between supraorbital sensory lines:
-0. absent
-1. present
-46. Dermal cranial joint at level of sphenoid-otic junction:
-Changed from ‘?‘ to ‘-’ for Chondrenchelys.
-0. absent
-1. present
-47. Otic canal extends through postparietals:
-0. absent
-1. present
+> Lu *et al*., (2017,char. 38), Lu *et al*., (2016; char. 38), Giles *et al*.,(2015; char. 38), Davis *et al*., (2012; char. 21).
+39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 39), Lu *et al*., (2016; char. 39), Giles *et al*.,(2015; char. 39), Davis *et al*., (2012; char. 22).
+40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
+> Lu *et al*., (2017,char. 40), Lu *et al*., (2016; char. 40), Giles *et al*.,(2015; char. 40).
+41. Pineal opening perforation in dermal skull roof: 0. present; 1. absent.
+> Lu *et al*., (2017,char. 41), Lu *et al*., (2016; char. 41), Giles *et al*.,(2015; char. 41), Davis *et al*., (2012; char. 25).
+42. Dermal plate associated with pineal eminence or foramen: 0. contributes to orbital margin; 1. plate bordered laterally by skull roofing bones.
+> Lu *et al*., (2017,char. 42), Lu *et al*., (2016; char. 42), Giles *et al*.,(2015; char. 42).
+43. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): 0. absent; 1. present.
+> Lu *et al*., (2017,char. 43), Lu *et al*., (2016; char. 43), Giles *et al*.,(2015; char. 43), Davis *et al*., (2012; char. 23).
+44. Broad supraorbital vaults: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 44), Lu *et al*., (2016; char. 44), Giles *et al*.,(2015; char. 44), Dennis & Miles, (1981; char. 16).
+45. Median commissure between supraorbital sensory lines: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 45), Lu *et al*., (2016; char. 45), Giles *et al*.,(2015; char. 45).
+46. Dermal cranial joint at level of sphenoid-otic junction: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 46), Lu *et al*., (2016; char. 46), Giles *et al*.,(2015; char. 46), Cloutier & Ahlberg, (1996; char. 81),	Ahlberg & Johanson, (1998; char. 71),	Zhu	*et al*.,	(2001; char. 20),	Zhu	&	Schultze, (2001; char. 31), Zhu & Yu,	(2002; char. 20),	Zhu & Ahlberg, (2004; char. 71), Daeschler *et	al*., (2006; char. 50),	Long *et al*., (2006; char. 3),	Zhu *et	al*., (2006; char. 24), Friedman, (2007;	char. 19),	Zhu	*et	al*.,	(2009; char. 21),	Zhu	*et	al*., (2013; char. 147).
+47. Otic canal extends through postparietals: 0. absent; 1. present.
+> Lu *et al*., (2017,char. 47), Lu *et al*., (2016; char. 47), Giles *et al*.,(2015; char. 46),
 48. Number of bones of skull roof lateral to postparietals:
 We have modified this character to take into account the condition in Powichthys and 
 lungfishes (new additions to the matrix), which show more than two bones lateral to the 
