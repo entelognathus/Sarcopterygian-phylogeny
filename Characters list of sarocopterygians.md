@@ -31,6 +31,7 @@
 > Lu *et al*. (2017), Character 7; Lu *et al*. (2016), Character 7; Giles *et al*. (2015), Character 7; Friedman (2007), Character 195.
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 8; Lu *et al*. (2016), Character 8; Giles *et al*. (2015), Character 8.
+> - Lu *et al*. (2016; 2017): The previous formulation of this character referenced an extensive pore canal network. However, this leaves assessment of presence and absence ambiguous based on subjective interpretations of when such a network might be considered ‘extensive’. Instead, we have reformulated this character to capture those instances in which cavities connect with the outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for *Cassidiceps*, *Euthacanthus*, *Helodus*, *Homalacanthus*, *Ischnacanthus*, *Janusiscus*, *Kathemacanthus*, *Kentuckia*, *Latviacanthus*, ‘*Ligualepis*’, *Mesacanthus*, *Onychodus*, *Pterichthyodes*, *Tristychius*; from ‘1’ to ‘0’ in *Dialipina*, *Poracanthodes*; from ‘0’ to ‘?’ in *Guiyu*, *Jagorina*, *Moythomasia*.
 9. Dentinous tissue: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 9; Lu *et al*. (2016), Character 9; Giles *et al*. (2015), Character 9; Davis *et al*. (2012), Character 4.
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
