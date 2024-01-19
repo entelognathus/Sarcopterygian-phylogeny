@@ -47,15 +47,15 @@
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
-> Lu *et al*., (2017,char. 15), Lu *et al*., (2016; char. 15), Giles *et al*.,(2015; char. 15), Davis *et al*., (2012; char. 8).
+> Lu *et al*. (2017), Character 15; Lu *et al*. (2016), Character 15; Giles *et al*. (2015), Character 15; Davis *et al*. (2012), Character 8.
 16. Body scale growth concentric: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 16), Lu *et al*., (2016; char. 16), Giles *et al*.,(2015; char. 16), Davis *et al*., (2012; char. 9).
+> Lu *et al*. (2017), Character 16; Lu *et al*. (2016), Character 16; Giles *et al*. (2015), Character 16; Davis *et al*. (2012), Character 9.
 17. Generations of odontodes: 0. buried; 1. areally growing; 2. resorbed.
-> Lu *et al*., (2017,char. 17), Lu *et al*., (2016; char. 17), Giles *et al*.,(2015; char. 17).
+> Lu *et al*. (2017), Character 17; Lu *et al*. (2016), Character 17; Giles *et al*. (2015), Character 17.
 18. Body scales with peg-and-socket articulation: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 18), Lu *et al*., (2016; char. 18), Giles *et al*.,(2015; char. 18), Davis *et al*., (2012; char. 10).
+> Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
 19. Scale peg: 0. broad; 1. narrow.
-> Lu *et al*., (2017,char. 19), Lu *et al*., (2016; char. 19), Giles *et al*.,(2015; char. 19), Patterson, (1982; char. 5), Cloutier & Ahlberg, (1996; char. 4), Dietze, (2000; char. 57), Schultze & Cumbaa, (2001; char. 88), Zhu & Schultze (2001; char. 199), Zhu *et	al*., (2001; char. 145), Zhu & Yu, (2002; char. 145), Cloutier & Arratia, (2004; char. 178), Zhu *et al*., (2006; char. 112), Friedman, (2007; char. 128), Brazeau, (2009; char. 139), Zhu *et al*., (2009; char. 139), Zhu *et al*., (2013; char. 143).
+> Lu *et al*. (2017), Character 19; Lu *et al*. (2016), Character 19; Giles *et al*. (2015), Character 19; Patterson (1982), Character 5; Cloutier & Ahlberg (1996), Character 4; Dietze (2000), Character 57; Schultze & Cumbaa (2001), Character 88; Zhu & Schultze (2001), Character 199; Zhu *et	al*. (2001), Character 145; Zhu & Yu (2002), Character 145; Cloutier & Arratia (2004), Character 178; Zhu *et al*. (2006), Character 112; Friedman (2007), Character 128; Brazeau (2009), Character 139; Zhu *et al*. (2009), Character 139; Zhu *et al*. (2013), Character 143.
 20. Anterodorsal process on scale: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 20), Lu *et al*., (2016; char. 20), Giles *et al*.,(2015; char. 20), Patterson, (1982; char. 4), Lauder & Liem, (1983; char. 4), Gardiner, (1984; character 1), Gardiner & Schaeffer, (1989;	char. A20), Schultze, (1992; char. 2,	in part), Schultze & Cumbaa,	(2001; char. 89),	Zhu	&	Schultze, (2001; char. 201), Zhu *et al*., (2001; char.	146),	Zhu	&	Yu (2002; char. 146),	Cloutier & Arratia (2004; char. 179), 	Friedman & Blom (2006; char. 33), Zhu *et al*.	(2006; char. 113), Friedman, (2007;	char.129), Zhu *et al*., (2009; char. 140), Zhu *et al*., (2013, char. 144).
 21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
