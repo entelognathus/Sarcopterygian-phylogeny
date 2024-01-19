@@ -3,12 +3,20 @@
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 > Lu *et al*.(2017), Character 1; Lu *et al*. (2016), Character 1; Giles *et al*. (2015), Character 1; Davis *et al*. (2012), Character 1.
+> Zhujiangyuan porolepiform:
+
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
 > Lu *et al*. (2017), Character 2; Lu *et al*. (2016), Character 2; Giles *et al*. (2015), Character 2; Maisey	(2001), Character 2;	Pradel	*et	al*.	(2011), Character 0.
+> Zhujiangyuan porolepiform:
+
 3. Perichondral bone: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 3; Lu *et al*. (2016), Character 3; Giles *et al*. (2015), Character 3; Davis *et al*. (2012), Character 2.
+> Zhujiangyuan porolepiform:
+
 4. Extensive endochondral ossification: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 4, Lu *et al*. (2016), Character 4; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 3.
+> Zhujiangyuan porolepiform:
+
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 5; Lu *et al*. (2016), Character 5; Giles *et al*. (2015), Character 5; Friedman (2007), Character 131.
 6. Enamel: 0. single-layered; 1. multi-layered.
