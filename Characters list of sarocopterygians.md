@@ -39,9 +39,10 @@
 > Burrow	&	Turner (2010), Character 61; Lu *et al*. (2017), Character 11; Lu *et al*. (2016), Character 11; Giles *et al*. (2015), Character 11.
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
 > Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
+
 ##*Squamation*
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 13), Lu *et al*., (2016; char. 13), Giles *et al*.,(2015; char. 13), Davis *et al*., (2012; char. 7).
+> Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*., (2017,char. 14), Lu *et al*., (2016; char. 14), Giles *et al*.,(2015; char. 14).
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
