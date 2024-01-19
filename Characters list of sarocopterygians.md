@@ -2,29 +2,29 @@
 
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
-> Lu *et al*., (2017;char. 1), Lu *et al*., (2016; char. 1), Giles *et al*.,(2015; char. 1), Davis *et al*., (2012; char. 1).
+> Lu *et al*.(2017), Character 1; Lu *et al*. (2016), Character 1; Giles *et al*. (2015), Character 1; Davis *et al*. (2012), Character 1.
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
-> Lu *et al*., (2017,char. 2), Lu *et al*., (2016; char. 2), Giles *et al*.,(2015; char. 2), Maisey	(2001; char.	17),	Pradel	*et	al*.,	(2011; character 0).
+> Lu *et al*. (2017), Character 2; Lu *et al*. (2016), Character 2; Giles *et al*. (2015), Character 2; Maisey	(2001), Character 2;	Pradel	*et	al*.	(2011), Character 0.
 3. Perichondral bone: 0. present; 1. absent.
-> Lu *et al*., (2017,char. 3), Lu *et al*., (2016; char. 3), Giles *et al*.,(2015; char. 3), Davis *et al*., (2012; char. 2).
+> Lu *et al*. (2017), Character 3; Lu *et al*. (2016), Character 3; Giles *et al*. (2015), Character 3; Davis *et al*. (2012), Character 2.
 4. Extensive endochondral ossification: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 4), Lu *et al*., (2016; char. 4), Giles *et al*.,(2015; char. 4), Davis *et al*., (2012; char. 3).
+> Lu *et al*. (2017), Character 4, Lu *et al*. (2016), Character 4; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 3.
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 5), Lu *et al*., (2016; char. 5), Giles *et al*.,(2015; char. 5), Friedman, (2007; char. 131).
+> Lu *et al*. (2017), Character 5; Lu *et al*. (2016), Character 5; Giles *et al*. (2015), Character 5; Friedman (2007), Character 131.
 6. Enamel: 0. single-layered; 1. multi-layered.
->  Lu *et al*., (2017,char. 6), Lu *et al*., (2016; char. 6), Giles *et al*.,(2015; char. 6), Friedman, (2007; char. 138).
+>  Lu *et al*. (2017), Character 6; Lu *et al*. (2016), Character 6; Giles *et al*. (2015), Character 6; Friedman (2007), Character 138.
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
-> Lu *et al*., (2017,char. 7), Lu *et al*., (2016; char. 7), Giles *et al*.,(2015; char. 7), Friedman, (2007; char. 195).
+> Lu *et al*. (2017), Character 7; Lu *et al*. (2016), Character 7; Giles *et al*. (2015), Character 7; Friedman (2007), Character 195.
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
-> Lu *et al*., (2017,char. 8), Lu *et al*., (2016; char. 8), Giles *et al*.,(2015; char. 8).
+> Lu *et al*. (2017), Character 8; Lu *et al*. (2016), Character 8; Giles *et al*. (2015), Character 8.
 9. Dentinous tissue: 0. absent; 1. present.
-> Lu *et al*., (2017,char. 9), Lu *et al*., (2016; char. 9), Giles *et al*.,(2015; char. 9), Davis *et al*., (2012; char. 4).
+> Lu *et al*. (2017), Character 9; Lu *et al*. (2016), Character 9; Giles *et al*. (2015), Character 9; Davis *et al*. (2012), Character 4.
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
-> Lu *et al*., (2017,char. 10), Lu *et al*., (2016; char. 10), Giles *et al*.,(2015; char. 10), Davis *et al*., (2012; char. 5).
+> Lu *et al*. (2017), Character 10; Lu *et al*. (2016), Character 10; Giles *et al*. (2015), Character 10; Davis *et al*. (2012), Character 5.
 11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
-> Burrow	&	Turner, (2010; char. 61), Lu *et al*., (2017,char. 11), Lu *et al*., (2016; char. 11), Giles *et al*.,(2015; char. 11).
+> Burrow	&	Turner (2010), Character 61; Lu *et al*. (2017), Character 11; Lu *et al*. (2016), Character 11; Giles *et al*. (2015), Character 11.
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
-> Burrow	&	Turner, (2010; char. 60), Lu *et al*., (2017,char. 12), Lu *et al*., (2016; char. 12), Giles *et al*.,(2015; char. 12).
+> Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
 ##*Squamation*
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*., (2017,char. 13), Lu *et al*., (2016; char. 13), Giles *et al*.,(2015; char. 13), Davis *et al*., (2012; char. 7).
