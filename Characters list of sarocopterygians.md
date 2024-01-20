@@ -312,40 +312,33 @@
 >   Lu *et al*. (2017), Character 108; Lu *et al*. (2016), Character 108; Giles *et al*. (2015), Character 108; Davis *et al*. (2012), Character 53.
 > - Giles *et al*. (2015): Previously coded as of uncertain condition, *Tetanopsyrus*, *Pucapampella*, *Poracanthodes*, and *Ptomacanthus* are scored as '0'.
 ## *Neurocranium and associated dermal ossifications*
-109. Precerebral fontanelle:
-0. absent
-1. present
-110. Median dermal bone of palate (parasphenoid):
-0. absent
-1. present
-111. Parasphenoid:
-0. lozenge-shaped
-1. splint-shaped
-2. diamond-shaped
-112. Multifid anterior margin of parasphenoid denticle plate:
-0. absent
-1. present
-113. Enlarged ascending processes of parasphenoid:
-0. absent
-1. present
-114. Buccohypophysial canal in parasphenoid:
-0. single
-1. paired
-115. Nasal opening(s):
-0. dorsal, placed between orbits
-1. ventral and anterior to orbit
-116. Posterior nostril:
-0. separated from orbital fenestra
-1. confluent with orbital fenestra
-117. Olfactory tracts:
-0. short, with olfactory capsules situated close to telencephalon cavity
-1. elongate and tubular (much longer than wide)
-118. Prominent pre-orbital rostral expansion of the neurocranium:
-0. present
-1. absent
-119. Pronounced sub-ethmoidal keel:
-0. absent
-1. present
+109. Precerebral fontanelle: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 109; Lu *et al*. (2016), Character 109; Giles *et al*. (2015), Character 109; Davis *et al*. (2012), Character 54.
+110. Median dermal bone of palate (parasphenoid): 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 110; Lu *et al*. (2016), Character 110; Giles *et al*. (2015), Character 110; Davis *et al*. (2012), Character 55.
+> - Giles *et al*. (2015): Parasphenoids are not preserved for ‘*Ligualepis*’ (Basden and Young 2001), *Pucapampella* (Maisey 2001), or *Janusiscus*. We follow the convention, applied to other taxa in our analysis known from well‐preserved neurocrania lacking parasphenoids, and code these genera as '0'.
+111. Parasphenoid: 0. lozenge-shaped; 1. splint-shaped; 2. diamond-shaped.
+>   Lu *et al*. (2017), Character 111; Lu *et al*. (2016), Character 111; Giles *et al*. (2015), Character 111; Friedman (2007), Character 168; Zhu *et al*. (2009), Character 68.
+112. Multifid anterior margin of parasphenoid denticle plate: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 112; Lu *et al*. (2016), Character 112; Giles *et al*. (2015), Character 112; Friedman (2007), Character 167; Zhu *et al*. (2009), Character 69; Zhu *et al*. (2013), Character 241.
+113. Enlarged ascending processes of parasphenoid: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 113; Lu *et al*. (2016), Character 113; Giles *et al*. (2015), Character 113; Patterson (1982), Character 9; Dietze (2000), Character 54; Schultze & Cumbaa (2001), Character 52; Zhu & Schultze (2001), Character 125; Cloutier & Arratia (2004), Character 123; Friedman & Blom (2006), Character 28; Zhu *et al*. (2006), Character 70; Zhu *et al*. (2009), Character 67; Zhu *et al*. (2013), Character 239.
+114. Buccohypophysial canal in parasphenoid: 0. single;1. paired.
+> Lu *et al*. (2017), Character 114; Lu *et al*. (2016), Character 114; Giles *et al*. (2015), Character 114.
+115. Nasal opening(s): 0. dorsal, placed between orbits; 1. ventral and anterior to orbit.
+> Lu *et al*. (2017), Character 115; Lu *et al*. (2016), Character 115; Giles *et al*. (2015), Character 115; Davis *et al*. (2012), Character 56.
+> - Giles *et al*. (2015): The score for *Austroptyctodus* is changed to '? '. The opening is a dermal structure, and there is no dermal preservation around the nostrils of *Austroptyctodus* (Long 1997).
+116. Posterior nostril: 0. separated from orbital fenestra; 1. confluent with orbital fenestra.
+>   Lu *et al*. (2017), Character 114; Lu *et al*. (2016), Character 114; Giles *et al*. (2015), Character 114; Cloutier & Ahlberg (1996), Character 46; Schultze & Cumbaa (2001), Character 23; Zhu & Schultze (2001), Character 40; Zhu *et al*. (2001), Character 27; Zhu & Yu (2002), Character 27; Friedman & Blom (2006), Character 6; Zhu *et al*. (2006), Character 31; Friedman (2007), Character 25; Zhu *et al*. (2009), Character 8; Zhu *et al*. (2013), Character 152.
+117. Olfactory tracts: 0. short, with olfactory capsules situated close to telencephalon cavity; 1. elongate and tubular (much longer than wide).
+>  Lu *et al*. (2017), Character 117; Lu *et al*. (2016), Character 117; Giles *et al*. (2015), Character 117; Davis *et al*. (2012), Character 57.
+> - Giles *et al*. (2015): Reflecting incomplete neurocranial data, the code for *Austroptyctodus* is changed to '?'. Zhu *et al*. (2013) report short olfactory tracts in *Psarolepis* (IVPP V11490.2), and we revise the coding of this genus to '0'. We also accept their revision of the state in Onychodus to '?'.
+118. Prominent pre-orbital rostral expansion of the neurocranium: 0. present; 1. absent.
+>  Lu *et al*. (2017), Character 118; Lu *et al*. (2016), Character 118; Giles *et al*. (2015), Character 118; Davis *et al*. (2012), Character 58.
+> - Giles *et al*. (2015): *Chondrenchelys* and *Debeerius* changed to '0', contra Davis *et al*. (2012). There is a prominent pre‐orbital expansion in these taxa.
+119. Pronounced sub-ethmoidal keel: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 119; Lu *et al*. (2016), Character 119; Giles *et al*. (2015), Character 119; Davis *et al*. (2012), Character 59.
+> - Giles *et al*. (2015): Here we revise scores presented by Davis *et al*. (2012) for *Debeerius*, *Chondrenchelys*, and *Tamiobatis* to '?'. There are no satisfactory published ventral views of the neurocranium in *Debeerius* (Grogan & Lund 2000) and *Chondrenchelys* (Moy­‐Thomas 1935). *Tamiobatis* preserves part of a structure that might be part of a sub­‐ethmoidal keel, but this is damaged and we adopt a more agnostic stance on the condition in this taxon.
 120. Internasal vacuities:
 0. absent
 1. present
