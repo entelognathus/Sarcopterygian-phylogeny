@@ -53,6 +53,7 @@
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
+> - Giles *et al*. (2015): The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. *Acanthodians* and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-­‐and-­‐socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-­‐shaped scales in osteichthyans. *Poracanthodes* is changed to '? ' because fin webs do not appear to be preserved in articulated specimens(Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1'(pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP41495. *Campbellodus* scored '? '.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
