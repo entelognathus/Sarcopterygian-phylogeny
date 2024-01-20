@@ -56,15 +56,19 @@
 > - Giles *et al*. (2015): The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. *Acanthodians* and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-­‐and-­‐socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-­‐shaped scales in osteichthyans. *Poracanthodes* is changed to '? ' because fin webs do not appear to be preserved in articulated specimens(Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1'(pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP41495. *Campbellodus* scored '? '.
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
+> - Giles *et al*. (2015): Refers to the distinct rectangular shape of the aligned lepidotrichia-­‐like scales. This character is scored contingently on the state of the previous character. *Dialipina* is coded '0'(uncatalogued specimen, Musem für Naturkunde, Berlin).
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
 > Lu *et al*. (2017), Character 15; Lu *et al*. (2016), Character 15; Giles *et al*. (2015), Character 15; Davis *et al*. (2012), Character 8.
+> - Giles *et al*. (2015): *Climatius* is scored '1' based on Ørvig(1967) showing multiple apposed cusps on the body scales of this taxon. *Onychodus* is re-­scored '1'. The scales of *Gemuendina* appear to have only a single external tubercle, implying that they may have been monodontode. However, this is not corroborated by any histological data and so *Gemuendina* is conservatively scored '?'.
 16. Body scale growth concentric: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 16; Lu *et al*. (2016), Character 16; Giles *et al*. (2015), Character 16; Davis *et al*. (2012), Character 9.
 17. Generations of odontodes: 0. buried; 1. areally growing; 2. resorbed.
 > Lu *et al*. (2017), Character 17; Lu *et al*. (2016), Character 17; Giles *et al*. (2015), Character 17.
+> - Giles *et al*. (2015): This character is scored contingently on the presence of polyodontote scales. Taxa displaying monodontote scales are coded as inapplicable.
 18. Body scales with peg-and-socket articulation: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
+> - Giles *et al*. (2015): *Lupopsyrus* is scored '0', consistent with the description by Hanke & Davis (2012).
 19. Scale peg: 0. broad; 1. narrow.
 > Lu *et al*. (2017), Character 19; Lu *et al*. (2016), Character 19; Giles *et al*. (2015), Character 19; Patterson (1982), Character 5; Cloutier & Ahlberg (1996), Character 4; Dietze (2000), Character 57; Schultze & Cumbaa (2001), Character 88; Zhu & Schultze (2001), Character 199; Zhu *et	al*. (2001), Character 145; Zhu & Yu (2002), Character 145; Cloutier & Arratia (2004), Character 178; Zhu *et al*. (2006), Character 112; Friedman (2007), Character 128; Brazeau (2009), Character 139; Zhu *et al*. (2009), Character 139; Zhu *et al*. (2013), Character 143.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
@@ -74,8 +78,10 @@
 21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
 > Lu *et al*. (2017), Character 21; Lu *et al*. (2016), Character 21; Giles *et al*. (2015), Character 21; Davis *et al*. (2012), Character 11.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
+> - Giles *et al*. (2015): *Parexus*, *Brochoadmones*, *Kathemacanthus*, and *Promesacanthus* are scored '0'. *Buchanosteus* is scored '?'. *Tamiobatis* is scored '0' based on the description by Williams (1998). *Dicksonosteus* and *Pterichthyodes* are scored '1' consistent with Goujet (1984, plate14, fig.1) and Hemmings(1978: fig.22). *Gemuendina* is scored '0'. *Psarolepis* is scored '0' based on Qu *et al*. (2013).
 22. Profile of scales with constriction between crown and base: 0. neck similar in width to crown; 1. neck greatly constricted, resulting in anvil-like shape.
 > Lu *et al*. (2017), Character 22; Lu *et al*. (2016), Character 22; Giles *et al*. (2015), Character 22.
+> - Giles *et al*. (2015): This character is scored contingently on the previous character, and thus refersto necked scales with a pronounced anvil-­shaped profile as seen in acanthodids, diplacanthids, ischnacanthids, and similar taxa, and thus is typified by the profile of the *Gomphonchus*­‐type morphology.
 23. Body scales with bulging base: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 23; Lu *et al*. (2016), Character 23; Giles *et al*. (2015), Character 23; Davis *et al*. (2012), Character 12.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
@@ -84,6 +90,7 @@
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 25. Basal pore in scales: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 25; Lu *et al*. (2016), Character 25; Giles *et al*. (2015), Character 25.
+> - Giles *et al*. (2015): Growing basal tissue is absent from some scales belonging to chondrichthyans. Although shown only in the cranial cap scales (Coates & Sequeira 2001b: fig.12E), a basal pore is seen in *Akmonistion*.
 26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
 > Lu *et al*. (2017), Character 26; Lu *et al*. (2016), Character 26; Giles *et al*. (2015), Character 26; Davis *et al*. (2012), Character 14.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘?’ for *Chondrenchelys*.
@@ -97,8 +104,10 @@
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*. 
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
 > Lu *et al*. (2017), Character 30; Lu *et al*. (2016), Character 30; Giles *et al*. (2015), Character 30; Davis *et al*. (2012), Character 16.
+> - Giles *et al*. (2015): Galeaspids are recoded as polymorphic based on Donoghue *et al*. (2000).
 31. Sensory canals/grooves: 0. contained within the thickness of dermal bones; 1. contained in prominent ridges on visceral surface of bone.
 > Lu *et al*. (2017), Character 31; Lu *et al*. (2016), Character 31; Giles *et al*. (2015), Character 31; Goujet (1984b), unnumbered	character; Brazeau (2009), Character 17.
+> - Giles *et al*. (2015): A character similar to this appeared in Brazeau (2009). Davis *et al*. (2012) did not include this character, but did not elaborate on the rationale behind this deletion. In its present formulation, this character considers the degree to which grooves or canals for sensory lines are expressed as prominent ridges on the visceral surface of dermal bones. This modification reflects the paucity of section data indicating whether the floor of the groove or canal lies deep to the visceral surface of the body of the containing bone.
 32. Jugal portion of infraorbital canal joins supramaxillary canal: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 32; Lu *et al*. (2016), Character 32; Giles *et al*. (2015), Character 32; Davis *et al*. (2012), Character 17.
 33. Dermal skull roof: 0. includes large dermal plates; 1. consists of undifferentiated plates or tesserae.
@@ -110,11 +119,13 @@
 > Lu *et al*. (2017), Character 35; Lu *et al*. (2016), Character 35; Giles *et al*. (2015), Character 35; Davis *et al*. (2012), Character 19.
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
 > Lu *et al*. (2017), Character 36; Lu *et al*. (2016), Character 36; Giles *et al*. (2015), Character 36.
+> - Giles *et al*. (2015): This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.
 37. Extent of dermatocranial cover: 0. complete; 1. incomplete (limited to skull roof).
 > Lu *et al*. (2017), Character 37; Lu *et al*. (2016), Character 37; Giles *et al*. (2015), Character 37; Davis *et al*. (2012), Character 20.
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 38; Lu *et al*. (2016), Character 38; Giles *et al*. (2015), Character 38; Davis *et al*. (2012), Character 21.
 > - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘-’ for *Ischnacanthus*.
+> - Giles *et al*. (2015): Brazeau (2009) and Davis *et al*. (2012) have scored ptyctodont taxa as lacking endolymphatic duct openings. However, it is unclear if this is the case. Although a small circular foramen is not present in the skull roofs of ptyctodonts, many ptyctodont taxa are described as possessing a "spiracular opening" in their skull roofs(Long 1997; Trinajstic *et al*. 2012). Because the spiracle of gnathostomes is situated between the hyoid and mandibular arches, we consider thisinterpretation extremely doubtful. The purpose of this opening remains unknown, but its interpretation as an endolymphatic opening cannot be ruled out. However, we adopt a conservative approach and code these taxa as '?'. Stensiö (1969) figures *Jagorina* with a posterior dorsal fontanelle and, presumably, interprets this as an endolymphatic opening behind the skull roof. No openings for the endolymphatic ducts are indicated in the skull roof. Examination of the specimen shows that the endolymphatic ducts are parasaggital to the cranial cavity and follow a course up to the skull roof. Because actual openings are not observed, this character is scored '?' for *Jagorina*.
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 39; Lu *et al*. (2016), Character 39; Giles *et al*. (2015), Character 39; Davis *et al*. (2012), Character 22.
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
