@@ -270,61 +270,48 @@
 92. Strong posterior flexion of dentary symphysis: 0. absent; 1. present.
 >   Lu *et al*. (2017), Character 92; Lu *et al*. (2016), Character 92; Giles *et al*. (2015), Character 92; Friedman (2007), Character 155.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
-93. Extent of infradentaries:
-0. along much of ventral margin of dentary
-1. restricted to posterior half of dentary
-94. Coronoid fangs:
-0. absent
-1. present
-95. Position of upper mandibular arch cartilage (and associated cheek plate where 
-present):
-0. entirely suborbital
-1. with a postorbital extension
-96. Position of mandibular arch articulations:
-Changed from ‘0’ to ‘1’ for Cheirolepis; ‘0’ to ‘?’ in Chondrenchelys, Debeerius.
-0. terminal
-1. subterminal
-97. Autopalatine and quadrate:
-Changed from ‘-‘ to ‘0’ for Debeerius.
-0. comineralized
-1. separate mineralizations
-98. Large otic process of the palatoquadrate:
-Changed from ‘1’ to ‘?’ for Chondrenchelys.
-0. absent
-1. present
-99. Insertion area for jaw adductor muscles on palatoquadrate:
-0. ventral or medial
-1. lateral
-100. Palatoquadrate relationship to dermal cheek bones:
-0. articulation narrow and restricted
-1. broad articulation
-101. Palatoquadrate fused with neurocranium:
-0. absent
-1. present
-102. Oblique ridge or groove along medial face of palatoquadrate:
-0. absent
-1. present
-103. Fenestration of palatoquadrate at basipterygoid articulation:
-Changed from ‘0’ to ‘-‘ for Chondrenchelys.
-0. absent
-1. present
-104. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate:
-0. absent
-1. present
-105. Pronounced dorsal process on Meckelian bone or cartilage:
-0. absent
-1. present
-106. Number of coronoids:
-0. four or more
-1. three or fewer
-107. Preglenoid process:
-Changed from ‘?’ to ‘1’ for Helodus.
-0. absent
-1. present
-108. Jaw articulation located on rearmost extremity of mandible:
-0. absent
-1. present
-Neurocranium and associated dermal ossifications
+93. Extent of infradentaries: 0. along much of ventral margin of dentary; 1. restricted to posterior half of dentary.
+>   Lu *et al*. (2017), Character 93; Lu *et al*. (2016), Character 93; Giles *et al*. (2015), Character 93.
+94. Coronoid fangs: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 94; Lu *et al*. (2016), Character 94; Giles *et al*. (2015), Character 94; Ahlberg *et al*. (2000), Character 15; Zhu & Schultze (2001), Character 90; Zhu *et al*. (2001), Character 69; Zhu & Yu (200), Character 69; Zhu *et al*. (2006), Character 59; Daeschler *et al*. (2006), Character 71; Long *et al*. (2006), Character 18; Friedman (2007), Character 57; Zhu *et al*. (2009), Character 94; Zhu *et al*. (2013), Character 202.
+95. Position of upper mandibular arch cartilage (and associated cheek plate where present): 0. entirely suborbital; 1. with a postorbital extension.
+>  Lu *et al*. (2017), Character 95; Lu *et al*. (2016), Character 95; Giles *et al*. (2015), Character 95. 
+96. Position of mandibular arch articulations: 0. terminal; 1. subterminal.
+>   Lu *et al*. (2017), Character 96; Lu *et al*. (2016), Character 96; Giles *et al*. (2015), Character 96. 
+> - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘1’ for *Cheirolepis*; ‘0’ to ‘?’ in *Chondrenchelys*, *Debeerius*.
+> - Giles *et al*. (2015): Refers to whether the anteriormost mandibular arch articulations are anterior to the nasal capsules, or immediately below or posterior to them.
+97. Autopalatine and quadrate: 0. comineralized; 1. separate mineralizations.
+>   Lu *et al*. (2017), Character 97; Lu *et al*. (2016), Character 97; Giles *et al*. (2015), Character 97; Miles & Dennis (1979), Character 22; Dennis & Miles (1981), Character 22.
+> - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ for *Debeerius*.
+98. Large otic process of the palatoquadrate: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 98; Lu *et al*. (2016), Character 98; Giles *et al*. (2015), Character 98; Davis *et al*. (2012), Character 46.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘?’ for *Chondrenchelys*.
+99. Insertion area for jaw adductor muscles on palatoquadrate: 0. ventral or medial; 1. lateral.
+>   Lu *et al*. (2017), Character 99; Lu *et al*. (2016), Character 99; Giles *et al*. (2015), Character 99; Davis *et al*. (2012), Character 47.
+100. Palatoquadrate relationship to dermal cheek bones: 0. articulation narrow and restricted; 1. broad articulation.
+>   Lu *et al*. (2017), Character 100; Lu *et al*. (2016), Character 100; Giles *et al*. (2015), Character 100.
+101. Palatoquadrate fused with neurocranium: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 101; Lu *et al*. (2016), Character 101; Giles *et al*. (2015), Character 101.
+102. Oblique ridge or groove along medial face of palatoquadrate: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 102; Lu *et al*. (2016), Character 102; Giles *et al*. (2015), Character 102; Davis *et al*. (2012), Character 48.
+103. Fenestration of palatoquadrate at basipterygoid articulation: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 103; Lu *et al*. (2016), Character 103; Giles *et al*. (2015), Character 103; Davis *et al*. (2012), Character 49.
+> - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘-’ for *Chondrenchelys*.
+104. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 104; Lu *et al*. (2016), Character 104; Giles *et al*. (2015), Character 104; Davis *et al*. (2012), Character 50.
+105. Pronounced dorsal process on Meckelian bone or cartilage: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 105; Lu *et al*. (2016), Character 105; Giles *et al*. (2015), Character 105; Davis *et al*. (2012), Character 51.
+> - Giles *et al*. (2015): Contrary to the formulation proposed by Davis *et al*. (2012), the pronounceddorsal process on the lower jaw of 'acanthodians' like *Gladiobranchus* issues from a dermal plate associated with the mandible rather than the Meckel's cartilage. Consequently, we re-­code all taxa lacking dermal lower jaw plates as inapplicable for this character. Burrow & Young (2012: fig.4b) have recently shown that a similar process is present in *Culmacanthus*, but we find evidence for such a feature lacking in *Diplacanthus* (contra Davis *et al*. 2012). *Tetanopsyrus* has a high dorsal process of the jaw that seems to be part of the Meckel's cartilage rather than a separate dermal plate like that found in *Gladiobranchus* and *Culmacanthus*. However, we conservatively code this taxon as '?'.
+106. Number of coronoids: 0. four or more; 1. three or fewer.
+>   Lu *et al*. (2017), Character 106; Lu *et al*. (2016), Character 106; Giles *et al*. (2015), Character 106; Ahlberg & Clack (1998), Character 4; Daeschler *et al*. (2006), Character 5; Long *et al*. (2006), Character 11; Friedman (2007), Character 158; Zhu *et al*. (2009), Character 93; Zhu *et al*. (2013), Character 201.
+107. Preglenoid process: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 107; Lu *et al*. (2016), Character 107; Giles *et al*. (2015), Character 107; Davis *et al*. (2012), Character 52.
+> - Giles *et al*. (2015): *Onychodus* and *Poracanthodes* are re-­coded as '0'. This structure is not figured in the reconstruction of *Pucapampella* by Janvier & Maisey (2010: fig.8), but a specimen photograph suggests there is a modest process. A conservative scoring of '?' is nevertheless retained.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ for *Helodus*.
+108. Jaw articulation located on rearmost extremity of mandible: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 108; Lu *et al*. (2016), Character 108; Giles *et al*. (2015), Character 108; Davis *et al*. (2012), Character 53.
+> - Giles *et al*. (2015): Previously coded as of uncertain condition, *Tetanopsyrus*, *Pucapampella*, *Poracanthodes*, and *Ptomacanthus* are scored as '0'.
+## *Neurocranium and associated dermal ossifications*
 109. Precerebral fontanelle:
 0. absent
 1. present
