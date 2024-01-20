@@ -255,26 +255,21 @@
 > - Giles *et al*. (2015): Davis *et al*. (2012) revised the coding provided by Brazeau (2009) for this character to '1' for *Dicksonosteus*. By the same token, we revise the coding of *Buchanosteus* from '0' to '1' based on the account and figures provided by Young *et al*. (2001).
 86. Plicidentine: 0. absent; 1. present.
 >   Lu *et al*. (2017), Character 86; Lu *et al*. (2016), Character 86; Giles *et al*. (2015), Character 86; Cloutier & Ahlberg (1996), Character 14; Ahlberg & Johanson(1998), Character 14; Schultze & Cumbaa (2001), Character 102-103; Zhu & Schultze (2001), Character 213-215; Zhu *et al*. (2001), Character 157; Zhu & Yu (2002), Character 157; Zhu & Ahlberg (2004), Character 14; Daeschler *et al*. (2006), Character 10; Long *et al*. (2006), Character 21; Zhu *et al*. (2006), Character 124-125; Friedman (2007), Character 150; Zhu *et al*. (2009), Character 152; Zhu *et al*. (2009), Character 152; Zhu *et al*. (2013), Character 141.
-87. Dermal jaw plates on biting surface of jaw cartilages:
-0. absent
-1. present
-88. Maxillary and dentary marginal bones of mouth:
-0. absent
-1. present
-89. Premaxilla:
-0. extends under orbit
-1. restricted anterior to orbit
-90. Maxilla shape:
-0. splint-shaped
-1. cleaver-shaped
-91. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate:
-Changed from ‘1’ to ‘0’ for Onychodus, Chondrenchelys. 
-0. absent
-1. present
-92. Strong posterior flexion of dentary symphysis:
-Changed from ‘?’ to ‘-‘ for Chondrenchelys.
-0. absent
-1. present
+87. Dermal jaw plates on biting surface of jaw cartilages: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 87; Lu *et al*. (2016), Character 87; Giles *et al*. (2015), Character 87; Davis *et al*. (2012), Character 44.
+88. Maxillary and dentary marginal bones of mouth: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 88; Lu *et al*. (2016), Character 88; Giles *et al*. (2015), Character 88; Davis *et al*. (2012), Character 45.
+> - Giles *et al*. (2015): Modified from Brazeau (2009) and Davis *et al*. (2012) to omit reference to teeth.
+89. Premaxilla: 0. extends under orbit; 1. restricted anterior to orbit.
+>   Lu *et al*. (2017), Character 89; Lu *et al*. (2016), Character 89; Giles *et al*. (2015), Character 89; Friedman (2007), Character 150.
+90. Maxilla shape: 0. splint-shaped; 1. cleaver-shaped.
+>   Lu *et al*. (2017), Character 90; Lu *et al*. (2016), Character 90; Giles *et al*. (2015), Character 90; Lund *et al*. (1995), Character 52; Lund (2000), Character 31; Poplin & Lund (2000), Character 18; Schultze & Cumbaa (2001), Character 31; Zhu & Schultze (2001), Character 54; Zhu *et al*. (2001), Character 42; Zhu & Yu (2002), Character 42; Lund & Poplin (2002), Character 30; Cloutier & Arratia (2004), Character 18; Zhu *et al*. (2006), Character 43; Friedman (2007), Character 39; Zhu *et al*. (2009), Character 79; Zhu *et al*. (2013), Character 180.
+91. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 91; Lu *et al*. (2016), Character 91; Giles *et al*. (2015), Character 91.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Onychodus*, *Chondrenchelys*. 
+92. Strong posterior flexion of dentary symphysis: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 92; Lu *et al*. (2016), Character 92; Giles *et al*. (2015), Character 92; Friedman (2007), Character 155.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
 93. Extent of infradentaries:
 0. along much of ventral margin of dentary
 1. restricted to posterior half of dentary
