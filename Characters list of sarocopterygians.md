@@ -329,7 +329,7 @@
 > Lu *et al*. (2017), Character 115; Lu *et al*. (2016), Character 115; Giles *et al*. (2015), Character 115; Davis *et al*. (2012), Character 56.
 > - Giles *et al*. (2015): The score for *Austroptyctodus* is changed to '? '. The opening is a dermal structure, and there is no dermal preservation around the nostrils of *Austroptyctodus* (Long 1997).
 116. Posterior nostril: 0. separated from orbital fenestra; 1. confluent with orbital fenestra.
->   Lu *et al*. (2017), Character 114; Lu *et al*. (2016), Character 114; Giles *et al*. (2015), Character 114; Cloutier & Ahlberg (1996), Character 46; Schultze & Cumbaa (2001), Character 23; Zhu & Schultze (2001), Character 40; Zhu *et al*. (2001), Character 27; Zhu & Yu (2002), Character 27; Friedman & Blom (2006), Character 6; Zhu *et al*. (2006), Character 31; Friedman (2007), Character 25; Zhu *et al*. (2009), Character 8; Zhu *et al*. (2013), Character 152.
+> Lu *et al*. (2017), Character 114; Lu *et al*. (2016), Character 114; Giles *et al*. (2015), Character 114; Cloutier & Ahlberg (1996), Character 46; Schultze & Cumbaa (2001), Character 23; Zhu & Schultze (2001), Character 40; Zhu *et al*. (2001), Character 27; Zhu & Yu (2002), Character 27; Friedman & Blom (2006), Character 6; Zhu *et al*. (2006), Character 31; Friedman (2007), Character 25; Zhu *et al*. (2009), Character 8; Zhu *et al*. (2013), Character 152.
 117. Olfactory tracts: 0. short, with olfactory capsules situated close to telencephalon cavity; 1. elongate and tubular (much longer than wide).
 >  Lu *et al*. (2017), Character 117; Lu *et al*. (2016), Character 117; Giles *et al*. (2015), Character 117; Davis *et al*. (2012), Character 57.
 > - Giles *et al*. (2015): Reflecting incomplete neurocranial data, the code for *Austroptyctodus* is changed to '?'. Zhu *et al*. (2013) report short olfactory tracts in *Psarolepis* (IVPP V11490.2), and we revise the coding of this genus to '0'. We also accept their revision of the state in Onychodus to '?'.
@@ -339,47 +339,38 @@
 119. Pronounced sub-ethmoidal keel: 0. absent; 1. present.
 >   Lu *et al*. (2017), Character 119; Lu *et al*. (2016), Character 119; Giles *et al*. (2015), Character 119; Davis *et al*. (2012), Character 59.
 > - Giles *et al*. (2015): Here we revise scores presented by Davis *et al*. (2012) for *Debeerius*, *Chondrenchelys*, and *Tamiobatis* to '?'. There are no satisfactory published ventral views of the neurocranium in *Debeerius* (Grogan & Lund 2000) and *Chondrenchelys* (Moy­‐Thomas 1935). *Tamiobatis* preserves part of a structure that might be part of a sub­‐ethmoidal keel, but this is damaged and we adopt a more agnostic stance on the condition in this taxon.
-120. Internasal vacuities:
-0. absent
-1. present
-121. Discrete division of the ethmoid and more posterior braincase at the level of the 
-optic tract canal:
-0. absent
-1. present
-122. Position of myodome for superior oblique eye muscles:
-0. posterior and dorsal to foramen for nerve II
-1. anterior and dorsal to foramen
-123. Endoskeletal intracranial joint:
-0. absent
-1. present
-124. Spiracular groove on basicranial surface:
-0. absent
-1. present
-125. Transverse otic process (sometimes referred to as the lateral commissure):
-0. present
-1. absent
-126. Jugular canal*:
-In the previous formulation, a ‘short’ jugular canal was described as being anterior to the 
-skeletal labyrinth. However, most taxa with a short jugular canal have this somewhere 
-along the length of the labyrinth rather than exclusively anterior to it. We have therefore 
-modified the terminology to accommodate this pattern. Changed from ‘?’ to ‘2’ for 
-Chondrenchelys.
-0. long (invested in otic region along length of skeletal labyrinth)
-1. short (restricted to short portion of region of skeletal labyrinth, or anterior to it)
-2. absent (jugular vein uninvested in otic region)
-127. Spiracular groove on lateral commissure:
-0. absent
-1. present
-128. Subpituitary fenestra:
-Onychodus changed from ‘?’ to ‘0’.
-0. absent
-1. present
-129. Supraorbital shelf broad with convex lateral margin:
-0. absent
-1. present
-130. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium:
-0. present
-1. absent
+120. Internasal vacuities: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 120; Lu *et al*. (2016), Character 120; Giles *et al*. (2015), Character 120; Zhu & Schultze (2001), Character 139; Zhu *et al*. (2001), Character 105; Zhu & Yu (2002), Character 105; Friedman (2007), Character 91.
+121. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 121; Lu *et al*. (2016), Character 121; Giles *et al*. (2015), Character 121.
+> - Giles *et al*. (2015): The intracranial division has been dismissed as a potential placoderm synapomorphy on the basis that it is a primitive vertebrate character (Goujet 2001). It was therefore omitted by Brazeau (2009). However, the character is reinstated here because the belief that it is a primitive feature based on comparisons with taxa such as lamprey and embryos, which have no perichondral lining of the braincase, are not relevant to the question of adult conditions in either ingroup or outgroup taxa. A division as observed in nearly all placoderm taxa for which a braincase has been described is demonstrably and equivalently absent in galeaspids, osteostracans, osteichthyans, chondrichthyans, and *Ptomacanthus*. The condition in *Acanthodes* is unknown.
+122. Position of myodome for superior oblique eye muscles: 0. posterior and dorsal to foramen for nerve II; 1. anterior and dorsal to foramen.
+>   Lu *et al*. (2017), Character 122; Lu *et al*. (2016), Character 122; Giles *et al*. (2015), Character 122; Davis *et al*. (2012), Character 60.
+123. Endoskeletal intracranial joint: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 123; Lu *et al*. (2016), Character 123; Giles *et al*. (2015), Character 123; Davis *et al*. (2012), Character 61.
+124. Spiracular groove on basicranial surface: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 124; Lu *et al*. (2016), Character 124; Giles *et al*. (2015), Character 124; Davis *et al*. (2012), Character 62.
+> - Giles *et al*. (2015): Contra Davis *et al*. (2012), Yu (1998) identifies a "prespiracular groove" in *Psarolepis*. Available figures of *Guiyu* are unclear, and the specimens quite distorted from one individual to another, especially in this region. This renders interpretation very difficult. However, Davis *et al*. (2012) scored these taxa and the braincase referred to *Ligulalepis* conservatively as '?'. We provisionally retain this scoring, except for *Psarolepis*, where we accept the interpetation provided by Yu (1998) and code this taxon as '1'. 
+125. Transverse otic process (sometimes referred to as the lateral commissure): 0. present; 1. absent.
+>   Lu *et al*. (2017), Character 125; Lu *et al*. (2016), Character 125; Giles *et al*. (2015), Character 125.
+> - Giles *et al*. (2015): Schaeffer (1981), Coates & Sequeira (1998). This character refers to the presence of a transverse wall or process of the otic region that supports the hyomandibular articulation. Such a structure is present in many placoderms (the anterior postorbital process of traditional nomenclature), chondrichthyans (the lateral otic process), and osteichthyans (the lateral commisure sensu lato). There is some variability in the structure (pierced by jugular canal versus imperforate) and location (level with the anterior or posterior of the otic capsule) of transverse otic processes among early gnathostomes. We describe these patterns of variability in characters 126 and 164.
+126. Jugular canal*: 0. long (invested in otic region along length of skeletal labyrinth); 1. short (restricted to short portion of region of skeletal labyrinth, or anterior to it); 2. absent (jugular vein uninvested in otic region).
+>   Lu *et al*. (2017), Character 126; Lu *et al*. (2016), Character 126; Giles *et al*. (2015), Character 126.
+> - Lu *et al*. (2016; 2017): In the previous formulation, a ‘short’ jugular canal was described as being anterior to the skeletal labyrinth. However, most taxa with a short jugular canal have this somewhere along the length of the labyrinth rather than exclusively anterior to it. We have therefore modified the terminology to accommodate this pattern. Changed from ‘?’ to ‘2’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): This character is modified from DFC characters 76 and 93. In part, this character describes patterns of variation among transverse otic processes that bear the hyomandibular facet(see characters 125 and 164). Transverse otic processes that lack a canal for the jugular are characteristic of many chondrichthyans(e. g. *Tamiobatis*, *Orthacanthus*). In cases where taxa lack a jugular canal and have a posteriorly positioned transverse otic process, this structure is typically called a lateral otic process(e. g. Schaeffer 1981: figs.6, 21; Coates & Sequeira 1998: fig.6). This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.
+127. Spiracular groove on lateral commissure: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 127; Lu *et al*. (2016), Character 127; Giles *et al*. (2015), Character 127; Davis *et al*. (2012), Character 63.
+> - Giles *et al*. (2015): Here we consider the relationship between the spiracular groove and the lateral commissure sensu lato (see Table 2 above). We have revised the coding given by Davis *et al*. (2012) for *Gogonasus* to '1', as this taxon shows a similar condition to *Eusthenopteron* (compare Long *et al*. 1997: fig.22 and Jarvik 1980: fig.86). Osteostraci, Galeaspida, *Brindabellaspis*, and *Macropetalichthys* are scored as inapplicable for this character.
+128. Subpituitary fenestra: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 128; Lu *et al*. (2016), Character 128; Giles *et al*. (2015), Character 128; Davis *et al*. (2012), Character 64.
+> - Lu *et al*. (2016; 2017): *Onychodus* changed from ‘?’ to ‘0’.
+> - Giles *et al*. (2015): We have revised the score for *Gogonasus* to '0' following Long *et al*. (1997).
+129. Supraorbital shelf broad with convex lateral margin: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 129; Lu *et al*. (2016), Character 129; Giles *et al*. (2015), Character 129; Davis *et al*. (2012), Character 65.
+> - Giles *et al*. (2015): Coding for *Doliodus* restored to '1', contra Davis *et al*. (2012). The broad supraorbital shelf with a convex lateral margin is clearly present in tomography renderings of *Doliodus* presented by Maisey *et al*. (2009). It is true that *Akmonistion* and *Cladoselache* exhibit a much more similar, highly pronounced condition, this being related to a much wider postorbital span in these taxa.
+130. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: 0. present; 1. absent.
+> Lu *et al*. (2017), Character 130; Lu *et al*. (2016), Character 130; Giles *et al*. (2015), Character 130; Davis *et al*. (2012), Character 66.
+> - Giles *et al*. (2015): Ptyctodonts are all scored as '?', contra Davis *et al*. (2012). Given the lack of complete endocranial data, the antorbital position for the hyomandibular articulation, and the presence of a suborbital lamina of the marginal bone of ptyctodonts, there is a distinct possibility that there is a comparable extension of the neurocranial wall as in *Brindabellaspis*, *Macropetalichthys*, and agnathan outgroups. We have therefore coded the condition in ptyctodonts as uncertain. Although rhenanids have dorsally facing orbits they lack any kind of posterior or ventral orbital processes. They are therefore coded as '1'.
 131. Eyestalk attachment area:
 0. absent
 1. present
