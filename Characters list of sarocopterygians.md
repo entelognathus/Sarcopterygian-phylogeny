@@ -132,12 +132,15 @@
 > Lu *et al*. (2017), Character 40; Lu *et al*. (2016), Character 40; Giles *et al*. (2015), Character 40.
 41. Pineal opening perforation in dermal skull roof: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 41; Lu *et al*. (2016; ), Character 41; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 25.
+> - Giles *et al*. (2015): This feature is indicated in a reconstruction of *Romundina* (see Goujet & Young 2004, fig.2), but this is not shown in any specimen photograph or illustration. It is thus unclear whether this is actually observed, or was merely symbolic, indicating the structure's sub­‐dermal location.
 42. Dermal plate associated with pineal eminence or foramen: 0. contributes to orbital margin; 1. plate bordered laterally by skull roofing bones.
 > Lu *et al*. (2017), Character 42; Lu *et al*. (2016), Character 42; Giles *et al*. (2015), Character 42.
+> - Giles *et al*. (2015): Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and Romundina bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e. g. *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character.
 43. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 43; Lu *et al*. (2016), Character 43; Giles *et al*. (2015), Character 43; Davis *et al*. (2012), Character 23.
 44. Broad supraorbital vaults: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 44; Lu *et al*. (2016), Character 44; Giles *et al*. (2015), Character 44; Dennis & Mile, (1981), Character 16.
+> - Giles *et al*. (2015): This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans.
 45. Median commissure between supraorbital sensory lines: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 45; Lu *et al*. (2016), Character 45; Giles *et al*. (2015), Character 45.
 46. Dermal cranial joint at level of sphenoid-otic junction: 0. absent; 1. present.
@@ -156,10 +159,13 @@
 > Lu *et al*. (2017), Character 51; Lu *et al*. (2016), Character 51; Giles *et al*. (2015), Character 51; Miles & Dennis (1979), Character 10;	Dennis & Miles (1981), Character 10.
 52. Sclerotic ring: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 52; Lu *et al*. (2016), Character 52; Giles *et al*. (2015), Character 52.
+> - Giles *et al*. (2015): Coded according to Burrow *et al*. (2011).
 53. Consolidated cheek plates: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 53; Lu *et al*. (2016), Character 53; Giles *et al*. (2015), Character 53; Davis *et al*. (2012), Character 24.
+> - Giles *et al*. (2015): This character is contingent on dermatocranial cover of the cheek. Taxa lacking any dermal contribution to the cheek are coded as inapplicable.
 54. Cheek plate: 0. undivided; 1. divided (i.e., squamosal and preopercular).
 > Lu *et al*. (2017), Character 54; Lu *et al*. (2016), Character 54; Giles *et al*. (2015), Character 54.
+> - Giles *et al*. (2015): This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-­bearing dermal cheek(preorpercular or suborbital equivalent) is composed of one or multiple bones. State '0' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.
 55. Subsquamosals in taxa with divided cheek: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
