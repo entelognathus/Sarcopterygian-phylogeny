@@ -419,59 +419,46 @@
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘?’ for *Debeerius*.
 > - Giles *et al*. (2015): *Doliodus* has been scored as polymorphic for this character because it represents a combination of both conditions. The orbital articulation appears to be coextensive with most of the length of the suborbital ridge (Maisey *et al*.2009). The ridge is distinctly wider at the level of the hypophysial opening, which recalls the weak basipterygoid articulation in the braincase referred to *Ligulalepis* (Basden & Young2 001; MDB pers. obs. 2007).
 147. Articulation between neurocanium and palatoquadrate posterodorsal to orbit 
-(suprapterygoid articulation):
-0. absent
-1. present
-148. Labyrinth cavity:
-0. separated from the main neurocranial cavity by a cartilaginous or ossified 
-capsular wall
-1. skeletal capsular wall absent
-149. Basipterygoid process (basal articulation) with vertically oriented component:
-0. absent
-1. present
-150. Pituitary vein canal:
-0. dorsal to level of basipterygoid process
-1. flanked posteriorly by basipterygoid process
-151. Lateral (external or horizontal) semicircular canal:
-0. absent
-1. present
-152. Sinus superior:
-0. absent or indistinguishable from union of anterior and posterior canals with 
-saccular chamber
-1. present
-153. Lateral (external or horizontal) semicircular canal:
-Changed from ‘1’ to ‘?’ for Moythomasia.
-0. joins the vestibular region dorsal to posterior ampulla
-1. joins level with posterior ampulla
-154. Lateral semicircular canal in dorsal view:
-0. medial to path of jugular vein
-1. dorsal to jugular vein
-155. Lateral cranial canal:
-0. absent
-1. present
-156. Trigemino-facial recess:
-Changed from ‘1’ to ‘0’ for Eusthenopteron, Gogonasus, Jagorina, Ramirosuarezia; from 
-‘?’ to ‘0’ for Psarolepis, Styloichthys; from ‘?’ to ‘1’ for Tamiobatis. 
-0. absent
-1. present
-157. Posterior dorsal fontanelle:
-Changed from ‘?’ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-158. Shape of posterior dorsal fontanelle:
-Changed from ‘?’ to ‘-‘ for Chondrenchelys.
-0. approximately as long as broad
-1. much longer than wide, slot-shaped
-159. Synotic tectum:
-Changed from ‘?’ to ‘-‘ for Chondrenchelys.
-0. absent
-1. present
-160. Dorsal ridge:
-0. absent
-1. present
-161. Shape of median dorsal ridge anterior to endolymphatic fossa:
-0. developed as a squared-off ridge or otherwise ungrooved
-1. bears a midline groove
+(suprapterygoid articulation): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 147; Lu *et al*. (2016), Character 147; Giles *et al*. (2015), Character 147; Davis *et al*. (2012), Character 81.
+> - Giles *et al*. (2015): We reformulate this character to consider articulations between the palatoquadrate and dorsal regions of the neurocranium, regardless of whether the latter features are generally called 'postorbital processes' or not. This effectively represents a restoration of character 82 of Brazeau (2009). Outside of chondrichthyans and some acanthodians, articulations between the dorsal portion of the palatoquadrate and neurocranium are present in many sarcopterygian osteichthyans. Both *Eusthenopteron* (Jarvik 1980: fig.86) and *Porolepis* (Jarvik 1972: fig.20) bear clear facets on the neurocranium for a suprapterygoid articulation, and are recoded as '1'. Conditions of the neurocranium of *Gogonasus* are unclear, but the processus ascendens of the palatoquadrate in this genus appears to bear a clear articular facet (Long 1997: 30). We therefore recode this taxon as '1'.
+148. Labyrinth cavity: 0. separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall; 1. skeletal capsular wall absent.
+>  Lu *et al*. (2017), Character 148; Lu *et al*. (2016), Character 148; Giles *et al*. (2015), Character 148; Davis *et al*. (2012), Character 82.
+> - Giles *et al*. (2015): Davis *et al*. (2012) code *Austroptyctodus* with state '1', citing Long (1997), Miles & Young(1977), and personal communication from K. Trinajstic (citing no date and no specimen numbers) in support of the statement "the basicranial ossifications include no evidence of the base of a medial capsular wall". This is a highly equivocal statement. The basicranial ossifications show no compelling evidence of the skeletal labyrinth or even the cranial cavity. They are highly incomplete in the extent of their ossification. *Austroptyctodus*, and other ptyctodonts, must be scored indicating missing data.
+149. Basipterygoid process (basal articulation) with vertically oriented component: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 149; Lu *et al*. (2016), Character 149; Giles *et al*. (2015), Character 149; Davis *et al*. (2012), Character 83.  
+150. Pituitary vein canal: 0. dorsal to level of basipterygoid process; 1. flanked posteriorly by basipterygoid process.
+> Lu *et al*. (2017), Character 150; Lu *et al*. (2016), Character 150; Giles *et al*. (2015), Character 150; Davis *et al*. (2012), Character 84.
+151. Lateral (external or horizontal) semicircular canal: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 151; Lu *et al*. (2016), Character 151; Giles *et al*. (2015), Character 151; Davis *et al*. (2012), Character 85.
+152. Sinus superior: 0. absent or indistinguishable from union of anterior and posterior canals with saccular chamber; 1. present.
+> Lu *et al*. (2017), Character 152; Lu *et al*. (2016), Character 152; Giles *et al*. (2015), Character 152; Davis *et al*. (2012), Character 86.
+153. Lateral (external or horizontal) semicircular canal: 0. joins the vestibular region dorsal to posterior ampulla; 1. joins level with posterior ampulla.
+> Lu *et al*. (2017), Character 153; Lu *et al*. (2016), Character 153; Giles *et al*. (2015), Character 153; Davis *et al*. (2012), Character 87.  
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘?’ for *Moythomasia*.
+154. Lateral semicircular canal in dorsal view: 0. medial to path of jugular vein; 1. dorsal to jugular vein.
+> Lu *et al*. (2017), Character 154; Lu *et al*. (2016), Character 154; Giles *et al*. (2015), Character 154.
+> - Giles *et al*. (2015): This character captures the variable relationship between the course of the jugular vein and the horizontal semicircular canal. In placoderms, the jugular canal extends lateral to the horizontal canal in dorsal view, whereas most crown gnathostomes show a contrasting condition where the vein is overlapped by the canal. Galeaspids and osteostracans are lack a horizontal canal, and are coded as inapplicable for this character.
+155. Lateral cranial canal: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 155; Lu *et al*. (2016), Character 155; Giles *et al*. (2015), Character 155; Gardiner (1984), Character 19; Gardiner & Schaeffer (1989), Character 5, c1; Coates (1999), Character 32; Cloutier & Arratia (2004), Character 1; Gardiner *et al*. (2005), Character 5; Zhu *et al*. (2006), Character 91; Zhu *et al*. (2009), Character 55; Zhu *et al*. (2013), Character 233. 
+156. Trigemino-facial recess: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 156; Lu *et al*. (2016), Character 156; Giles *et al*. (2015), Character 156; Davis *et al*. (2012), Character 88. 
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Eusthenopteron*, *Gogonasus*, *Jagorina*, *Ramirosuarezia*; from ‘?’ to ‘0’ for *Psarolepis*, *Styloichthys*; from ‘?’ to ‘1’ for *Tamiobatis*.
+157. Posterior dorsal fontanelle: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 157; Lu *et al*. (2016), Character 157; Giles *et al*. (2015), Character 157; Davis *et al*. (2012), Character 89.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): Stensiö (1969: fig.25) figures a posterior dorsal fontanelle in *Jagorina*, but examination of MB.f.510.5-­6 shows that this part of the braincase was covered by skull roofing bones. It is therefore not possible to confirm Stensiö's reconstruction, and we consider it here to be inferential. However, we do note that he figured a similar opening for *Asterosteus* (Stensiö 1969: figs.30C, 92-­93).
+158. Shape of posterior dorsal fontanelle: 0. approximately as long as broad; 1. much longer than wide, slot-shaped.
+>  Lu *et al*. (2017), Character 158; Lu *et al*. (2016), Character 158; Giles *et al*. (2015), Character 158; Davis *et al*. (2012), Character 90.  
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+159. Synotic tectum: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 159; Lu *et al*. (2016), Character 159; Giles *et al*. (2015), Character 159; Coates & Sequeira (1998) Character 9.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+160. Dorsal ridge: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 160; Lu *et al*. (2016), Character 160; Giles *et al*. (2015), Character 160; Davis *et al*. (2012), Character 91.
+> - Giles *et al*. (2015): Like other dorsal ridges present in fish skulls, the dorsal ridge of the endocranium found in some chondrichthyans and acanthodians likely marks the division between the insertion of paired epaxial musculature. Because this arrangement is contingent upon the presence of such insertions on the dorsal surface of the neurocranium, we have coded this character as inapplicable for taxa with dermal skull roofs.
+161. Shape of median dorsal ridge anterior to endolymphatic fossa: 0. developed as a squared-off ridge or otherwise ungrooved; 1. bears a midline groove.
+>  Lu *et al*. (2017), Character 161; Lu *et al*. (2016), Character 161; Giles *et al*. (2015), Character 161; Coates & Sequeira(1999), Character 11; Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9.
 162. Endolymphatic ducts in neurocranium:
 Changed code from ‘?’ to ‘1’ for Chondrenchelys.
 0. posteriodorsally angled tubes
