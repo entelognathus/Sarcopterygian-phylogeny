@@ -371,65 +371,53 @@
 130. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 130; Lu *et al*. (2016), Character 130; Giles *et al*. (2015), Character 130; Davis *et al*. (2012), Character 66.
 > - Giles *et al*. (2015): Ptyctodonts are all scored as '?', contra Davis *et al*. (2012). Given the lack of complete endocranial data, the antorbital position for the hyomandibular articulation, and the presence of a suborbital lamina of the marginal bone of ptyctodonts, there is a distinct possibility that there is a comparable extension of the neurocranial wall as in *Brindabellaspis*, *Macropetalichthys*, and agnathan outgroups. We have therefore coded the condition in ptyctodonts as uncertain. Although rhenanids have dorsally facing orbits they lack any kind of posterior or ventral orbital processes. They are therefore coded as '1'.
-131. Eyestalk attachment area:
-0. absent
-1. present
-132. Postorbital process:
-Changed from ‘?’ to ‘1’ for Chondrenchelys.
-0. absent
-1. present
-133. Canal for jugular in postorbital process:
-Changed from ‘?’ to ‘1’ for Chondrenchelys.
-0. absent
-1. present
-134. Series of perforations for innervation of supraorbital sensory canal in supraorbital 
-shelf:
-0. absent
-1. present
-135. Extended prehypophysial portion of sphenoid:
-0. absent
-1. present
-136. Narrow interorbital septum, with outer walls in contact along midline forming a 
-single sheet:
-The previous formulation of this character distinguished ‘narrow’ and ‘broad’ interorbital 
-septa. This lacks precision, and is subject to differing opinions. We therefore have 
-reformulated this character to refer to distinguish cases where the lateral walls of the 
-braincase are separate in the orbital region from those where they join as a single sheet 
-along the midline.
-0. absent
-1. present
-137. The main trunk of facial nerve (N. VII):
-0. elongate and passes anterolaterally through orbital floor
-1. stout, divides within otic capsule at the level of the transverse otic process
-138. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal:
-0. traverses jugular canal, with separate exit in otic region
-1. intersects jugular canal, with exit through posterior jugular foramen
-139. Glossopharyngeal nerve (N. IX) exit:
-0. foramen situated posteroventral to otic capsule and anterior to metotic fissure
-1. through metotic fissure
-140. Relationship of cranial endocavity to basisphenoid:
-0. endocavity occupies full depth of sphenoid
-1. enodcavity dorsally restricted
-141. Subcranial ridges:
-0. absent
-1. present
-142. Ascending basisphenoid pillar pierced by common internal carotid:
-0. absent
-1. present
-143. Canal for lateral dorsal aorta within basicranial cartilage:
-0. absent
-1. present
-144. Entrance of internal carotids:
-0. through separate openings flanking the hypophyseal opening or recess
-1. through a common opening at the central midline of the basicranium
-145. Canal for efferent pseudobranchial artery within basicranial cartilage:
-0. absent
-1. present
-146. Position of basal/basipterygoid articulation:
-Changed from ‘1’ to ‘?’ for Debeerius.
-0. same anteroposterior level as hypophysial opening
-1. anterior to hypophysial opening
-2. posterior to hypophysial opening
+131. Eyestalk attachment area: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 131; Lu *et al*. (2016), Character 131; Giles *et al*. (2015), Character 131; Zhu and Schultze (2001), Character 147; Zhu *et al*. (2001), Character 109; Zhu & Yu (2002), Character 109; Zhu *et al*. (2006), Character 83; Friedman (2007), Character 95; Zhu *et al*, (2009), Character 36; Zhu *et al*. (2013), Character 222.  
+132. Postorbital process: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 132; Lu *et al*. (2016), Character 132; Giles *et al*. (2015), Character 132.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): Here we define the postorbital process as a dorsally positioned process at the rear margin of the orbit. The postorbital process is known by a variety of names in different groups: suprapterygoid process (sarcopterygians: Jarvik 1980); supraorbital process (placoderms: Stensio 1969; Jarvik 1980); postorbital pila (in part; identified in some early sarcopterygians and *Entelognathus*, where a bridge encloses the jugular vein: Yu 1998; Zhu *et al*. 2013); lateral commissure (in part; identified in early actinopterygians and *Ligulalepis*; Zhu *et al*. 2013). Rudimentary postorbital processes are present in the rhenanid *Jagorina*(Stensio 1969: fig.90) and the porolepiforms *Porolepis* and *Glyptolepis* (Jarvik 1972: figs20-‐21). Taxa in which the orbit is completely enclosed by the neurocranium (e.g. *Macropetalichthys*) or where the palatoquadrate is fused to the neurocranium (e.g. *Helodus*) are coded as uncertain for this character.
+133. Canal for jugular in postorbital process: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 133; Lu *et al*. (2016), Character 133; Giles *et al*. (2015), Character 133.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ for *Chondrenchelys*.
+134. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 134; Lu *et al*. (2016), Character 134; Giles *et al*. (2015), Character 134.
+> - Giles *et al*. (2015): This character is coded as inapplicable in taxa lacking well­‐developed supraorbital shelves.
+135. Extended prehypophysial portion of sphenoid: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 135; Lu *et al*. (2016), Character 135; Giles *et al*. (2015), Character 135; Davis *et al*. (2012), Character 67.  
+136. Narrow interorbital septum, with outer walls in contact along midline forming a single sheet: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 136; Lu *et al*. (2016), Character 136; Giles *et al*. (2015), Character 136; Davis *et al*. (2012), Character 68. 
+> - Lu *et al*. (2016; 2017): The previous formulation of this character distinguished ‘narrow’ and ‘broad’ interorbital septa. This lacks precision, and is subject to differing opinions. We therefore have reformulated this character to refer to distinguish cases where the lateral walls of the braincase are separate in the orbital region from those where they join as a single sheet along the midline.
+> - Giles *et al*. (2015): Davis *et al*. (2012) code this character as '1' in ptyctodonts based on Long's (1997) interpretation, but cite it as tentative. Because this relies on a reconstruction of medio­‐laterally flattened fossils, these scores are changed to '?'. The interorbital space in *Gogonasus* and *Eusthenopteron* is quite narrow, and this is recoded as '1' for these taxa. *Acanthodes* and *Howqualepis* are scored '?' because the interorbital space can only be inferred.
+137. The main trunk of facial nerve (N. VII): 0. elongate and passes anterolaterally through orbital floor; 1. stout, divides within otic capsule at the level of the transverse otic process.
+>  Lu *et al*. (2017), Character 137; Lu *et al*. (2016), Character 137; Giles *et al*. (2015), Character 137; Davis *et al*. (2012), Character 69.
+> - Giles *et al*. (2015): The braincase referred to *Ligulalepis* is scored '?' due to variable interpretations of the position and identity of the jugular canal in this taxon (Basden & Young 2001; Friedman & Brazeau 2010; Davis *et al*.2012).
+138. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal: 0. traverses jugular canal, with separate exit in otic region; 1. intersects jugular canal, with exit through posterior jugular foramen.
+>  Lu *et al*. (2017), Character 138; Lu *et al*. (2016), Character 138; Giles *et al*. (2015), Character 138; Davis *et al*. (2012), Character 70.
+> - Giles *et al*. (2015): This character is coded as inapplicable for taxa that lack skeletal enclosure of the jugular vein within the otic capsule, as well as in osteostracans and galeaspids where the hyoid ramus of the facial nerve exits in the orbit (see previous character).
+139. Glossopharyngeal nerve (N. IX) exit: 0. foramen situated posteroventral to otic capsule and anterior to metotic fissure; 1. through metotic fissure.
+>  Lu *et al*. (2017), Character 139; Lu *et al*. (2016), Character 139; Giles *et al*. (2015), Character 139; Davis *et al*. (2012), Character 71.
+> - Giles *et al*. (2015): The case for the placement of N. IX in *Acanthodes* by Davis *et al*. (2012) is problematic. The groove interpreted as the passage of the glossopharyngeal nerve in *Acanthodes* is also present in the braincase referred to *Ligulalepis*. So, either we must reinterpret the course of its glossopharyngeal nerve, or consider that this groove has no significance for the course of the glossopharyngeal nerve. We adopt a conservative approach, and code the condition in *Acanthodes* as '?'.
+140. Relationship of cranial endocavity to basisphenoid: 0. endocavity occupies full depth of sphenoid; 1. enodcavity dorsally restricted.
+> Lu *et al*. (2017), Character 140; Lu *et al*. (2016), Character 140; Giles *et al*. (2015), Character 140; Davis *et al*. (2012), Character 74.
+> - Giles *et al*. (2015): Reformulated from Brazeau (2009) and Davis *et al*. (2012). Formerly a distinction between tropibasy and platybasy, this character has been revised to use more descriptive terms and avoid embryological baggage and typology. The condition referring to the precise proportions of this feature(i.e. as septate or broad) are accounted for in character 135. Taxa for which this cannot be directly observed have been recoded to '?'. Acanthodes has been scored similarly because this region is not mineralised.
+141. Subcranial ridges: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 141; Lu *et al*. (2016), Character 141; Giles *et al*. (2015), Character 141.
+> - Giles *et al*. (2015): Subcranial ridges were first described in *Doliodus* by Maisey *et al*. (2009). These ridges extend along the ventrolateral corner of the basicranium from the level of the hypophysis up to the hyomandibular articulation. These ridges have not previously been recognized in other early gnathostomes prior to our observations in *Janusiscus*. It is apparent from our revised comparative anatomy of early gnathostome braincases that subcranial ridges are present in the braincase referred to *Ligulalepis*, where they are manifest as downturned margins of the ventral surface of the sphenoid (Basden & Young 2001), and *Mimipiscis* (Gardiner 1984: fig.50), where they greatly reduced in length.
+142. Ascending basisphenoid pillar pierced by common internal carotid: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 142; Lu *et al*. (2016), Character 142; Giles *et al*. (2015), Character 142; Davis *et al*. (2012), Character 75.
+> - Giles *et al*. (2015): There is ambiguity in assessing this character for any taxon for which the endocast has not been described in detail. Scores for *Guiyu*, *Psarolepis*, *Porolepis*, *Tristychius* and *Gogonasus* are changed to '?' as there is no adequate documentation of the endocranial cavity in these taxa.
+143. Canal for lateral dorsal aorta within basicranial cartilage: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 143; Lu *et al*. (2016), Character 143; Giles *et al*. (2015), Character 143; Davis *et al*. (2012), Character 77.
+144. Entrance of internal carotids: 0. through separate openings flanking the hypophyseal opening or recess; 1. through a common opening at the central midline of the basicranium.
+> Lu *et al*. (2017), Character 144; Lu *et al*. (2016), Character 144; Giles *et al*. (2015), Character 144; Davis *et al*. (2012), Character 78.
+> - Giles *et al*. (2015): Zhu *et al*. (2013) propose revised codes of '0' for *Porolepis*, *Psarolepis*, and *Guiyu*. We accept these changes for *Porolepis* and *Psarolepis*, but retain a code of '?' for *Guiyu* owing to unclear conditions in published figures.
+145. Canal for efferent pseudobranchial artery within basicranial cartilage: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 145; Lu *et al*. (2016), Character 145; Giles *et al*. (2015), Character 145; Davis *et al*. (2012), Character 79.   
+146. Position of basal/basipterygoid articulation: 0. same anteroposterior level as hypophysial opening; 1. anterior to hypophysial opening; 2. posterior to hypophysial opening.
+> Lu *et al*. (2017), Character 146; Lu *et al*. (2016), Character 146; Giles *et al*. (2015), Character 146; Davis *et al*. (2012), Character 80.     
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘?’ for *Debeerius*.
+> - Giles *et al*. (2015): *Doliodus* has been scored as polymorphic for this character because it represents a combination of both conditions. The orbital articulation appears to be coextensive with most of the length of the suborbital ridge (Maisey *et al*.2009). The ridge is distinctly wider at the level of the hypophysial opening, which recalls the weak basipterygoid articulation in the braincase referred to *Ligulalepis* (Basden & Young2 001; MDB pers. obs. 2007).
 147. Articulation between neurocanium and palatoquadrate posterodorsal to orbit 
 (suprapterygoid articulation):
 0. absent
