@@ -194,78 +194,67 @@
 > Lu *et al*. (2017), Character 64; Lu *et al*. (2016), Character 64; Giles *et al*. (2015), Character 64; Davis *et al*. (2012), Character 29.
 65. Branchiostegal ossifications: 0. ornamented; 1. unornamented.
 >Lu *et al*. (2017), Character 65; Lu *et al*. (2016), Character 65; Giles *et al*. (2015), Character 65; Davis *et al*. (2012), Character 30.
-> 
 > - Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
-66. Imbricated branchiostegal ossifications:
-0. absent
-1. present
-67. Median gular:
-0. absent
-1. present
-68. Lateral gular:
-0. absent
-1. present
-69. Opercular (submarginal) ossification:
-0. absent
-1. present
-70. Shape of opercular (submarginal) ossification:
-0. broad plate that tapers towards its proximal end
-1. narrow, rod-shaped
-71. Size of lateral gular plates:
-0. extending most of length of the lower jaw
-1. restricted to the anterior third of the jaw (no longer than the width of three or four 
-branchiostegals)
-Ventral hyoid arch and gill skeleton
-72. Gill arches:
-Changed from ‘?’ to ‘0’ in Chondrenchelys.
-0. largely restricted to region under braincase
-1. extend far posterior to braincase
-73. Basihyal:
-0. absent
-1. present
-74. Interhyal:
-0. absent
-1. present
-75. Hypohyal:
-0. absent
-1. present
-76. Endoskeletal urohyal:
-0. absent
-1. present
-Dentition and jaw bones
-77. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth:
-0. absent
-1. present
-78. Oral dermal tubercles patterned in organised rows (teeth):
-0. absent
-1. present
-79. Enamel(oid) on teeth:
-0. absent
-1. present
-80. Cap of enameloid restricted to upper part of teeth (acrodin):
-0. absent
-1. present
-81. Tooth whorls:
-0. absent
-1. present
-82. Bases of tooth whorls:
-0. single, continuous plate
-1. some or all whorls consist of separate tooth units
-83. Distribution of tooth whorls:
-Changed from ‘1’ to ‘0’ for Debeerius; from ‘-‘ to ‘0’ for Chondrenchelys.
-0. entire length of tooth row
-1. restricted to symphysial region
-84. Distribution of tooth whorls:
-Changed from ‘?’ to ‘0’ for Helodus. 
-0. upper and lower jaws
-1. lower jaws only
-2. upper jaws only
-85. Teeth ankylosed to dermal bones:
-0. absent
-1. present
-86. Plicidentine:
-0. absent
-1. present
+66. Imbricated branchiostegal ossifications: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 66; Lu *et al*. (2016), Character 66; Giles *et al*. (2015), Character 66; Davis *et al*. (2012), Character 31.
+> - Giles *et al*. (2015): Davis *et al*. (2012) changed this character to a different definition from Brazeau (2009). It is here reinstated to the original meaning, reflecting the presence of proximal imbrication. *Mesacanthus* is restored to a score of '1'. 
+67. Median gular: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 67; Lu *et al*. (2016), Character 67; Giles *et al*. (2015), Character 67; Lund *et al*. (1995), Character 64; Cloutier & Ahlberg (1996), Character 66; Forey (1998), Character 45; Coates (1999), Character 11; Lund (2000), Character 49; Schultze & Cumbaa (2001), Character 84; Zhu & Schultze (2001), Character 109; Zhu *et al*. (2001), Character 85; Zhu & Yu (2002), Character 85; Lund & Poplin (2002), Character 47; Cloutier & Arratia (2004), Character 115; Zhu *et al*. (2006), Character 67; Friedman (2007), Character 73; Zhu *et al*. (2009), Character 102; Zhu *et al*. (2013), Character 196.
+68. Lateral gular: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 68; Lu *et al*. (2016), Character 68; Giles *et al*. (2015), Character 68.
+69. Opercular (submarginal) ossification: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 69; Lu *et al*. (2016), Character 69; Giles *et al*. (2015), Character 69; Davis *et al*. (2012), Character 33.
+70. Shape of opercular (submarginal) ossification: 0. broad plate that tapers towards its proximal end; 1. narrow, rod-shaped.
+>   Lu *et al*. (2017), Character 70; Lu *et al*. (2016), Character 70; Giles *et al*. (2015), Character 70; Davis *et al*. (2012), Character 34.
+71. Size of lateral gular plates: 0. extending most of length of the lower jaw; 1. restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals).
+>   Lu *et al*. (2017), Character 71; Lu *et al*. (2016), Character 71; Giles *et al*. (2015), Character 71; Davis *et al*. (2012), Character 36.
+## *Ventral hyoid arch and gill skeleton*
+72. Gill arches: 0. largely restricted to region under braincase; 1. extend far posterior to braincase.
+>   Lu *et al*. (2017), Character 72; Lu *et al*. (2016), Character 72; Giles *et al*. (2015), Character 72.
+> - Lu *et al*. (2017): Changed from ‘?’ to ‘0’ in *Chondrenchelys*.
+> - Giles *et al*. (2015): Scores for certain placoderms without preserved or mineralized gill arch and braincase skeletons are based on the outline of the braincase on the visceral surface of the skull roofing bones and the postition of the postbranchial lamina on the shoulder girdle. In placoderms, there is no room for the gill chamber to be extended behind the skull, and must therefore have been placed in a sub-­cranial position.
+73. Basihyal: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 73; Lu *et al*. (2016), Character 73; Giles *et al*. (2015), Character 73; Davis *et al*. (2012), Character 37.
+> - Giles *et al*. (2015): The coding for chondrichthyans has been revised following Pradel *et al*. (2014).
+74. Interhyal: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 74; Lu *et al*. (2016), Character 74; Giles *et al*. (2015), Character 74; Davis *et al*. (2012), Character 38.
+> - Giles *et al*. (2015): We agree with Davis *et al*. (2012) that the evidence for an interhyal in *Acanthodes* is weak. We retain their coding of '?' here. On the basis of an articulated hyoid arch of *Ischnacanthus* (NHMUK P.7000), we can confirm the absence of the interhyal in that genus and revise the code to '0'.
+75. Hypohyal: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 75; Lu *et al*. (2016), Character 75; Giles *et al*. (2015), Character 75; Gardiner (1984), Character 27; Maisey (1986), Character K11; Friedman & Brazeau (2010), Character 12.
+> - Giles *et al*. (2015): The coding for chondrichthyans has been revised following Pradel *et al*. (2014). The hypohyal is a cartilage that lies at the anterior end of the ceratohyal, and links the ventral half of the hyoid arch with the ventral gill skeleton. This character has been considered an osteichthyan synapomorphy (see Friedman & Brazeau 2010 for a review). Davis *et al*. (2012: 43, supplementary material) query—but do not test—the status of the hypohyal as an osteichthyan synapomorphy, noting occurrences in the chondrichthyans *Debeerius* (Lund & Grogan 2000: fig.7) and *Cobelodus* (Zangerl & Case 1976: fig.13). The putative example in *Debeerius* is peculiar, as it articulates with the anterolateral margin of the median basal element, rather than linking the ceratohyal with this basal cartilage. We consider the condition of the mesial hyoid arch in *Cobelodus* to be unclear.
+76. Endoskeletal urohyal: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 76; Lu *et al*. (2016), Character 76; Giles *et al*. (2015), Character 76; Friedman (2007),  Character 164.
+## *Dentition and jaw bones*
+77. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 77; Lu *et al*. (2016), Character 77; Giles *et al*. (2015), Character 77; Davis *et al*. (2012), Character 39.
+> - Giles *et al*. (2015): The original meaning of this character, as formulated by Brazeau (2009) is clarified by an elaborated formulation. Davis *et al*. (2012) have changed Brazeau's (2009) coding for *Obtusacanthus* from '1' to '0'. This taxon clearly has oral dermal tubercles, manifest as scales on the outer face of the Meckelian cartilage. He we restore a score of '1' for this genus. We also code *Bothriolepis* as '1', based on the presence of the denticulated inferognathals described by Young (1984). The score for *Euthacanthus* is changed to ‘0’, contra Davis *et al*. (2012), as we have not observed teeth in any specimen.
+78. Oral dermal tubercles patterned in organised rows (teeth): 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 78; Lu *et al*. (2016), Character 78; Giles *et al*. (2015), Character 78; Davis *et al*. (2012), Character 39.
+> - Giles *et al*. (2015): Teeth are here defined as tubercles borne on the jaw cartilages exhibiting distinct, non-­‐random cusps in serially organised rows.  
+79. Enamel(oid) on teeth: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 79; Lu *et al*. (2016), Character 79; Giles *et al*. (2015), Character 79; Rosen *et al*. (1981), Character 26; Lauder & Liem (1983), Character 17; Gardiner (1984), Character 36; Schultze & Cumbaa (2001), Character 104; Zhu & Schultze (2001), Character 212; Zhu *et al*. (2001), Character 156; Zhu & Yu (2002), Character 156; Zhu *et al*. (2006), Character 123; Friedman (2007), Character 139; Zhu *et al*. (2009), Character 153.
+> - Giles *et al*. (2015): Previous authors have restricted consideration to the presence of 'true' enamel only, a putative synapomorphy of sarcopterygians. Given the ambiguity in differentiating enamel and enameloid in many fossil vertebrates, we adopt a more general formulation of this character.
+80. Cap of enameloid restricted to upper part of teeth (acrodin): 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 80; Lu *et al*. (2016), Character 80; Giles *et al*. (2015), Character 80; Patterson (1982), Character 12; Gardiner (1984), Character 13; Maisey (1986), Character N6; Gardiner & Schaeffer (1989), Character B1; Cloutier & Ahlberg (1996), Character 7; Taverne (1997), Character 7; Coates (1999), Character 1; Poplin & Lund (2000), Character 21; Schultze & Cumbaa (2001), Character 35; Zhu & Schultze (2001), Character 210; Zhu *et al*. (2001), Character 154; Zhu & Yu (2002), Character 154; Cloutier & Arratia (2004), Character 32; Gardiner *et al*. (2005), Character 15; Friedman & Blom (2006), Character 25; Zhu *et al*. (2006), Character 120; Friedman (2007), Character 137; Zhu *et al*. (2009), Character 151; Friedman & Brazeau (2010), Character 140; Zhu *et al*. (2013), Character 140.
+> - Giles *et al*. (2015): Acrodin tooth caps are widely cited as character uniting most actinopterygians to the exclusion of *Cheirolepis* (Patterson 1982; Gardiner 1984). The presence or absence of acrodin is not well documented for most early actinopterygians, but is clearly present in both *Mimipiscis* and *Moythomasia* (Gardiner 1984).
+81. Tooth whorls: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 81; Lu *et al*. (2016), Character 81; Giles *et al*. (2015), Character 81; Davis *et al*. (2012), Character 40.
+> - Giles *et al*. (2015): We have restored a code of '1' for *Debeerius*, which bears teeth in families corresponding to the definition of whorls applied by Brazeau (2009). The parasymphysial tooth families of this genus align with a more restrictive view of whorls in having joined bases (Grogan & Lund 2000: 226).
+82. Bases of tooth whorls: 0. single, continuous plate; 1. some or all whorls consist of separate tooth units.
+>   Lu *et al*. (2017), Character 82; Lu *et al*. (2016), Character 82; Giles *et al*. (2015), Character 82; Davis *et al*. (2012), Character 41.
+> - Giles *et al*. (2015): *Doliodus* is coded here as '0', reflecting the fact that the teeth described by Turner (2004) represent multiple tooth bases united by thin sheets of bone. It seems probable that seemingly 'isolated' teeth of this genus represent broken whorls (Maisey *et al*. in press).
+83. Distribution of tooth whorls: 0. entire length of tooth row; 1. restricted to symphysial region.
+>   Lu *et al*. (2017), Character 83; Lu *et al*. (2016), Character 83; Giles *et al*. (2015), Character 83; Davis *et al*. (2012), Character 42.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Debeerius*; from ‘-’ to ‘0’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): *Dialipina* (Schultze and Cumbaa 2001), *Eusthenopteron* (Jarvik 1980), *Euthacanthus*, *Gogonasus* (Long *et al*. 1997), *Mimipiscis* (Gardiner 1984), *Rhamphodopsis* (Miles 1967), and *Tetanopsyrus* (Gagnier *et al*. 1999) lack tooth whorls, and so are recoded as inapplicable for this character.
+84. Distribution of tooth whorls: 0. upper and lower jaws; 1. lower jaws only; 2. upper jaws only.
+>  Lu *et al*. (2017), Character 84; Lu *et al*. (2016), Character 84; Giles *et al*. (2015), Character 84. 
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Helodus*. 
+85. Teeth ankylosed to dermal bones: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 85; Lu *et al*. (2016), Character 85; Giles *et al*. (2015), Character 85; Davis *et al*. (2012), Character 43.
+> - Giles *et al*. (2015): Davis *et al*. (2012) revised the coding provided by Brazeau (2009) for this character to '1' for *Dicksonosteus*. By the same token, we revise the coding of *Buchanosteus* from '0' to '1' based on the account and figures provided by Young *et al*. (2001).
+86. Plicidentine: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 86; Lu *et al*. (2016), Character 86; Giles *et al*. (2015), Character 86; Cloutier & Ahlberg (1996), Character 14; Ahlberg & Johanson(1998), Character 14; Schultze & Cumbaa (2001), Character 102-103; Zhu & Schultze (2001), Character 213-215; Zhu *et al*. (2001), Character 157; Zhu & Yu (2002), Character 157; Zhu & Ahlberg (2004), Character 14; Daeschler *et al*. (2006), Character 10; Long *et al*. (2006), Character 21; Zhu *et al*. (2006), Character 124-125; Friedman (2007), Character 150; Zhu *et al*. (2009), Character 152; Zhu *et al*. (2009), Character 152; Zhu *et al*. (2013), Character 141.
 87. Dermal jaw plates on biting surface of jaw cartilages:
 0. absent
 1. present
