@@ -653,12 +653,11 @@
 > - Friedman (2007): A foramen in the dermal skull roof leading to the pineal organ is absent in porolepiforms (Jarvik 1972), *Diabolepis* (Chang & Yu 1984; Chang 1995) and *Youngolepis* (Chang 1982, 1991b), but the position of the latter structure in each is marked by a large blister. A similar eminence is also found in the early lungfish *Erikia* (Chang & Wang 1995), suggesting that this might be a primitive character of dipnomorphs (contra Campbell & Barwick 2001: 236). 
 240. Position of anterior pitline: 0. on postparietal; 1. on parietal.
 > Lu *et al*. (2017), Character 240; Lu *et al*. (2016), Character 240; Zhu *et al*. (2009), Character 106; Cloutier & Ahlberg (1996), Character 103; Zhu & Schultze (2001), Character 50; Zhu *et al*. (2001), Zhu & Yu (2002), Character 38; Zhu *et al*. (2006), Character 40; Friedman (2007), Character 36.   
-241. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal:
-0. absent
-1. present
-242. Median skull roof bone between postparietals (B-bone):
-0. absent
-1. present
+241. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 241; Lu *et al*. (2016), Character 241.  
+242. Median skull roof bone between postparietals (B-bone): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 242; Lu *et al*. (2016), Character 242; Zhu & Yu (2002), Character 13; Friedman (2007), Character 12.
+> - Friedman (2007): The postparietal shield has not been described for *Achoania* (Zhu *et al*. 2001), so the coding for this genus is changed from ‘0’ to ‘?’.
 243. Westoll lines:
 0. absent
 1. present
