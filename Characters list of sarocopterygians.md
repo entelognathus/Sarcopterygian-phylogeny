@@ -459,136 +459,106 @@
 > - Giles *et al*. (2015): Like other dorsal ridges present in fish skulls, the dorsal ridge of the endocranium found in some chondrichthyans and acanthodians likely marks the division between the insertion of paired epaxial musculature. Because this arrangement is contingent upon the presence of such insertions on the dorsal surface of the neurocranium, we have coded this character as inapplicable for taxa with dermal skull roofs.
 161. Shape of median dorsal ridge anterior to endolymphatic fossa: 0. developed as a squared-off ridge or otherwise ungrooved; 1. bears a midline groove.
 >  Lu *et al*. (2017), Character 161; Lu *et al*. (2016), Character 161; Giles *et al*. (2015), Character 161; Coates & Sequeira(1999), Character 11; Coates & Sequeira (2001a), Character 75; Coates & Sequeira (2001b), Character 9; Maisey (2001), Character 9.
-162. Endolymphatic ducts in neurocranium:
-Changed code from ‘?’ to ‘1’ for Chondrenchelys.
-0. posteriodorsally angled tubes
-1. tubes oriented vertically through median endolymphatic fossa
-163. Position of hyomandibula articulation on neurocranium:
-Changed code from ‘?’ to ‘1’ for Ligulalepis.
-0. below or anterior to orbit, on ventrolateral angle of braincase
-1. on otic capsule, posterior to orbit
-164. Position of hyomandibula articulation relative to structure of skeletal labyrinth:
-0. anterior or lateral to skeletal labyrinth
-1. at level of posterior semicircular canal
-165. Hyoid arch articulation on braincase:
-0. single
-1. double
-166. Branchial ridges*:
-0. present
-1. reduced to vagal process
-2. absent (articulation made with bare cranial wall)
-167. Craniospinal process:
-Changed from ‘?’ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-168. Ventral cranial fissure:
-Changed from ‘?’ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-169. Basicranial fenestra:
-Changed from ‘?’ to ‘-‘ for Chondrenchelys.
-0. absent
-1. present
-170. Metotic (otic-occipital) fissure:
-0. absent
-1. present
-171. Vestibular fontanelle:
-Changed from ‘1’ to ‘?’ for Porolepis; ‘?’ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-172. Occipital arch wedged in between otic capsules:
-Changed from ‘?’ to ‘0’ for Psarolepis.
-0. absent
-1. present
-173. Spino-occipital nerve foramina:
-0. two or more, aligned horizontally
-1. one or two, dorsoventrally offset
-174. Ventral notch between parachordals:
-0. present or entirely unfused
-1. absent
-175. Parachordal shape:
-0. forming a broad, flat surface as wide as the otic capsules
-1. mediolaterally constricted relative to the otic capsules
-176. Stalk-shaped parachordal/occipital region:
-0. absent
-1. present
-177. Paired occipital facets:
-0. absent
-1. present
-178. Size of aperture to notochordal canal:
-0. much smaller than foramen magnum
-1. as large, or larger, than foramen magnum
-179. Canal for median dorsal aorta within basicranium:
-Changed from ‘?’ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-180. Hypotic lamina (and dorsally directed glossopharyngeal canal):
-Changed from ‘?’ to ‘-‘ for Chondrenchelys.
-0. absent
-1. present
-Paired fins and girdles
-181. Macromeric dermal shoulder girdle:
-0. present
-1. absent
-182. Dermal shoulder girdle composition:
-0. ventral and dorsal (scapular) components
-1. ventral components only
-183. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral 
-plate):
-0. spatulate
-1. pointed
-184. Dermal shoulder girdle forming a complete ring around the trunk:
-0. present
-1. absent
-185. Pectoral fenestra completely encircled by dermal shoulder armour:
-0. present
-1. absent
-186. Median dorsal plate:
-0. absent
-1. present
-187. Posterior dorsolateral (PDL) plate or equivalent:
-0. absent
-1. present
-188. Pronounced internal median keel on dorsal shoulder girdle (i.e., crista of median 
-dorsal plate):
-0. absent
-1. present
-189. Crista internalis of dermal shoulder girdle:
-0. absent
-1. present
-190. Scapular infundibulum:
-0. absent
-1. present
-191. Scapular process of shoulder endoskeleton:
-0. absent
-1. present
-192. Ventral margin of separate scapular ossification:
-0. horizontal
-1. deeply angled
-193. Cross sectional shape of scapular process:
-0. flattened or strongly ovate
-1. subcircular
-194. Flange on trailing edge of scapulocoracoid:
-0. absent
-1. present
-195. Scapular process with posterodorsal angle:
-0. absent
-1. present
-196. Endoskeletal postbranchial lamina on scapular process:
-0. present
-1. absent
-197. Mineralisation of internal surface of scapular blade:
-0. mineralised all around
-1. unmineralised on internal face forming a hemicylindrical cross-section
-198. Coracoid process:
-0. absent
-1. present
-199. Procoracoid mineralisation:
-0. absent
-1. present
-200. Fin base articulation on scapulocoracoid:
-0. deeper than wide (stenobasal)
-1. wider than deep (eurybasal)
+162. Endolymphatic ducts in neurocranium: 0. posteriodorsally angled tubes; 1. tubes oriented vertically through median endolymphatic fossa.
+> Lu *et al*. (2017), Character 162; Lu *et al*. (2016), Character 162; Giles *et al*. (2015), Character 162; Davis *et al*. (2012), Character 92. 
+> - Lu *et al*. (2016; 2017): Changed code from ‘?’ to ‘1’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): Zhu *et al*. (2013) revised the coding for *Cowralepis* to '0', citing the arrangement of impressions on the visceral surface of the dermal skull roof in this taxon. However, no endocranium is preserved in *Cowralepis*, and the present character refers explicitly to the course of these ducts within the neurocranium. We therefore restore a code of '?'.
+163. Position of hyomandibula articulation on neurocranium: 0. below or anterior to orbit, on ventrolateral angle of braincase; 1. on otic capsule, posterior to orbit.
+> Lu *et al*. (2017), Character 163; Lu *et al*. (2016), Character 163; Giles *et al*. (2015), Character 163; Davis *et al*. (2012), Character 95.   
+> - Lu *et al*. (2016; 2017): Changed code from ‘?’ to ‘1’ for *Ligulalepis*.
+164. Position of hyomandibula articulation relative to structure of skeletal labyrinth: 0. anterior or lateral to skeletal labyrinth; 1. at level of posterior semicircular canal.
+> Lu *et al*. (2017), Character 164; Lu *et al*. (2016), Character 164; Giles *et al*. (2015), Character 164; Davis *et al*. (2012), Character 93, inpart.
+> - Giles *et al*. (2015): This character can be coded for taxa that either lack or bear a transverse otic process. We consider this a more precise statement of the relative placement of the hyomandibular articulation in most chondrichthyans by comparison with other gnathostomes. This character also captures whether the transverse otic process is level with the anterior part of the otic region, as is placoderms and osteichthyans, or is more posteriorly placed, as in chondrichthyans.
+165. Hyoid arch articulation on braincase: 0. single; 1. double.
+> Lu *et al*. (2017), Character 165; Lu *et al*. (2016), Character 165; Giles *et al*. (2015), Character 165; Cloutier & Ahlberg (1998), Character 88; Zhu & Schultze (2001), Character 128; Schultze & Cumbaa (2001), Character 53; Zhu *et al*. (2001), Character 96; Zhu & Yu (2002), Character 96; Zhu *et al*. (2006), Character 73; Friedman (2007), Character 84; Zhu *et al*. (2009), Character 44; Zhu *et al*. (2013), Character 228.   
+166. Branchial ridges*: 0. present; 1. reduced to vagal process; 2. absent (articulation made with bare cranial wall).
+> Lu *et al*. (2017), Character 166; Lu *et al*. (2016), Character 166; Giles *et al*. (2015), Character 166.
+> - Giles *et al*. (2015): Here we define the vagal process as a lateral extension (or extensions) of the posterior otic region that are associated with foramina for branches of the vagus (X) nerve and bear facets for the branchial arches. They can also be pierced by the jugular canal. Vagal processes are well developed in placoderms (e.g. *Dicksonosteus*; Goujet 1984: fig 6). A complete account of vagal processes is provided above in section 3 ('Lateral Processes of Early Gnathostome Neurocrania').
+167. Craniospinal process: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 167; Lu *et al*. (2016), Character 167; Giles *et al*. (2015), Character 167.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): The craniospinal process forms the posterolateral corner of the braincase and is often involved with or supports the cranio-­‐thoracic joint. A complete account of the craniospinal process is provided above in section 3 ('Lateral Processes of Early Gnathostome Neurocrania').
+168. Ventral cranial fissure: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 168; Lu *et al*. (2016), Character 168; Giles *et al*. (2015), Character 168; Davis *et al*. (2012), Character 96.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Chondrenchelys*.
+169. Basicranial fenestra: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 168; Lu *et al*. (2016), Character 168; Giles *et al*. (2015), Character 168; Ahlberg & Johanson (1998), Character 76; Zhu *et al*. (2001), Character 114; Zhu & Yu (2002), Character 114; Zhu & Ahlberg (2004), Character 76; Daeschler *et al*. (2006), Character 52; Long *et al*. (2006), Character 34; Friedman (2007), Character 100; Zhu *et al'8. (2009), Character 52; Zhu *et al*. (2013), Character 231.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+170. Metotic (otic-occipital) fissure: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 170; Lu *et al*. (2016), Character 170; Giles *et al*. (2015), Character 170; Davis *et al*. (2012), Character 97.
+171. Vestibular fontanelle: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 171; Lu *et al*. (2016), Character 171; Giles *et al*. (2015), Character 171; Davis *et al*. (2012), Character 98.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘?’ for *Porolepis*; ‘?’ to ‘0’ for *Chondrenchelys*.
+172. Occipital arch wedged in between otic capsules: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 172; Lu *et al*. (2016), Character 172; Giles *et al*. (2015), Character 172; Davis *et al*. (2012), Character 99. 
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Psarolepis*.
+173. Spino-occipital nerve foramina: 0. two or more, aligned horizontally; 1. one or two, dorsoventrally offset.
+>   Lu *et al*. (2017), Character 173; Lu *et al*. (2016), Character 173; Giles *et al*. (2015), Character 173; Davis *et al*. (2012), Character 100.
+174. Ventral notch between parachordals: 0. present or entirely unfused; 1. absent.
+> Lu *et al*. (2017), Character 174; Lu *et al*. (2016), Character 174; Giles *et al*. (2015), Character 174; Davis *et al*. (2012), Character 101.
+> - Giles *et al*. (2015): This is changed to '?' for galeaspids as the notochordal space is unindicated by Gai *et al*. (2011). *Cowralepis* is changed to '0' as the parachordal plates are unfused, even though they are closely adpressed.
+175. Parachordal shape: 0. forming a broad, flat surface as wide as the otic capsules; 1. mediolaterally constricted relative to the otic capsules.
+> Lu *et al*. (2017), Character 175; Lu *et al*. (2016), Character 175; Giles *et al*. (2015), Character 175; Davis *et al*. (2012), Character 102.
+> - Giles *et al*. (2015): Modified from Brazeau (2009). Previous formulation was: "Parachordal shape: broad, flat (0); keeled with sloping lateral margins (1)." The parachordals might not necessarily slope, but they may be considerably narrower than the otic capsules; the base of the parachordals might be considerably more ventral than the otic capsules.
+176. Stalk-shaped parachordal/occipital region: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 176; Lu *et al*. (2016), Character 176; Giles *et al*. (2015), Character 176.
+> - Giles *et al*. (2015): In petalichthyids such as *Macropetalichthys*, the occiput is flanked by large cucullaris fossae, resulting in a very elongage and narrow occipital region (Stensiö 1969; Young 1978). Although the endocranium of *Lunaspis* is not known in any external preparations, the stalked occiput is clearly visible in a radiograph prepared by W. Stürmer (SMF WS10825) of an isolated skull from the Hunsrück Slate.
+177. Paired occipital facets: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 177; Lu *et al*. (2016), Character 177; Giles *et al*. (2015), Character 177.
+178. Size of aperture to notochordal canal: 0. much smaller than foramen magnum; 1. as large, or larger, than foramen magnum.
+> Lu *et al*. (2017), Character 178; Lu *et al*. (2016), Character 178; Giles *et al*. (2015), Character 178.
+179. Canal for median dorsal aorta within basicranium: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 179; Lu *et al*. (2016), Character 179; Giles *et al*. (2015), Character 179; Coates & Sequeira (1998), Character 3; Coates & Sequeira (2001a), Character 68; Coates & Sequiera (2001b), Character 68; Friedman (2007), Character 183; Zhu *et al*. (2009), Character 51; Friedman & Brazeau (2010), Character 38; Zhu *et al*. (2013), Character 234.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for Chondrenchelys.
+180. Hypotic lamina (and dorsally directed glossopharyngeal canal): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 180; Lu *et al*. (2016), Character 180; Giles *et al*. (2015), Character 180; Davis *et al*. (2012), Character 103.
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+> - Giles *et al*. (2015): Presence of a hypotic lamina is contingent on the retention of an otoccipital fissure between the parachordals and otic capsule. We therefore code all taxa lacking a persistent fissure as inapplicable. Although Davis *et al*. (2012) argue for the presence of a hypotic lamina in *Chondrenchelys*, its condition cannot be assessed. We therefore recode this taxon as '?'.
+## *Paired fins and girdles*
+181. Macromeric dermal shoulder girdle: 0. present; 1. absent.
+> Lu *et al*. (2017), Character 181; Lu *et al*. (2016), Character 181; Giles *et al*. (2015), Character 181; Davis *et al*. (2012), Character 104.
+182. Dermal shoulder girdle composition: 0. ventral and dorsal (scapular) components; 1. ventral components only.
+> Lu *et al*. (2017), Character 182; Lu *et al*. (2016), Character 182; Giles *et al*. (2015), Character 182; Davis *et al*. (2012), Character 105.
+183. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): 0. spatulate; 1. pointed.
+> Lu *et al*. (2017), Character 183; Lu *et al*. (2016), Character 183; Giles *et al*. (2015), Character 183; Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu *et al*. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu *et al*. (2006), Character 96; Friedman (2007), Character 107; Zhu *et al*. (2009), Character 124.
+184. Dermal shoulder girdle forming a complete ring around the trunk: 0. present; 1. absent.
+> Lu *et al*. (2017), Character 184; Lu *et al*. (2016), Character 184; Giles *et al*. (2015), Character 184; Davis *et al*. (2012), Character 106.
+185. Pectoral fenestra completely encircled by dermal shoulder armour: 0. present; 1. absent.
+> Lu *et al*. (2017), Character 185; Lu *et al*. (2016), Character 185; Giles *et al*. (2015), Character 185; Davis *et al*. (2012), Character 107.
+186. Median dorsal plate: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 186; Lu *et al*. (2016), Character 186; Giles *et al*. (2015), Character 186; Davis *et al*. (2012), Character 108.
+187. Posterior dorsolateral (PDL) plate or equivalent: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 187; Lu *et al*. (2016), Character 187; Giles *et al*. (2015), Character 187.
+188. Pronounced internal median keel on dorsal shoulder girdle (i.e., crista of median dorsal plate): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 188; Lu *et al*. (2016), Character 188; Giles *et al*. (2015), Character 188; Davis *et al*. (2012), Character 109.
+189. Crista internalis of dermal shoulder girdle: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 189; Lu *et al*. (2016), Character 189; Giles *et al*. (2015), Character 189; Davis *et al*. (2012), Character 109.
+190. Scapular infundibulum: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 190; Lu *et al*. (2016), Character 190; Giles *et al*. (2015), Character 190.
+> - Giles *et al*. (2015): This character refers to the dermal opening for the scapulocoracoid. In antiarchs, the scapula is situated within an infundibulum, rather than a fenestration. 
+191. Scapular process of shoulder endoskeleton: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 191; Lu *et al*. (2016), Character 191; Giles *et al*. (2015), Character 191; Davis *et al*. (2012), Character 110.  
+192. Ventral margin of separate scapular ossification: 0. horizontal; 1. deeply angled.
+>  Lu *et al*. (2017), Character 192; Lu *et al*. (2016), Character 192; Giles *et al*. (2015), Character 192; Davis *et al*. (2012), Character 111.
+193. Cross sectional shape of scapular process: 0. flattened or strongly ovate; 1. subcircular.
+>   Lu *et al*. (2017), Character 193; Lu *et al*. (2016), Character 193; Giles *et al*. (2015), Character 193; Davis *et al*. (2012), Character 112.
+194. Flange on trailing edge of scapulocoracoid: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 194; Lu *et al*. (2016), Character 194; Giles *et al*. (2015), Character 194; Davis *et al*. (2012), Character 113.
+195. Scapular process with posterodorsal angle: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 195; Lu *et al*. (2016), Character 195; Giles *et al*. (2015), Character 195; Davis *et al*. (2012), Character 114.
+> - Giles *et al*. (2015): *Culmacanthus* is scored as '? ' because scapulocoracoids associated with a specimen of this taxon shows an inflection resembling a posterodorsal angle (Burrow & Young 2012: fig. 2 f, g). However, this is not seen in other specimens. *Onychoselache* and *Hamiltonichthys* are re‐coded '1' based on photographs and specimen illustrations (Maisey 1989: fig. 14; Coates & Gess 2007: fig. 5).
+196. Endoskeletal postbranchial lamina on scapular process: 0. present; 1. absent.
+> Lu *et al*. (2017), Character 196; Lu *et al*. (2016), Character 196; Giles *et al*. (2015), Character 196; Davis *et al*. (2012), Character 115.
+> - Giles *et al*. (2015): We have revised the coding for *Austroptyctodus* to '0' (Long 1997).
+197. Mineralisation of internal surface of scapular blade: 0. mineralised all around; 1. unmineralised on internal face forming a hemicylindrical cross-section.
+> Lu *et al*. (2017), Character 197; Lu *et al*. (2016), Character 197; Giles *et al*. (2015), Character 197; Davis *et al*. (2012), Character 116.   
+198. Coracoid process: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 198; Lu *et al*. (2016), Character 198; Giles *et al*. (2015), Character 198; Davis *et al*. (2012), Character 117.
+199. Procoracoid mineralisation: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 199; Lu *et al*. (2016), Character 199; Giles *et al*. (2015), Character 199; Davis *et al*. (2012), Character 118.
+200. Fin base articulation on scapulocoracoid: 0. deeper than wide (stenobasal); 1. wider than deep (eurybasal).
+>   Lu *et al*. (2017), Character 200; Lu *et al*. (2016), Character 200; Giles *et al*. (2015), Character 200; Davis *et al*. (2012), Character 119.
+> - Giles *et al*. (2015): *Guiyu* and *Psarolepis* re­‐scored as '1'. *Acanthodes* scored '1'. Conditions in ptyctodonts are uncertain, but there is clearly more than one position for fin basals, often broadly separated (Miles & Young 1977; Trinajstic *et al*. 2012). *Debeerius* is scored '1' as the articulation is indicated as being quite broad (Grogan & Lund 2000).   
 201. Pectoral fin articulation:
 0. monobasal
 1. polybasal
