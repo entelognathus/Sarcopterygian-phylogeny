@@ -541,7 +541,7 @@
 192. Ventral margin of separate scapular ossification: 0. horizontal; 1. deeply angled.
 >  Lu *et al*. (2017), Character 192; Lu *et al*. (2016), Character 192; Giles *et al*. (2015), Character 192; Davis *et al*. (2012), Character 111.
 193. Cross sectional shape of scapular process: 0. flattened or strongly ovate; 1. subcircular.
->   Lu *et al*. (2017), Character 193; Lu *et al*. (2016), Character 193; Giles *et al*. (2015), Character 193; Davis *et al*. (2012), Character 112.
+> Lu *et al*. (2017), Character 193; Lu *et al*. (2016), Character 193; Giles *et al*. (2015), Character 193; Davis *et al*. (2012), Character 112.
 194. Flange on trailing edge of scapulocoracoid: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 194; Lu *et al*. (2016), Character 194; Giles *et al*. (2015), Character 194; Davis *et al*. (2012), Character 113.
 195. Scapular process with posterodorsal angle: 0. absent; 1. present.
@@ -559,73 +559,57 @@
 200. Fin base articulation on scapulocoracoid: 0. deeper than wide (stenobasal); 1. wider than deep (eurybasal).
 >   Lu *et al*. (2017), Character 200; Lu *et al*. (2016), Character 200; Giles *et al*. (2015), Character 200; Davis *et al*. (2012), Character 119.
 > - Giles *et al*. (2015): *Guiyu* and *Psarolepis* re­‐scored as '1'. *Acanthodes* scored '1'. Conditions in ptyctodonts are uncertain, but there is clearly more than one position for fin basals, often broadly separated (Miles & Young 1977; Trinajstic *et al*. 2012). *Debeerius* is scored '1' as the articulation is indicated as being quite broad (Grogan & Lund 2000).   
-201. Pectoral fin articulation:
-0. monobasal
-1. polybasal
-202. Number of basals in polybasal pectoral fins:
-0. three or more
-1. two
-203. Branching radials in paired fins:
-0. absent
-1. present
-204. Number of mesomeres in metapterygial axis:
-0. five or fewer
-1. seven or more
-205. Biserial pectoral fin endoskeleton:
-0. absent
-1. present
-206. Perforate propterygium:
-Changed from ‘-‘ to ‘0’ for Chondrenchelys.
-0. absent
-1. present
-207. Filamentous extension of pectoral fin from axillary region:
-0. absent
-1. present
-208. Pelvic fins:
-Changed from ‘?’ to ‘0’ for Galeaspida. 
-0. absent
-1. present
-209. Pelvic claspers:
-0. absent
-1. present
-210. Dermal pelvic clasper ossifications:
-0. absent
-1. present
-211. Pectoral fins covered in macromeric dermal armour:
-0. absent
-1. present
-212. Pectoral fin base has large, hemispherical dermal component:
-Changed from ‘?’ to ‘0’ for Styloichthys.
-0. absent
-1. present
-Axial skeleton including median fins and their supports
-213. Dorsal fin spines:
-0. absent
-1. present
-214. Anal fin spine:
-0. absent
-1. present
-215. Paired fin spines:
-0. absent
-1. present
-216. Median fin spine insertion:
-0. shallow, not greatly deeper than dermal bones/scales
-1. deep
-217. Intermediate fin spines:
-0. absent
-1. present
-218. Fin spine cross-section:
-0. Round or horseshoe shaped
-1. Flat-sided, with rectangular profile
-219. Intermediate spines when present:
-0. one pair
-1. multiple pairs
-220. Prepectoral fin spines:
-0. absent
-1. present
-221. Fin spines with ridges:
-0. absent
-1. present
+201. Pectoral fin articulation: 0. monobasal; 1. polybasal.
+> Lu *et al*. (2017), Character 201; Lu *et al*. (2016), Character 201; Giles *et al*. (2015), Character 201; Zhu & Schultze (2001), Character 175; Zhu *et al*. (2001), Character 129; Zhu & Yu (2002), Character 129; Zhu *et al*. (2006), Character 104; Friedman (2007), Character 113; Zhu *et al*. (2009), Character 130; Zhu *et al*. (2013), Character 130. 
+202. Number of basals in polybasal pectoral fins: 0. three or more; 1. two.
+> Lu *et al*. (2017), Character 202; Lu *et al*. (2016), Character 202; Giles *et al*. (2015), Character 202.
+203. Branching radials in paired fins: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 203; Lu *et al*. (2016), Character 203; Giles *et al*. (2015), Character 203.
+> - Giles *et al*. (2015): Complex patterns of branching radials are ubiquitous in the paired fins of crown gnathostomes. This branching is typically associated with the posterior margin of rear fins generally and the metapterygium specifically. By contrast, the basal support of osteostracan paired appendages consist of unbranched plates, while those of many placoderms appear to be constructed of parrallel rows of simpled, unbranched radials.
+204. Number of mesomeres in metapterygial axis: 0. five or fewer; 1. seven or more.
+> Lu *et al*. (2017), Character 204; Lu *et al*. (2016), Character 204; Giles *et al*. (2015), Character 204; Cloutier & Ahlberg (1996), Character 123; Zhu & Schultze (2001), Character 180; Zhu & Yu (2001), Character 132; Zhu & Yu (2002), Character 132; Friedman (2007), Character 115.  
+205. Biserial pectoral fin endoskeleton: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 205; Lu *et al*. (2016), Character 205; Giles *et al*. (2015), Character 205.
+206. Perforate propterygium: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 206; Lu *et al*. (2016), Character 206; Giles *et al*. (2015), Character 206; Davis *et al*. (2012), Character 120.  
+> - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ for *Chondrenchelys*.
+207. Filamentous extension of pectoral fin from axillary region: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 207; Lu *et al*. (2016), Character 207; Giles *et al*. (2015), Character 207.
+208. Pelvic fins: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 208; Lu *et al*. (2016), Character 208; Giles *et al*. (2015), Character 208; Davis *et al*. (2012), Character 121.    
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Galeaspida*.
+209. Pelvic claspers: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 209; Lu *et al*. (2016), Character 209; Giles *et al*. (2015), Character 209; Davis *et al*. (2012), Character 122.
+> - Giles *et al*. (2015): *Cladoselache* is coded as '1' based on the clasper‐like appendage figured by Hussakof & Bryant (1916)(cf. Maisey 2008). Long *et al*. (2009) argue for the presence of claspers in *Cowralepis*, so we revise the code of this taxon to '1'.
+210. Dermal pelvic clasper ossifications: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 210; Lu *et al*. (2016), Character 210; Giles *et al*. (2015), Character 210; Davis *et al*. (2012), Character 123.
+> - Giles *et al*. (2015): The presence of dermal pelvic clasper ossifications is contingent on the presence of claspers. We therefore code all taxa lacking claspers as inapplicable for the present character. All taxa for which the presence of claspers cannot be determined are coded as '?'.
+211. Pectoral fins covered in macromeric dermal armour: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 211; Lu *et al*. (2016), Character 211; Giles *et al*. (2015), Character 211; Davis *et al*. (2012), Character 124.
+212. Pectoral fin base has large, hemispherical dermal component: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 212; Lu *et al*. (2016), Character 212; Giles *et al*. (2015), Character 212; Davis *et al*. (2012), Character 125. 
+> - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ for *Styloichthys*.
+## *Axial skeleton including median fins and their supports*
+213. Dorsal fin spines: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 213; Lu *et al*. (2016), Character 213; Giles *et al*. (2015), Character 213; Davis *et al*. (2012), Character 126.
+> - Giles *et al*. (2015): A spine-­like midline ossification is present at the anterior margin of the dorsal fin of *Ptericthyodes* (Hemmings 1978), so we code this taxon as '1'.
+214. Anal fin spine: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 214; Lu *et al*. (2016), Character 214; Giles *et al*. (2015), Character 214; Davis *et al*. (2012), Character 127.  
+215. Paired fin spines: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 215; Lu *et al*. (2016), Character 215; Giles *et al*. (2015), Character 215; Davis *et al*. (2012), Character 128.
+216. Median fin spine insertion: 0. shallow, not greatly deeper than dermal bones/scales; 1. deep.
+> Lu *et al*. (2017), Character 216; Lu *et al*. (2016), Character 216; Giles *et al*. (2015), Character 216; Davis *et al*. (2012), Character 129.
+217. Intermediate fin spines: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 217; Lu *et al*. (2016), Character 217; Giles *et al*. (2015), Character 217; Davis *et al*. (2012), Character 130.
+218. Fin spine cross-section: 0. Round or horseshoe shaped; 1. Flat-sided, with rectangular profile.
+> Lu *et al*. (2017), Character 218; Lu *et al*. (2016), Character 218; Giles *et al*. (2015), Character 218.
+> - Giles *et al*. (2015): Early gnathostome fin spines have at least two distinctive profiles in cross‐section. Generally, the profile is gently curving or parabolic. Taxa such as acanthodids and ischnacanthids exhibit a condition in which the cross-­section is more rectangular, and the sides of the spine are flatter and closer to parallel (Denison 1979; Gagnier & Wilson 1996).
+219. Intermediate spines when present: 0. one pair; 1. multiple pairs.
+> Lu *et al*. (2017), Character 219; Lu *et al*. (2016), Character 219; Giles *et al*. (2015), Character 219.  
+220. Prepectoral fin spines: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 220; Lu *et al*. (2016), Character 220; Giles *et al*. (2015), Character 220; Davis *et al*. (2012), Character 131.  
+221. Fin spines with ridges: 0. absent; 1. present.
+>    Lu *et al*. (2017), Character 221; Lu *et al*. (2016), Character 221; Giles *et al*. (2015), Character 221; Davis *et al*. (2012), Character 132.
 222. Fin spines with nodes:
 0. absent
 1. present
