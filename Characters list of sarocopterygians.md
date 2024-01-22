@@ -609,59 +609,45 @@
 220. Prepectoral fin spines: 0. absent; 1. present.
 >  Lu *et al*. (2017), Character 220; Lu *et al*. (2016), Character 220; Giles *et al*. (2015), Character 220; Davis *et al*. (2012), Character 131.  
 221. Fin spines with ridges: 0. absent; 1. present.
->    Lu *et al*. (2017), Character 221; Lu *et al*. (2016), Character 221; Giles *et al*. (2015), Character 221; Davis *et al*. (2012), Character 132.
-222. Fin spines with nodes:
-0. absent
-1. present
-223. Fin spines with rows of large retrorse denticles:
-0. absent
-1. present
-224. Expanded spine rib on leading edge of spine:
-0. absent
-1. present
-225. Spine ridges:
-0. converging at the distal apex of the spine
-1. converging on leading edge of spine
-226. Synarcual:
-0. absent
-1. present
-227. Series of thoracic supraneurals:
-0. absent
-1. present
-228. Number of dorsal fins, if present:
-0. one
-1. two
-229. Posterior dorsal fin shape:
-0. base approximately as broad as tall, not broader than all of other median fins
-1. base much longer than the height of the fin, substantially longer than any of the 
-other dorsal fins
-230. Basal plate in dorsal fin:
-0. absent
-1. present
-231. Branching radial structure articulating with dorsal fin basal plate:
-0. absent
-1. present
-232. Anal fin:
-0. absent
-1. present
-233. Basal plate in anal fin:
-0. absent
-1. present
-234. Caudal radials:
-0. extend beyond level of body wall and deep into hypochordal lobe
-1. radials restricted to axial lobe
-235. Supraneurals in axial lobe of caudal fin:
-0. absent
-1. present
-236. Epichordal lepidotrichia in caudal fin:
-0. absent
-1. present
-237. Enamel and pore canals:
-0. enamel absent from inner surface of pores
-1. enamel lines portions of pore canal
-238. Canal-bearing bone of skull roof extends far past posterior margin of parietals:
-0. no
-1. yes
+> Lu *et al*. (2017), Character 221; Lu *et al*. (2016), Character 221; Giles *et al*. (2015), Character 221; Davis *et al*. (2012), Character 132.
+222. Fin spines with nodes: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 222; Lu *et al*. (2016), Character 222; Giles *et al*. (2015), Character 222; Davis *et al*. (2012), Character 133.
+223. Fin spines with rows of large retrorse denticles: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 223; Lu *et al*. (2016), Character 223; Giles *et al*. (2015), Character 223; Davis *et al*. (2012), Character 134.
+224. Expanded spine rib on leading edge of spine: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 224; Lu *et al*. (2016), Character 224; Giles *et al*. (2015), Character 224.
+> - Giles *et al*. (2015): This character is common to acanthodids and their proximal relations. It is variably present in *Kathemacanthus*.
+225. Spine ridges: 0. converging at the distal apex of the spine; 1. converging on leading edge of spine.
+> Lu *et al*. (2017), Character 225; Lu *et al*. (2016), Character 225; Giles *et al*. (2015), Character 225.
+226. Synarcual: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 226; Lu *et al*. (2016), Character 226; Giles *et al*. (2015), Character 226; Davis *et al*. (2012), Character 135.   
+227. Series of thoracic supraneurals: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 227; Lu *et al*. (2016), Character 227; Giles *et al*. (2015), Character 227; Cloutier & Ahlberg (1996), Character 137; Ahlberg & Johanson (1998), Character 99; Zhu & Ahlberg (2004), Character 99; Zhu & Yu (2001), Character 142; Zhu & Yu (2001), Character 142; Friedman (2007), Character 125.
+228. Number of dorsal fins, if present: 0. one; 1. two.
+> Lu *et al*. (2017), Character 228; Lu *et al*. (2016), Character 228; Giles *et al*. (2015), Character 228; Davis *et al*. (2012), Character 136.     
+229. Posterior dorsal fin shape: 0. base approximately as broad as tall, not broader than all of other median fins; 1. base much longer than the height of the fin, substantially longer than any of the other dorsal fins.
+> Lu *et al*. (2017), Character 229; Lu *et al*. (2016), Character 229; Giles *et al*. (2015), Character 229.
+> - Giles *et al*. (2015): This is admittedly a compound character. This owes to the problems of rendering ratio‐scale continuous characters as a discrete character. Our conceptualisation of this character is intended to capture the distinctively broad or ribbon­‐shaped second dorsal fins that are differentiated from any of the other median fins, and the generalized triangular shape of many gnathostomes and their relatives. In taxa possessing only a single dorsal fin, we have scored taxa where we think the observed fin is equivalent to a posterior dorsal fin. This is based on the postition of the posterior dorsal fin behind or at the level of the posterior limit of the posterior wall of the body cavity (as indicated by the position of the pelvic girdle and/or anal fin, or evidence of the body cavity present as an infill). We have reinterpreted the vertebral column of *Cowralepis*, arguing that Ritchie's (2005) reconstruction inverts the dorsoventral orientation. Ritchie's sub‐haemal spines are here interpreted as dorsal or caudal fin radials. This is evidenced by the fact that the series bearing these epi-­‐spinal elements continues under the dermal shoulder armour, while the opposing series terminates at the level of the pelvic fins (based on AMF9764, Ritchie, 2005, fig. 16 A, B). This also better explains the direction of the gentle sigmoid bend seen in several specimens (Ritchie 2005, figs. 16B, 17A, C). In photographs of specimen AMF103767 (Ritchie 2005, fig. 1A‐D, the orientation of the collapsed vertebral column can be observed. In the specimen showing the dorsal surface, the chordal surface the series lacking the accessory elements is observed, suggesting this was their ventral surface rather than dorsal.  
+230. Basal plate in dorsal fin: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 230; Lu *et al*. (2016), Character 230; Giles *et al*. (2015), Character 230; Friedman & Brazeau (2010), Character 42.  
+231. Branching radial structure articulating with dorsal fin basal plate: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 231; Lu *et al*. (2016), Character 231; Giles *et al*. (2015), Character 231.  
+232. Anal fin: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 232; Lu *et al*. (2016), Character 232; Giles *et al*. (2015), Character 232; Davis *et al*. (2012), Character 137.       
+233. Basal plate in anal fin: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 233; Lu *et al*. (2016), Character 233; Giles *et al*. (2015), Character 233; Friedman & Brazeau (2010), Character 42.     
+234. Caudal radials: 0. extend beyond level of body wall and deep into hypochordal lobe; 1. radials restricted to axial lobe.
+> Lu *et al*. (2017), Character 234; Lu *et al*. (2016), Character 234; Giles *et al*. (2015), Character 234; Davis *et al*. (2012), Character 138.   
+235. Supraneurals in axial lobe of caudal fin: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 235; Lu *et al*. (2016), Character 235; Giles *et al*. (2015), Character 235.  
+236. Epichordal lepidotrichia in caudal fin: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 236; Lu *et al*. (2016), Character 236; Giles *et al*. (2015), Character 236; Cloutier & Ahlberg (1996), Character 134; Schultze & Cumbaa (2001), Character 101; Zhu & Schultze (2001), Character 191; Zhu *et al*. (2001), Character 140; Zhu & Yu (2002), Character 140; Cloutier & Arratia (2004), Character 173;  Zhu *et al*. (2006), Character 110; Friedman (2007), Character 123; Zhu *et al*. (2009), Character 142; Zhu *et al*. (2013), Character 146.
+237. Enamel and pore canals: 0. enamel absent from inner surface of pores; 1. enamel lines portions of pore canal.
+> Lu *et al*. (2017), Character 237; Lu *et al*. (2016), Character 237; 
+> - Lu *et al*. (2016): Taxa that lack pore openings are coded as inapplicable for this character.
+238. Canal-bearing bone of skull roof extends far past posterior margin of parietals: 0. no; 1. yes.
+> Lu *et al*. (2017), Character 237; Lu *et al*. (2016), Character 237.
+> - Lu *et al*. (2016): New character. 
 239. Pineal eminence (in taxa lacking pineal foramen):
 0. absent
 1. present
