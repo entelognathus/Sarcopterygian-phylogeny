@@ -643,17 +643,16 @@
 236. Epichordal lepidotrichia in caudal fin: 0. absent; 1. present.
 >  Lu *et al*. (2017), Character 236; Lu *et al*. (2016), Character 236; Giles *et al*. (2015), Character 236; Cloutier & Ahlberg (1996), Character 134; Schultze & Cumbaa (2001), Character 101; Zhu & Schultze (2001), Character 191; Zhu *et al*. (2001), Character 140; Zhu & Yu (2002), Character 140; Cloutier & Arratia (2004), Character 173;  Zhu *et al*. (2006), Character 110; Friedman (2007), Character 123; Zhu *et al*. (2009), Character 142; Zhu *et al*. (2013), Character 146.
 237. Enamel and pore canals: 0. enamel absent from inner surface of pores; 1. enamel lines portions of pore canal.
-> Lu *et al*. (2017), Character 237; Lu *et al*. (2016), Character 237; 
+> Lu *et al*. (2017), Character 237; Lu *et al*. (2016), Character 237; Zhu *et al*. (2006), Character 117; Friedman (2007), Character 133; Zhu & Schultze (2001), Character 204; Zhu *et al*. (2001), Zhu & Yu (2002), Character 150.
 > - Lu *et al*. (2016): Taxa that lack pore openings are coded as inapplicable for this character.
 238. Canal-bearing bone of skull roof extends far past posterior margin of parietals: 0. no; 1. yes.
 > Lu *et al*. (2017), Character 237; Lu *et al*. (2016), Character 237.
 > - Lu *et al*. (2016): New character. 
-239. Pineal eminence (in taxa lacking pineal foramen):
-0. absent
-1. present
-240. Position of anterior pitline:
-0. on postparietal
-1. on parietal
+239. Pineal eminence (in taxa lacking pineal foramen): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 239; Lu *et al*. (2016), Character 239; Friedman (2007), Character 146; Zhu *et al*. (2009), 18.
+> - Friedman (2007): A foramen in the dermal skull roof leading to the pineal organ is absent in porolepiforms (Jarvik 1972), *Diabolepis* (Chang & Yu 1984; Chang 1995) and *Youngolepis* (Chang 1982, 1991b), but the position of the latter structure in each is marked by a large blister. A similar eminence is also found in the early lungfish *Erikia* (Chang & Wang 1995), suggesting that this might be a primitive character of dipnomorphs (contra Campbell & Barwick 2001: 236). 
+240. Position of anterior pitline: 0. on postparietal; 1. on parietal.
+> Lu *et al*. (2017), Character 240; Lu *et al*. (2016), Character 240; Zhu *et al*. (2009), Character 106; Cloutier & Ahlberg (1996), Character 103; Zhu & Schultze (2001), Character 50; Zhu *et al*. (2001), Zhu & Yu (2002), Character 38; Zhu *et al*. (2006), Character 40; Friedman (2007), Character 36.   
 241. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal:
 0. absent
 1. present
