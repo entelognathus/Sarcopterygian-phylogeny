@@ -701,38 +701,29 @@
 > Lu *et al*. (2017), Character 258; Lu *et al*. (2016), Character 258; Friedman (2007), Character 166.
 > - Friedman (2007): *Glyptolepis* (Jarvik 1972), *Powichthys* (Clement & Janvier 2004), 'osteolepiforms'(Jarvik 1980a; Lebedev 1995; Long *et al*. 1997) and tetrapods have a single dermopalatine associated with each palatoquadrate, while two are present in coelacanths (Forey 1998) and *Onychodus* (Andrews 1973; the first of these is termed a 'predermopalatine' by Andrews *et al*. 2006). Early actinopterygians have many dermopalatines (Pearson & Westoll 1979; Gardiner 1984; Long 1988), suggesting that coelacanths and *Onychodus* retain the plesiomorphic condition. The homology of the many small bones found along the anterior margin of the entopterygoids of some lungfishes remain a point of disagreement (Miles 1977; Rosen *et al*. 1981; Campbell & Barwick 1984a; Arratia & Schultze 1991), so all dipnoans are conservatively coded as '?'. 
 259. Entopterygoids: 0. separated; 1. contact along midline.
+> Lu *et al*. (2017), Character 259; Lu *et al*. (2016), Character 259; Friedman (2007a), Character 57.
+> - Friedman (2007a): In most early gnathostomes, the various ossifications associated with the palatoquadrate are not in contact along the midline (Jarvik, 1980; Arratia & Schultze, 1991; Janvier, 1996). However, lungfishes are distinguished by extensive midline contact between the entopterygoids of each side of the palate, related to the development of a palatal bite early in dipnoan evolution. The midline contact between the entopterygoids of tetrapods(Clack, 1994; Jarvik, 1996) is independently derived.
+260. Rostral tubuli: 0. absent; 1. present.
+>  Lu *et al*. (2017), Character 260; Lu *et al*. (2016), Character 260; Friedman (2007), Character 136; Zhu & Yu (2002), Character 153.
+> - Friedman (2007): There are no published data on the possible presence or absence of rostral tubuli in *Styloichthys* (Yu 1990; Zhu & Yu 2002), so this taxon is recoded as '?'. The dorsal portion of the ethmoid in *Onychodus* appears to be unossified, so this character cannot be assessed for that genus. Chang (1991a: 24) reported these structures in Porolepis and the score for this genus is changed from '?' to '1'.
+261. Position of anterior nostril: 0. facial; 1. at oral margin.
+> Lu *et al*. (2017), Character 261; Lu *et al*. (2016), Character 261; Friedman (2007), Character 22; Zhu & Yu (2002), Character 23; Zhu & Ahlberg (2004), Character 30; Zhu *et al*. (2001), Character 23.
+262. Posterior nostril*: 0. facial; 1. at margin of oral cavity; 2. palatal.
+> Lu *et al*. (2017), Character 262; Lu *et al*. (2016), Character 262; Friedman (2007), Character 24; Zhu & Yu (2002), Character 26; Zhu *et al*. (2001), Character 25.
+> - Friedman (2007): This character is therefore recoded as '?' for *Styloichthys* for the reasons discussed in the text. The choana of derived tetrapodomorphs is the homologue of the posterior nostril of other osteichthyans (Zhu & Ahlberg 2004; Janvier 2004), so the character state for *Eusthenopteron* (Jarvik 1980a), *Ichthyostega* (Jarvik 1996) and *Panderichthys* (Vorobyeva & Schultze 1991) has been changed from '?' to '2'.
+263. Three large pores (in addition to nostrils) associated with each side of ethmoid (rostral organ): 0. absent; 1. present.
+> Lu *et al*. (2017), Character 263; Lu *et al*. (2016), Character 263; Friedman (2007), Character 145.
+> - Friedman (2007): The rostral organ, an electroreceptor that appears to have been derived from the laterosensory system (Northcutt & Bemis 1993; Forey 1998), is a derived character unique to coelacanths. The presence of this structure in fossil forms is inferred on the basis of three sets of paired pores in the dermal bones of the snout that correspond in position to the openings to the median chamber that houses the rostral organ in *Latimeria*.
+264. Ventral face of nasal capsule in taxa with mineralized ethmoid*: 0. complete; 1. fenestra ventrolateralis; 2. entire floor unmineralized.
+> Lu *et al*. (2017), Character 264; Lu *et al*. (2016), Character 264.  
+265. Size of profundus canal in postnasal wall: 0. small; 1. large.
+> Lu *et al*. (2017), Character 265; Lu *et al*. (2016), Character 265; Friedman (2007), Character 94; Zhu & Yu (2002), Character 108; Zhu *et al*. (2001), Character 108; Zhu & Ahlberg (2004), Character 81.  
+266. Paired pineal and parapineal tracts: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 266; Lu *et al*. (2016), Character 266; Friedman (2007a), Character 38.  
+267. Posterior of parasphenoid: 0. restricted to ethmosphenoid region; 1. extends to otic region.
+> Lu *et al*. (2017), Character 267; Lu *et al*. (2016), Character 267; Friedman (2007a), Character 63-64. 
+268. Endoskeletal spiracular canal*: 0. open; 1. partial enclosure or spiracular bar; 2. complete enclosure in canal.
 >   
-260. Rostral tubuli:
-0. absent
-1. present
-261. Position of anterior nostril:
-0. facial
-1. at oral margin
-262. Posterior nostril*:
-0. facial
-1. at margin of oral cavity
-2. palatal
-263. Three large pores (in addition to nostrils) associated with each side of ethmoid 
-(rostral organ):
-0. absent
-1. present
-264. Ventral face of nasal capsule in taxa with mineralized ethmoid*:
-0. complete
-1. fenestra ventrolateralis
-2. entire floor unmineralized
-265. Size of profundus canal in postnasal wall:
-0. small
-1. large
-266. Paired pineal and parapineal tracts:
-0. absent
-1. present
-267. Posterior of parasphenoid:
-0. restricted to ethmosphenoid region
-1. extends to otic region
-268. Endoskeletal spiracular canal*:
-0. open
-1. partial enclosure or spiracular bar
-2. complete enclosure in canal
 269. Barbed lepidotrichial segments:
 0. absent
 1. present
