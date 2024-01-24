@@ -658,12 +658,11 @@
 242. Median skull roof bone between postparietals (B-bone): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 242; Lu *et al*. (2016), Character 242; Zhu & Yu (2002), Character 13; Friedman (2007), Character 12.
 > - Friedman (2007): The postparietal shield has not been described for *Achoania* (Zhu *et al*. 2001), so the coding for this genus is changed from ‘0’ to ‘?’.
-243. Westoll lines:
-0. absent
-1. present
-244. Preoperculosubmandibular:
-0. absent
-1. present
+243. Westoll lines: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 243; Lu *et al*. (2016), Character 243; Zhu & Yu (2002), Character 151; Friedman (2007), Character 134.
+244. Preoperculosubmandibular: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 244; Lu *et al*. (2016), Character 244; Zhu & Yu (2002), Character 52; Friedman (2007), Character 46.
+> - Friedman (2007): There is insufficient evidence for the presence of the preoperculosubmandibular in *Youngolepis* (Chang 1991b) or its absence in *Psarolepis* (Yu 1990, 1998), so the codings for these taxa are changed to ‘?’.
 245. Hyomandibula:
 0. imperforate
 1. perforate
