@@ -677,17 +677,12 @@
 249. Labial pit: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 249; Lu *et al*. (2016), Character 249; Friedman (2007), Character 63; Zhu & Yu (2002), Character 75.
 > - Friedman (2007): Labial pits are absent in *Achoania* (Zhu & Yu 2004), so this genus is coded as '0'.
-250. Prearticular symphysis:
-Zhu et al. 2001; Zhu & Yu 2002; Friedman 2007.
-0. absent
-1. present
-251. Mandibular sensory canal:
-0. extends through infradentaries
-1. extends through infradentaries and dentary
-252. Extensive flange composed of prearticular and Meckelian bone that extends beyond 
-ventral edge of outer dermal series:
-0. absent
-1. present
+250. Prearticular symphysis: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 250; Lu *et al*. (2016), Character 250; Friedman (2007), Character 159; Zhu *et al*. (2001), Character 84.
+251. Mandibular sensory canal: 0. extends through infradentaries; 1. extends through infradentaries and dentary.
+> Lu *et al*. (2017), Character 251; Lu *et al*. (2016), Character 251; Friedman (2007), Character 67; Zhu & Yu (2002), Character 79; Zhu *et al*. (2009), Character 120; Patterson (1982), Character 7; Cloutier & Ahlberg (1996), Character 110; Coates (1998), Character A14; Schultze & Cumbaa (2001), Character 43; Zhu & Schultze (2001), Character 101; Zhu *et al*. (2001), Character 79; Cloutier & Arratia (2004), Character 141; Zhu *et al*. (2006), Character 63.  
+252. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: 0. absent; 1. present.
+>   
 253. Posterior coronoid:
 0. similar to anterior coronoids
 1. forms expanded coronoid process
