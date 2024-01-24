@@ -674,10 +674,9 @@
 248. Length of dentary: 0. constitutes a majority of jaw length; 1. half the length of jaw or less.
 > Lu *et al*. (2017), Character 248; Lu *et al*. (2016), Character 248; Friedman (2007), Character 50; Zhu & Yu (2002), Character 58.
 > - Friedman (2007): *Styloichthys* has a short tooth-bearing margin of the dentary that comprises only 45% of totalmandibular length. In all other early sarcopterygians with the exception of lungfishes and coelacanths, the toothed portion of the dentary substantially exceeds half of the total jaw length. The matrix of Zhu & Yu (2002) scored the dentary of *Styloichthys* as '0', but a revised coding of '1' more accurately reflects its contribution to the lower jaw. In addition, newly described jaw material of *Achoania* permits that taxon to be scored as '0' (Zhu & Yu 2004).
-249. Labial pit:
-Cloutier & Ahlberg 1996; Zhu et al. 2001; Zhu & Yu 2002; Friedman 2007.
-0. absent
-1. present
+249. Labial pit: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 249; Lu *et al*. (2016), Character 249; Friedman (2007), Character 63; Zhu & Yu (2002), Character 75.
+> - Friedman (2007): Labial pits are absent in *Achoania* (Zhu & Yu 2004), so this genus is coded as '0'.
 250. Prearticular symphysis:
 Zhu et al. 2001; Zhu & Yu 2002; Friedman 2007.
 0. absent
