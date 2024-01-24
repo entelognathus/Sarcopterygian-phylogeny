@@ -726,7 +726,7 @@
 > Lu *et al*. (2017), Character 268; Lu *et al*. (2016), Character 268.
 269. Barbed lepidotrichial segments: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 269; Lu *et al*. (2016), Character 269; Friedman (2007), Character 186-187.  
-Additional characters:
+## Additional characters in Lu *et al*. (2017):
 270. Relative position of jugular groove/canal and hyomandibular articulation: 0. hyomandibula dorsal; 1. hyomandibula ventral; 2. hyomandibula straddles.
 > Lu *et al*. (2017), Character 270.  
 271. Optic lobes: 0. narrower than cerebellum; 1. same width or wider than cerebellum.
