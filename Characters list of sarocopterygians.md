@@ -689,18 +689,17 @@
 254. Retroarticular process: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 254; Lu *et al*. (2016), Character 254; Friedman (2007), Character 160.
 > - Friedman (2007): The lower jaws of coelacanths bear a well-developed facet on the posterodorsal surface of the posterior portion of the Meckelian ossification that articulates with the 'symplectic' and forms the second jaw joint that characterises the group. Styloichthys bears a conspicuous facet on a retroarticular prominence that is topologically consistent with an articular surface in coelacanths (Figs 5A–C) and is coded as '1' here. Andrews *et al*. (2006) described two unfinished areas on the articular of *Onychodus*. The first of these, which faces dorsally, represents the glenoid, while the second is located on the ventral margin of the articular and faces posteroventrolaterally. These authors interpreted this as evidence of a complicated joint between the quadrate and angular that permitted an extreme gape (Andrews *et al*. 2006: fig. 74). While the functional significance of the peculiar arrangement in *Onychodus* is open to debate, it seems unlikely that the condition in this genus is the same as in coelacanths and *Styloichthys* and it is therefore coded as '0' here.
-255. Inturned medial process of premaxilla:
-0. absent
-1. present
-256. Anteriorly directed adductor fossae between neurocranium and skull roof:
-0. absent
-1. present
-257. Vomerine fangs:
-0. absent
-1. present
-258. Number of dermopalatines:
-0. multiple
-1. one
+255. Inturned medial process of premaxilla: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 255; Lu *et al*. (2016), Character 255; Friedman (2007), Character 149; Zhu & Ahlberg (2004), Character 5.
+> - Friedman (2007): *Psarolepis* (Yu 1998), *Achoania* (Fig. 6D; Zhu *et al*. 2001), *Onychodus* (Long 1998) and *Strunius* (Jessen 1966: pl. 15, fig. 1) share premaxillae that turn posteriorly along the midline, resulting in pronounced posterior projections along the upper jaw symphysis. Long (2001) has suggested that this character may be a derived feature uniting an extended onychodont clade, implying that its appearances elsewhere in *Powichthys* (Jessen 1980), megalichthyids (Thomson 1964; Jarvik 1967; Fox *et al*. 1995), tetrapods (Jarvik 1996) and some tristichopterids (Johanson & Ahlberg 1997) are homoplastic.
+256. Anteriorly directed adductor fossae between neurocranium and skull roof: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 256; Lu *et al*. (2016), Character 256.  
+257. Vomerine fangs: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 257; Lu *et al*. (2016), Character 257; Friedman (2007), Character 78; Zhu & Yu (2002), Character 90; Zhu *et al*. (2001), Character 90; Zhu & Ahlberg (2004), Character 24.
+> - Friedman (2007): New material of *Powichthys* (Clement & Janvier 2004) indicates that vomerine tusks are present in that genus, so it is recoded here as '1'. Given the uncertain homology of the 'vomers' in *Uranolophus* (considered by some workers to represent dermopalatines; Miles 1977; Campbell & Barwick 1988), the score for this taxon is changed from '0' to '?'.
+258. Number of dermopalatines: 0. multiple; 1. one.
+> Lu *et al*. (2017), Character 258; Lu *et al*. (2016), Character 258; Friedman (2007), Character 166.
+> - Friedman (2007): *Glyptolepis* (Jarvik 1972), *Powichthys* (Clement & Janvier 2004), 'osteolepiforms'(Jarvik 1980a; Lebedev 1995; Long *et al*. 1997) and tetrapods have a single dermopalatine associated with each palatoquadrate, while two are present in coelacanths (Forey 1998) and *Onychodus* (Andrews 1973; the first of these is termed a 'predermopalatine' by Andrews *et al*. 2006). Early actinopterygians have many dermopalatines (Pearson & Westoll 1979; Gardiner 1984; Long 1988), suggesting that coelacanths and *Onychodus* retain the plesiomorphic condition. The homology of the many small bones found along the anterior margin of the entopterygoids of some lungfishes remain a point of disagreement (Miles 1977; Rosen *et al*. 1981; Campbell & Barwick 1984a; Arratia & Schultze 1991), so all dipnoans are conservatively coded as '?'. 
 259. Entopterygoids:
 0. separated
 1. contact along midline
