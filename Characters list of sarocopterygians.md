@@ -682,13 +682,13 @@
 251. Mandibular sensory canal: 0. extends through infradentaries; 1. extends through infradentaries and dentary.
 > Lu *et al*. (2017), Character 251; Lu *et al*. (2016), Character 251; Friedman (2007), Character 67; Zhu & Yu (2002), Character 79; Zhu *et al*. (2009), Character 120; Patterson (1982), Character 7; Cloutier & Ahlberg (1996), Character 110; Coates (1998), Character A14; Schultze & Cumbaa (2001), Character 43; Zhu & Schultze (2001), Character 101; Zhu *et al*. (2001), Character 79; Cloutier & Arratia (2004), Character 141; Zhu *et al*. (2006), Character 63.  
 252. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: 0. absent; 1. present.
->   
-253. Posterior coronoid:
-0. similar to anterior coronoids
-1. forms expanded coronoid process
-254. Retroarticular process:
-0. absent
-1. present
+> Lu *et al*. (2017), Character 252; Lu *et al*. (2016), Character 252; Friedman (2007), Character 159.
+> - Friedman (2007): In all plesiomorphic actinopterygians and most early sarcopterygians, both the Meckelian bone and prearticular do not extend below the ventral margin of the infradentaries (Figs 5D, E). *Styloichthys* (Fig. 5A; Zhu & Yu 2002, 2004) and coelacanths (Fig. 5B; Forey 1998; Forey *et al*. 2000) share a derived condition in which both the prearticular and Meckelian ossification contribute to a large flange that extends far below the ventral margin of the external dermal series of the lower jaw. In coelacanths, this extension forms an extensive area of overlap for the gular plates (Forey 1998).
+253. Posterior coronoid: 0. similar to anterior coronoids; 1. forms expanded coronoid process.
+> Lu *et al*. (2017), Character 253; Lu *et al*. (2016), Character 253; Zhu & Ahlberg (2004), Character 8.  
+254. Retroarticular process: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 254; Lu *et al*. (2016), Character 254; Friedman (2007), Character 160.
+> - Friedman (2007): The lower jaws of coelacanths bear a well-developed facet on the posterodorsal surface of the posterior portion of the Meckelian ossification that articulates with the 'symplectic' and forms the second jaw joint that characterises the group. Styloichthys bears a conspicuous facet on a retroarticular prominence that is topologically consistent with an articular surface in coelacanths (Figs 5A–C) and is coded as '1' here. Andrews *et al*. (2006) described two unfinished areas on the articular of *Onychodus*. The first of these, which faces dorsally, represents the glenoid, while the second is located on the ventral margin of the articular and faces posteroventrolaterally. These authors interpreted this as evidence of a complicated joint between the quadrate and angular that permitted an extreme gape (Andrews *et al*. 2006: fig. 74). While the functional significance of the peculiar arrangement in *Onychodus* is open to debate, it seems unlikely that the condition in this genus is the same as in coelacanths and *Styloichthys* and it is therefore coded as '0' here.
 255. Inturned medial process of premaxilla:
 0. absent
 1. present
