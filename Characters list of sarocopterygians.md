@@ -663,18 +663,17 @@
 244. Preoperculosubmandibular: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 244; Lu *et al*. (2016), Character 244; Zhu & Yu (2002), Character 52; Friedman (2007), Character 46; Zhu *et al*. (2001), Character 52. 
 > - Friedman (2007): There is insufficient evidence for the presence of the preoperculosubmandibular in *Youngolepis* (Chang 1991b) or its absence in *Psarolepis* (Yu 1990, 1998), so the codings for these taxa are changed to ‘?’.
-245. Hyomandibula:
-0. imperforate
-1. perforate
-246. Urohyal shape:
-0. absent
-1. vertical plate
-247. Maxilla (in taxa with marginal jaw bones):
-0. present
-1. absent
-248. Length of dentary:
-0. constitutes a majority of jaw length
-1. half the length of jaw or less
+245. Hyomandibula: 0. imperforate; 1. perforate.
+> Lu *et al*. (2017), Character 245; Lu *et al*. (2016), Character 245; Friedman (2007), Character 163.   
+246. Urohyal shape: 0. absent; 1. vertical plate.
+> Lu *et al*. (2017), Character 246; Lu *et al*. (2016), Character 246; Friedman (2007), Character 165.
+> - Friedman (2007):  The 'urohyal' of 'osteolepiforms' (Jarvik 1980a; Lebedev 1995) and *Panderichthys* (Vorobyeva & Schultze 1991) is deep and laterally compressed, while in coelacanths (Millot & Anthony 1958; Jarvik 1980a; Forey 1998) and porolepiforms (Jarvik 1972; Clement 2004) is dorsoventrally compressed and bifurcate posteriorly. The 'urohyal' in the early lungfish Griphognathus is laterally compressed but shallow (Miles 1977) and lacks the posterior bifurcation known in porolepiforms and coelacanths.  
+247. Maxilla (in taxa with marginal jaw bones): 0. present; 1. absent.
+> Lu *et al*. (2017), Character 247; Lu *et al*. (2016), Character 247; Friedman (2007), Character 151.
+> - Friedman (2007): In most sarcopterygians, the maxilla is excluded from the posterior margin of the dermal cheek. However, in *Psarolepis* (Zhu *et al*. 1999), *Onychodus* (Long 2001) and *Strunius* (Jessen 1966), the maxilla contributes to the posterior margin of the cheek. This agrees with the condition in early actinopterygians and is presumably plesiomorphic for osteichthyans.
+248. Length of dentary: 0. constitutes a majority of jaw length; 1. half the length of jaw or less.
+> Lu *et al*. (2017), Character 248; Lu *et al*. (2016), Character 248; Friedman (2007), Character 50; Zhu & Yu (2002), Character 58.
+> - Friedman (2007): *Styloichthys* has a short tooth-bearing margin of the dentary that comprises only 45% of totalmandibular length. In all other early sarcopterygians with the exception of lungfishes and coelacanths, the toothed portion of the dentary substantially exceeds half of the total jaw length. The matrix of Zhu & Yu (2002) scored the dentary of *Styloichthys* as '0', but a revised coding of '1' more accurately reflects its contribution to the lower jaw. In addition, newly described jaw material of *Achoania* permits that taxon to be scored as '0' (Zhu & Yu 2004).
 249. Labial pit:
 Cloutier & Ahlberg 1996; Zhu et al. 2001; Zhu & Yu 2002; Friedman 2007.
 0. absent
