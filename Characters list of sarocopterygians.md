@@ -723,39 +723,25 @@
 267. Posterior of parasphenoid: 0. restricted to ethmosphenoid region; 1. extends to otic region.
 > Lu *et al*. (2017), Character 267; Lu *et al*. (2016), Character 267; Friedman (2007a), Character 63-64. 
 268. Endoskeletal spiracular canal*: 0. open; 1. partial enclosure or spiracular bar; 2. complete enclosure in canal.
->   
-269. Barbed lepidotrichial segments:
-0. absent
-1. present
+> Lu *et al*. (2017), Character 268; Lu *et al*. (2016), Character 268.
+269. Barbed lepidotrichial segments: 0. absent; 1. present.
+> Lu *et al*. (2017), Character 269; Lu *et al*. (2016), Character 269; Friedman (2007), Character 186-187.  
 Additional characters:
-270. Relative position of jugular groove/canal and hyomandibular articulation: 
-0 hyomandibula dorsal 
-1 hyomandibula ventral 
-2 hyomandibula straddles 
-271. Optic lobes:
-0 narrower than cerebellum 
-1 same width or wider than cerebellum 
-272. Crus commune of anterior and posterior semicircular canals: 
-0 dorsal to endocranial roof 
-1 ventral to endocranial roof 
-273. Cranial cavity and labyrinth: 
-New character. 
-0 widely spaced 
-1 closely spaced 
-274. Lateral semicircular canal: 
-New character. 
-0 obiquely oriented 
-1 horizontally oriented 
-275. Supraotic cavity: 
-New character.
-0 absent 
-1 present 
-276. Pelvic girdle with substantial dermal component: 
-0 present 
-1 absent 
-277. Pelvic fin spine: 
-0 absent 
-1 present 
-278. Pelvic fin: 
-0 monobasal 
-1 polybasal 
+270. Relative position of jugular groove/canal and hyomandibular articulation: 0. hyomandibula dorsal; 1. hyomandibula ventral; 2. hyomandibula straddles.
+> Lu *et al*. (2017), Character 270.  
+271. Optic lobes: 0. narrower than cerebellum; 1. same width or wider than cerebellum.
+> Lu *et al*. (2017), Character 271. 
+272. Crus commune of anterior and posterior semicircular canals: 0. dorsal to endocranial roof; 1. ventral to endocranial roof.
+> Lu *et al*. (2017), Character 272.  
+273. Cranial cavity and labyrinth: 0. widely spaced; 1. closely spaced.
+> Lu *et al*. (2017), Character 273.
+274. Lateral semicircular canal: 0. obiquely oriented; 1. horizontally oriented.
+>   Lu *et al*. (2017), Character 274. 
+275. Supraotic cavity: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 275.
+276. Pelvic girdle with substantial dermal component: 0. present; 1. absent.
+>   Lu *et al*. (2017), Character 276.
+277. Pelvic fin spine: 0. absent; 1. present.
+>   Lu *et al*. (2017), Character 277. 
+278. Pelvic fin: 0. monobasal; 1. polybasal.
+>   Lu *et al*. (2017), Character 278. 
