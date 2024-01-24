@@ -700,9 +700,8 @@
 258. Number of dermopalatines: 0. multiple; 1. one.
 > Lu *et al*. (2017), Character 258; Lu *et al*. (2016), Character 258; Friedman (2007), Character 166.
 > - Friedman (2007): *Glyptolepis* (Jarvik 1972), *Powichthys* (Clement & Janvier 2004), 'osteolepiforms'(Jarvik 1980a; Lebedev 1995; Long *et al*. 1997) and tetrapods have a single dermopalatine associated with each palatoquadrate, while two are present in coelacanths (Forey 1998) and *Onychodus* (Andrews 1973; the first of these is termed a 'predermopalatine' by Andrews *et al*. 2006). Early actinopterygians have many dermopalatines (Pearson & Westoll 1979; Gardiner 1984; Long 1988), suggesting that coelacanths and *Onychodus* retain the plesiomorphic condition. The homology of the many small bones found along the anterior margin of the entopterygoids of some lungfishes remain a point of disagreement (Miles 1977; Rosen *et al*. 1981; Campbell & Barwick 1984a; Arratia & Schultze 1991), so all dipnoans are conservatively coded as '?'. 
-259. Entopterygoids:
-0. separated
-1. contact along midline
+259. Entopterygoids: 0. separated; 1. contact along midline.
+>   
 260. Rostral tubuli:
 0. absent
 1. present
