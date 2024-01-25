@@ -2,7 +2,7 @@
 
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 1; Lu *et al*. (2016), Character 1; Giles *et al*. (2015), Character 1; Davis *et al*. (2012), Character 1.
+>Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Lu *et al*. (2016), Character 1; Lu *et al*. (2017), Character 1.
 
 **正常情况下，从早往新排列reference。Clement et al. 2018也是用得同一矩阵。比较一下其他project中的矩阵，与 coelacanth dataset相互印证。**
 > - Giles *et al*. (2015): Based on	our	examination	of material	of *Howqualepis*, we are convinced	that the hard	tissue surrounding the braincase and other	endoskeletal structures	in this genus	is not prismatic calcified	cartilage. We therefore	revise the code for this genus to	'0'.
