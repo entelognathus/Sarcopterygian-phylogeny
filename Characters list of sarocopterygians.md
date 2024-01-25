@@ -6,7 +6,7 @@
 
 **正常情况下，从早往新排列reference。Clement et al. 2018也是用得同一矩阵。比较一下其他project中的矩阵，与 coelacanth dataset相互印证。**
 > - Giles *et al*. (2015): Based on	our	examination	of material	of *Howqualepis*, we are convinced	that the hard	tissue surrounding the braincase and other	endoskeletal structures	in this genus	is not prismatic calcified	cartilage. We therefore	revise the code for this genus to	'0'.
-> - The coding of 
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'. The coding of 
 
 2. Prismatic calcified cartilage:0. single layered; 1. multi-layered.
 > Lu *et al*. (2017), Character 2; Lu *et al*. (2016), Character 2; Giles *et al*. (2015), Character 2; Maisey	(2001), Character 2;	Pradel	*et	al*.	(2011), Character 0.
