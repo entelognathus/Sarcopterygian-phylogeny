@@ -35,8 +35,9 @@
 > - The coding of ZJYporo is '1'.
 
 6. Enamel: 0. single-layered; 1. multi-layered.
->  Lu *et al*. (2017), Character 6; Lu *et al*. (2016), Character 6; Giles *et al*. (2015), Character 6; Friedman (2007), Character 138.
+>  Friedman (2007), Character 138; Giles *et al*. (2015), Character 6; Lu *et al*. (2016), Character 6; Lu *et al*. (2017), Character 6.
 > - Giles *et al*. (2015): See notes above for character 5.
+
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
 > Lu *et al*. (2017), Character 7; Lu *et al*. (2016), Character 7; Giles *et al*. (2015), Character 7; Friedman (2007), Character 195.
 > - Giles *et al*. (2015): See notes above for character 5.
