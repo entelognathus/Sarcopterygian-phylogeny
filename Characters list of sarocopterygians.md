@@ -31,8 +31,9 @@
 > Friedman (2007), Character 131; Giles *et al*. (2015), Character 5; Lu *et al*. (2016), Character 5; Lu *et al*. (2017), Character 5.
 > - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Achoania*, '*Lingulalepis*' and *Sparalepis* from '?' to '1'.
+> - Changing *Achoania* from '?' to '1', '*Lingulalepis*' and *Sparalepis* from '?' to '1'. 
 > - The coding of ZJYporo is '1'.
+
 6. Enamel: 0. single-layered; 1. multi-layered.
 >  Lu *et al*. (2017), Character 6; Lu *et al*. (2016), Character 6; Giles *et al*. (2015), Character 6; Friedman (2007), Character 138.
 > - Giles *et al*. (2015): See notes above for character 5.
