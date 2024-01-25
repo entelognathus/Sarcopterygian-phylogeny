@@ -1,5 +1,5 @@
 # Characters list of sarocopterygians 
-
+*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 >Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Lu *et al*. (2016), Character 1; Lu *et al*. (2017), Character 1.
@@ -31,7 +31,7 @@
 > Friedman (2007), Character 131; Giles *et al*. (2015), Character 5; Lu *et al*. (2016), Character 5; Lu *et al*. (2017), Character 5.
 > - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Achoania* from '?' to '1', '*Lingulalepis*' and *Sparalepis* from '?' to '1'. 
+> - Changing *Achoania* , '*Lingulalepis*' (Clement *et al*., 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
 > - The coding of ZJYporo is '1'.
 
 6. Enamel: 0. single-layered; 1. multi-layered.
