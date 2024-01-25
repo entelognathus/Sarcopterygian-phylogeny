@@ -14,9 +14,9 @@
 > - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'. The coding of ZJYporo is '-'.
 
 3. Perichondral bone: 0. present; 1. absent.
-> Lu *et al*. (2017), Character 3; Lu *et al*. (2016), Character 3; Giles *et al*. (2015), Character 3; Davis *et al*. (2012), Character 2.
+>Davis *et al*. (2012), Character 2; Giles *et al*. (2015), Character 3; Lu *et al*. (2016), Character 3; Lu *et al*. (2017), Character 3.
 > - Giles *et al*. (2015): Presence	of perichondral	bone in	*Yunnanolepis* is	reported by Zhu (1996).
-> - Zhujiangyuan porolepiform:
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'. The coding of ZJYporo is '0'.
 
 4. Extensive endochondral ossification: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 4, Lu *et al*. (2016), Character 4; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 3.
