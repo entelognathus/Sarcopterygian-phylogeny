@@ -4,7 +4,7 @@
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 >Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Lu *et al*. (2016), Character 1; Lu *et al*. (2017), Character 1.
 
-**正常情况下，从早往新排列reference。Clement et al. 2018也是用得同一矩阵。比较一下其他project中的矩阵，与 coelacanth dataset相互印证。**
+**正常情况下，从早往新排列reference。Clement et al. 2018也是用的同一矩阵。比较一下其他project中的矩阵，与 coelacanth dataset相互印证。**
 > - Giles *et al*. (2015): Based on	our	examination	of material	of *Howqualepis*, we are convinced	that the hard	tissue surrounding the braincase and other	endoskeletal structures	in this genus	is not prismatic calcified	cartilage. We therefore	revise the code for this genus to	'0'.
 > - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
 > - The coding of ZJYporo is '0'.
@@ -16,31 +16,38 @@
 > - The coding of ZJYporo is '-'.
 
 3. Perichondral bone: 0. present; 1. absent.
->Davis *et al*. (2012), Character 2; Giles *et al*. (2015), Character 3; Lu *et al*. (2016), Character 3; Lu *et al*. (2017), Character 3.
+> Davis *et al*. (2012), Character 2; Giles *et al*. (2015), Character 3; Lu *et al*. (2016), Character 3; Lu *et al*. (2017), Character 3.
+
 > - Giles *et al*. (2015): Presence	of perichondral	bone in	*Yunnanolepis* is	reported by Zhu (1996).
 > - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
 > - The coding of ZJYporo is '0'.
 
 4. Extensive endochondral ossification: 0. absent; 1. present.
 > Davis *et al*. (2012), Character 3; Giles *et al*. (2015), Character 4; Lu *et al*. (2016), Character 4; Lu *et al*. (2017), Character 4.
+
 > - Giles *et al*. (2015): *Dicksonosteus* and	*Macropetalichthys* are	scored	'0'. Even	while	some internal ossification has been	reported in	these	taxa (Stensiö 1925; Goujet 1984), it	hardly qualifies as being	extensive, and the interpretation as	endochondral bone	is dubious.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
 > - The coding of ZJYporo is '1'.
 
 5. Enamel(oid) present on dermal bones and scales: 0. absent; 1. present.
 > Friedman (2007), Character 131; Giles *et al*. (2015), Character 5; Lu *et al*. (2016), Character 5; Lu *et al*. (2017), Character 5.
+
 > - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
+
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
 > - Changing *Achoania* , '*Lingulalepis*' (Clement *et al*., 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
 > - The coding of ZJYporo is '1'.
 
 6. Enamel: 0. single-layered; 1. multi-layered.
 >  Friedman (2007), Character 138; Giles *et al*. (2015), Character 6; Lu *et al*. (2016), Character 6; Lu *et al*. (2017), Character 6.
+
 > - Giles *et al*. (2015): See notes above for character 5.
 
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
-> Lu *et al*. (2017), Character 7; Lu *et al*. (2016), Character 7; Giles *et al*. (2015), Character 7; Friedman (2007), Character 195.
+> Friedman (2007), Character 195; Giles *et al*. (2015), Character 7; Lu *et al*. (2016), Character 7; Lu *et al*. (2017), Character 7.
+
 > - Giles *et al*. (2015): See notes above for character 5.
+
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 8; Lu *et al*. (2016), Character 8; Giles *et al*. (2015), Character 8.
 > - Lu *et al*. (2016; 2017): The previous formulation of this character referenced an extensive pore canal network. However, this leaves assessment of presence and absence ambiguous based on subjective interpretations of when such a network might be considered ‘extensive’. Instead, we have reformulated this character to capture those instances in which cavities connect with the outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for *Cassidiceps*, *Euthacanthus*, *Helodus*, *Homalacanthus*, *Ischnacanthus*, *Janusiscus*, *Kathemacanthus*, *Kentuckia*, *Latviacanthus*, ‘*Ligualepis*’, *Mesacanthus*, *Onychodus*, *Pterichthyodes*, *Tristychius*; from ‘1’ to ‘0’ in *Dialipina*, *Poracanthodes*; from ‘0’ to ‘?’ in *Guiyu*, *Jagorina*, *Moythomasia*.
