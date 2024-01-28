@@ -1,5 +1,5 @@
 # Characters list of sarocopterygians 
-*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
+*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013; Mondéjar-Fernández & Meunier, 2020), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 >Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Lu *et al*. (2016), Character 1; Lu *et al*. (2017), Character 1.
@@ -42,19 +42,26 @@
 >  Friedman (2007), Character 138; Giles *et al*. (2015), Character 6; Lu *et al*. (2016), Character 6; Lu *et al*. (2017), Character 6.
 
 > - Giles *et al*. (2015): See notes above for character 5.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
 > Friedman (2007), Character 195; Giles *et al*. (2015), Character 7; Lu *et al*. (2016), Character 7; Lu *et al*. (2017), Character 7.
-
 > - Giles *et al*. (2015): See notes above for character 5.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
-> Lu *et al*. (2017), Character 8; Lu *et al*. (2016), Character 8; Giles *et al*. (2015), Character 8.
+> Giles *et al*. (2015), Character 8; Lu *et al*. (2016), Character 8; Lu *et al*. (2017), Character 8.
 > - Lu *et al*. (2016; 2017): The previous formulation of this character referenced an extensive pore canal network. However, this leaves assessment of presence and absence ambiguous based on subjective interpretations of when such a network might be considered ‘extensive’. Instead, we have reformulated this character to capture those instances in which cavities connect with the outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for *Cassidiceps*, *Euthacanthus*, *Helodus*, *Homalacanthus*, *Ischnacanthus*, *Janusiscus*, *Kathemacanthus*, *Kentuckia*, *Latviacanthus*, ‘*Ligualepis*’, *Mesacanthus*, *Onychodus*, *Pterichthyodes*, *Tristychius*; from ‘1’ to ‘0’ in *Dialipina*, *Poracanthodes*; from ‘0’ to ‘?’ in *Guiyu*, *Jagorina*, *Moythomasia*.
-> - Giles *et al*. (2015): See notes above for character 5. Extensive	pore	canal	networks represent a key component of	the	complex	tissue type	known	as	cosmine, but networks	of vascular	canals that	open to	the	surface	of bones and	scales by	pores	are	widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also	found	in a range of	taxa including	probable stem	osteichthyans (e.g.	*Ligulalepis sensu stricto*; Schultze 1968: figs 1-4),	acanthodians (e.g. *Poracanthodes*;	Valiukevicius 1992: figs 4, 9),	and	osteostracans	(e.g.	*Tremataspis*, Denison 1947: fig. 1).	Sarcopterygian pore-canal	networks are distinguished from these	other	examples	in the density of	pore canals, and the flask-like	shape	of these structures.	
+> - Giles *et al*. (2015): See notes above for character 5. Extensive	pore	canal	networks represent a key component of	the	complex	tissue type	known	as	cosmine, but networks	of vascular	canals that	open to	the	surface	of bones and	scales by	pores	are	widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also	found	in a range of	taxa including	probable stem	osteichthyans (e.g.	*Ligulalepis sensu stricto*; Schultze 1968: figs 1-4),	acanthodians (e.g. *Poracanthodes*;	Valiukevicius 1992: figs 4, 9),	and	osteostracans	(e.g.	*Tremataspis*, Denison 1947: fig. 1).	Sarcopterygian pore-canal	networks are distinguished from these	other	examples	in the density of	pore canals, and the flask-like	shape	of these structures.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '1'.
 9. Dentinous tissue: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 9; Lu *et al*. (2016), Character 9; Giles *et al*. (2015), Character 9; Davis *et al*. (2012), Character 4.
-> - Giles *et al*. (2015): Modified	based	on Giles et al.	(2013).	*Onychoselache* and	*Tamiobatis* are re-scored '?' based on	the	absence	of figured	material documenting this	condition. Gross (1947) describes	dentine	tubules	seen in	sections through the scales	of *Mesacanthus* and *Ischnacanthus*.	
+> Davis *et al*. (2012), Character 4; Giles *et al*. (2015), Character 9; Lu *et al*. (2016), Character 9; Lu *et al*. (2017), Character 9.
+> - Giles *et al*. (2015): Modified	based	on Giles et al.	(2013).	*Onychoselache* and	*Tamiobatis* are re-scored '?' based on	the	absence	of figured	material documenting this	condition. Gross (1947) describes	dentine	tubules	seen in	sections through the scales	of *Mesacanthus* and *Ischnacanthus*.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
 > Lu *et al*. (2017), Character 10; Lu *et al*. (2016), Character 10; Giles *et al*. (2015), Character 10; Davis *et al*. (2012), Character 5.
 > - Giles *et al*. (2015): *Lupopsyrus* scored	'0'	based	on	Hanke	&	Davis	(2012).	*Incisoscutum* scored	'1'	based	on	Johanson & Smith	(2005). Semidentine is reported	in *Romundina* (Giles *et	al*. 2013). The	precise	type	of dentine in	*Yunnanolepis*	is difficult to	determine (Giles *et al*. 2013).	Because	their dentine	is described by	Gross (1947) as tubular canals	reminiscent	of	those	in	similar	acanthodians,	the	dentine	type in *Ischnacanthus* and	*Mesacanthus* is here	scored as	orthodentine.
