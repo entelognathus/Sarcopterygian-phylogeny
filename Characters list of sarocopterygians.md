@@ -51,7 +51,8 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
 > Friedman (2007), Character 195; Giles *et al*. (2015), Character 7; Lu *et al*. (2016), Character 7; Lu *et al*. (2017), Character 7.
 > - Giles *et al*. (2015): See notes above for character 5.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
+> - Changing *Psarolepis* from '1' to '0/1' (Qu *et al*., 2013; Schultze, 2016).
 > - The coding of ZJYporo is '?'.
 
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
