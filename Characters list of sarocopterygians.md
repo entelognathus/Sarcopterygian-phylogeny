@@ -27,6 +27,7 @@ The changing of histological data is generally based on Mondéjar-Fernández, 20
 > Davis *et al*. (2012), Character 3; Giles *et al*. (2015), Character 4; Lu *et al*. (2016), Character 4; Lu *et al*. (2017), Character 4.
 
 > - Giles *et al*. (2015): *Dicksonosteus* and	*Macropetalichthys* are	scored	'0'. Even	while	some internal ossification has been	reported in	these	taxa (Stensiö 1925; Goujet 1984), it	hardly qualifies as being	extensive, and the interpretation as	endochondral bone	is dubious.
+
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
 > - The coding of ZJYporo is '1'.
 
