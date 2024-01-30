@@ -66,8 +66,8 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 9. Dentinous tissue: 0. absent; 1. present.
 > Davis *et al*. (2012), Character 4; Giles *et al*. (2015), Character 9; Lu *et al*. (2016), Character 9; Lu *et al*. (2017), Character 9.
 > - Giles *et al*. (2015): Modified	based	on Giles et al.	(2013).	*Onychoselache* and	*Tamiobatis* are re-scored '?' based on	the	absence	of figured	material documenting this	condition. Gross (1947) describes	dentine	tubules	seen in	sections through the scales	of *Mesacanthus* and *Ischnacanthus*.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '1' (Mondéjar-Fernández 2018). The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - The coding of *Diplocercides* changing form '?' to '1' (Mondéjar-Fernández, 2018).
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1' (small dentine tubercles anteriorly on scales, Mondéjar-Fernández 2018). The coding of *Laccognathus* is '1' (Mondéjar-Fernández 2018). The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Diplocercides* form '?' to '1' (Mondéjar-Fernández, 2018). Changing *Achoania* from '?' to '1'.
 > - The coding of ZJYporo is '1'.
 
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
