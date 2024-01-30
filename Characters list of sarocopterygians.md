@@ -37,7 +37,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
 
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'(Mondéjar-Fernández, 2018). The coding of *Laccognathus* is '?'(Mondéjar-Fernández, 2018). The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Achoania* , '*Lingulalepis*' (Clement *et al*., 2018), *Glyptolepis* (Mondéjar-Fernández, 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
+> - Changing *Achoania* , '*Ligulalepis*' (Clement *et al*., 2018), *Glyptolepis* (Mondéjar-Fernández, 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
 > - The coding of ZJYporo is '1'.
 
 6. Enamel: 0. single-layered; 1. multi-layered.
@@ -45,14 +45,14 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 
 > - Giles *et al*. (2015): See notes above for character 5.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Glyptolepis* from '?' to '0' (Mondéjar-Fernández, 2018).  Changing '*Lingulalepis*' from '?' to '1' (Schultze, 2016).
+> - Changing *Glyptolepis* from '?' to '0' (Mondéjar-Fernández, 2018).  Changing '*Lingulalepis*' from '?' to '1' (Schultze, 2016; Clement *et al*., 2018).
 > - The coding of ZJYporo is '?'.
 
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
 > Friedman (2007), Character 195; Giles *et al*. (2015), Character 7; Lu *et al*. (2016), Character 7; Lu *et al*. (2017), Character 7.
 > - Giles *et al*. (2015): See notes above for character 5.
-> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
-> - Changing *Psarolepis* from '1' to '0/1' (Qu *et al*., 2013; Schultze, 2016).
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '-'.
+> - Changing *Psarolepis* from '1' to '0/1' (Qu *et al*., 2013; Schultze, 2016). Changing '*Ligulalepis*' from '?' to '0' (Schultze, 2016; Clement *et al*., 2018). Changing *Glyptolepis* from '?' to '-' (Mondéjar-Fernández, 2018).
 > - The coding of ZJYporo is '?'.
 
 8. Pore canal network (sensu Zhu et al. 2010): 0. absent; 1. present.
