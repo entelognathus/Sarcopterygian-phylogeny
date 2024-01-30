@@ -60,7 +60,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - Lu *et al*. (2016; 2017): The previous formulation of this character referenced an extensive pore canal network. However, this leaves assessment of presence and absence ambiguous based on subjective interpretations of when such a network might be considered ‘extensive’. Instead, we have reformulated this character to capture those instances in which cavities connect with the outer surface of the bone via pores. Changed from ‘?’ to ‘0’ for *Cassidiceps*, *Euthacanthus*, *Helodus*, *Homalacanthus*, *Ischnacanthus*, *Janusiscus*, *Kathemacanthus*, *Kentuckia*, *Latviacanthus*, ‘*Ligualepis*’, *Mesacanthus*, *Onychodus*, *Pterichthyodes*, *Tristychius*; from ‘1’ to ‘0’ in *Dialipina*, *Poracanthodes*; from ‘0’ to ‘?’ in *Guiyu*, *Jagorina*, *Moythomasia*.
 > - Giles *et al*. (2015): See notes above for character 5. Extensive	pore	canal	networks represent a key component of	the	complex	tissue type	known	as	cosmine, but networks	of vascular	canals that	open to	the	surface	of bones and	scales by	pores	are	widely distributed among early vertebrates. Best known in sarcopterygians, pore-canal networks are also	found	in a range of	taxa including	probable stem	osteichthyans (e.g.	*Ligulalepis sensu stricto*; Schultze 1968: figs 1-4),	acanthodians (e.g. *Poracanthodes*;	Valiukevicius 1992: figs 4, 9),	and	osteostracans	(e.g.	*Tremataspis*, Denison 1947: fig. 1).	Sarcopterygian pore-canal	networks are distinguished from these	other	examples	in the density of	pore canals, and the flask-like	shape	of these structures.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Sparalepis*, *Miguashaia* from '?' to '0' (Mondéjar-Fernández, 2018).
+> - Changing *Sparalepis*, *Miguashaia* from '?' to '0' (Mondéjar-Fernández, 2018). Changing *Achoania* from '?' to '1'.
 > - The coding of ZJYporo is '1'.
 
 9. Dentinous tissue: 0. absent; 1. present.
@@ -68,7 +68,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - Giles *et al*. (2015): Modified	based	on Giles et al.	(2013).	*Onychoselache* and	*Tamiobatis* are re-scored '?' based on	the	absence	of figured	material documenting this	condition. Gross (1947) describes	dentine	tubules	seen in	sections through the scales	of *Mesacanthus* and *Ischnacanthus*.
 > - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '1' (Mondéjar-Fernández 2018). The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
 > - The coding of *Diplocercides* changing form '?' to '1' (Mondéjar-Fernández, 2018).
-> - The coding of ZJYporo is '?'.
+> - The coding of ZJYporo is '1'.
 
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
 > Lu *et al*. (2017), Character 10; Lu *et al*. (2016), Character 10; Giles *et al*. (2015), Character 10; Davis *et al*. (2012), Character 5.
