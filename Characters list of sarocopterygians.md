@@ -35,8 +35,8 @@ The changing of histological data is generally based on Mondéjar-Fernández, 20
 
 > - Giles *et al*. (2015): This	character, along with	the	following	three, represents an	atomization	of compound	characters relating	to suite of features	characterizing ganoine and cosmine (e.g. Davis *et al*. 2012: character	6; Zhu *et al*. 2013: character 6). A similar approach	to atomizing these traits was adopted	by Friedman	(2007: characters	131, 138 and 195)	and	Friedman & Brazeau	(characters	36 and 37). An	enameloid-like capping tissue	is reported	in thyestidians by Janvier (1996),	so we	have coded *Osteostraci*	as polymorphic	for	this tissue.
 
-> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - Changing *Achoania* , '*Lingulalepis*' (Clement *et al*., 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'(Mondéjar-Fernández, 2018). The coding of *Laccognathus* is '?'(Mondéjar-Fernández, 2018). The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Achoania* , '*Lingulalepis*' (Clement *et al*., 2018), *Glyptolepis*(Mondéjar-Fernández, 2018) and *Sparalepis* (Choo *et al*., 2017) from '?' to '1'. 
 > - The coding of ZJYporo is '1'.
 
 6. Enamel: 0. single-layered; 1. multi-layered.
