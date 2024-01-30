@@ -71,8 +71,12 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '1'.
 
 10. Dentine kind: 0. mesodentine; 1. semidentine; 2. orthodentine.
-> Lu *et al*. (2017), Character 10; Lu *et al*. (2016), Character 10; Giles *et al*. (2015), Character 10; Davis *et al*. (2012), Character 5.
+> Davis *et al*. (2012), Character 5; Giles *et al*. (2015), Character 10; Lu *et al*. (2016), Character 10; Lu *et al*. (2017), Character 10.
 > - Giles *et al*. (2015): *Lupopsyrus* scored	'0'	based	on	Hanke	&	Davis	(2012).	*Incisoscutum* scored	'1'	based	on	Johanson & Smith	(2005). Semidentine is reported	in *Romundina* (Giles *et	al*. 2013). The	precise	type	of dentine in	*Yunnanolepis*	is difficult to	determine (Giles *et al*. 2013).	Because	their dentine	is described by	Gross (1947) as tubular canals	reminiscent	of	those	in	similar	acanthodians,	the	dentine	type in *Ischnacanthus* and	*Mesacanthus* is here	scored as	orthodentine.
+> - The coding of *Durialepis* is '2'. The coding of *Holoptychius* is '2'. The coding of *Laccognathus* is '2'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Achoania*, *Diplocercides*, *Styloichthys*, *Kentuckia* from '?' to '2' (Mondéjar-Fernández, 2018). Changing *Yunnanolepis*, *Austroptyctodus*, *Brindabellaspis*, *Buchanosteus* from '?' to '1' (Mondéjar-Fernández, 2018).
+> - The coding of ZJYporo is '2'.
+
 11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
 > Burrow	&	Turner (2010), Character 61; Lu *et al*. (2017), Character 11; Lu *et al*. (2016), Character 11; Giles *et al*. (2015), Character 11.
 > - Giles *et al*. (2015): Hanke	&	Davis	(2008)	express	uncertainty	about	bone	cell lacunae in	the	scale	bases	of *Gladiobranchus*. However,	Newman *et al*. (2012), working on the	basis	of better-preserved material of *Uraniacanthus* (to	which	*Gladiobranchus* is synonymous) show convincingly	that these	lacunae	are	lacking. *Climatius* is	scored '?' in	spite	of Ørvig's (1967)	report of	acellular	bases. Ørvig figured flat-based	scales from	the head.	This	character	strictly concerns	body scales, which may have been different. *Cheirolepis* is scored	'1'	based	on Ørvig (1967). However,	this is remarkably	poorly documented	in any	accessioned	specimens. *Acanthodes* is scored	'1'	based	on Gross (1947)	and	Valiukevicius (1995).	*Dialipina* is scored from	Schultze (1968). *Psarolepis* is coded '0' based on	Qu *et al*.	(2013).	The presence or absence	of bone cells	in the scale bases of	*Brindabellaspisis* uncertain based	on Burrow &	Turner (1999).
