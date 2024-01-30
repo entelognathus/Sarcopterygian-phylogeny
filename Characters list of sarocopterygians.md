@@ -1,6 +1,6 @@
 # Characters list of sarocopterygians 
-*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013; Mondéjar-Fernández & Meunier, 2020), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
-The changing of histological data is generally based on Mondéjar-Fernández, 2018.
+*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013; Mondéjar-Fernández, 2018; Mondéjar-Fernández & Meunier, 2020), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013; Mondéjar-Fernández, 2018), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
+The changes of histological data are generally based on Mondéjar-Fernández, 2018.
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
 >Davis *et al*. (2012), Character 1; Giles *et al*. (2015), Character 1; Lu *et al*. (2016), Character 1; Lu *et al*. (2017), Character 1.
@@ -44,7 +44,8 @@ The changing of histological data is generally based on Mondéjar-Fernández, 20
 >  Friedman (2007), Character 138; Giles *et al*. (2015), Character 6; Lu *et al*. (2016), Character 6; Lu *et al*. (2017), Character 6.
 
 > - Giles *et al*. (2015): See notes above for character 5.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '-'.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Glyptolepis* from '?' to '0' (Mondéjar-Fernández, 2018).  Changing '*Lingulalepis*' from '?' to '1' (Schultze, 2016).
 > - The coding of ZJYporo is '?'.
 
 7. Enamel layers: 0. applied directly to one another (ganoine); 1. separated by layers of dentine.
