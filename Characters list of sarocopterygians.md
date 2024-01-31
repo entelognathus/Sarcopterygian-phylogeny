@@ -116,7 +116,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 17. Generations of odontodes: 0. buried; 1. areally growing; 2. resorbed.
 > Lu *et al*. (2017), Character 17; Lu *et al*. (2016), Character 17; Giles *et al*. (2015), Character 17.
 > - Giles *et al*. (2015): This character is scored contingently on the presence of polyodontote scales. Taxa displaying monodontote scales are coded as inapplicable.
-> - ## 崔学长建议拆成两个character，一个是buried or not，一个是buried odontodes的位置是bone还是dentine中，二者皆有resorbed的现象，但程度不同。
+> - ## 崔学长建议拆成两个character，一个是buried or not，一个是buried odontodes的位置是bone还是dentine中，二者皆有resorbed的现象，但程度不同，且与porolepiformes关系较大。
 18. Body scales with peg-and-socket articulation: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
