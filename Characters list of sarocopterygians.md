@@ -85,8 +85,8 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
 > Burrow	&	Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Lu *et al*. (2016), Character 12; Lu *et al*. (2017), Character 12.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
-> - The coding of *Durialepis* is '2'. The coding of *Holoptychius* is '2'. The coding of *Laccognathus* is '2'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
-> - 
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 ## *Squamation*
 
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
