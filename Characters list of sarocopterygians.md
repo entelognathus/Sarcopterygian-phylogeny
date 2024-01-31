@@ -158,18 +158,28 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '0'.
 
 24. Body scales with flattened base: 0. present; 1. absent.
-> Lu *et al*. (2017), Character 24; Lu *et al*. (2016), Character 24; Giles *et al*. (2015), Character 24; Davis *et al*. (2012), Character 13.
+> Davis *et al*. (2012), Character 13; Giles *et al*. (2015), Character 24; Lu *et al*. (2016), Character 24; Lu *et al*. (2017), Character 24.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 25. Basal pore in scales: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 25; Lu *et al*. (2016), Character 25; Giles *et al*. (2015), Character 25.
+> Giles *et al*. (2015), Character 25; Lu *et al*. (2016), Character 25; Lu *et al*. (2017), Character 25.
 > - Giles *et al*. (2015): Growing basal tissue is absent from some scales belonging to chondrichthyans. Although shown only in the cranial cap scales (Coates & Sequeira 2001b: fig.12E), a basal pore is seen in *Akmonistion*.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 26. Flank scale alignment: 0. vertical rows oblique rows or hexagonal; 1. rhombic packing; 2. disorganised.
-> Lu *et al*. (2017), Character 26; Lu *et al*. (2016), Character 26; Giles *et al*. (2015), Character 26; Davis *et al*. (2012), Character 14.
+> Davis *et al*. (2012), Character 14; Giles *et al*. (2015), Character 26; Lu *et al*. (2016), Character 26; Lu *et al*. (2017), Character 26.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘?’ for *Chondrenchelys*.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'.
 27. Scute-like ridge scales (basal fulcra): 0. absent; 1. present.
-> Lu *et al*. (2017), Character 27; Lu *et al*. (2016), Character 27; Giles *et al*. (2015), Character 27; Patterson (1982), Character 19; Gardiner (1984), Character 12; Friedman & Brazeau (2010), Character 25.
+> Patterson (1982), Character 19; Gardiner (1984), Character 12; Friedman & Brazeau (2010), Character 25; Giles *et al*. (2015), Character 27; Lu *et al*. (2016), Character 27; Lu *et al*. (2017), Character 27.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
 28. Sensory line canal: 0. perforates scales; 1. passes between scales; 2. C-shaped scales.
-> Lu *et al*. (2017), Character 28; Lu *et al*. (2016), Character 28; Giles *et al*. (2015), Character 28; Davis *et al*. (2012), Character 15.
+> Davis *et al*. (2012), Character 15; Giles *et al*. (2015), Character 28; Lu *et al*. (2016), Character 28; Lu *et al*. (2017), Character 28.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
 ## *Dermal bones of the skull*
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
 > Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
