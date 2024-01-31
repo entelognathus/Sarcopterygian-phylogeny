@@ -150,10 +150,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - Giles *et al*. (2015): This character is scored contingently on the previous character, and thus refersto necked scales with a pronounced anvil-­shaped profile as seen in acanthodids, diplacanthids, ischnacanthids, and similar taxa, and thus is typified by the profile of the *Gomphonchus*­‐type morphology.
 > - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
 > - The coding of ZJYporo is '-'.
-> 
+
 23. Body scales with bulging base: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 23; Lu *et al*. (2016), Character 23; Giles *et al*. (2015), Character 23; Davis *et al*. (2012), Character 12.
+> Davis *et al*. (2012), Character 12; Giles *et al*. (2015), Character 23; Lu *et al*. (2016), Character 23; Lu *et al*. (2017), Character 23.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
+
 24. Body scales with flattened base: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 24; Lu *et al*. (2016), Character 24; Giles *et al*. (2015), Character 24; Davis *et al*. (2012), Character 13.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
