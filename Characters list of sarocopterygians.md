@@ -121,12 +121,23 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
 > - Giles *et al*. (2015): *Lupopsyrus* is scored '0', consistent with the description by Hanke & Davis (2012).
+> - Changing *Ligulalepis* from '?' to 1 (Schultze, 2016).
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
 19. Scale peg: 0. broad; 1. narrow.
 > Lu *et al*. (2017), Character 19; Lu *et al*. (2016), Character 19; Giles *et al*. (2015), Character 19; Patterson (1982), Character 5; Cloutier & Ahlberg (1996), Character 4; Dietze (2000), Character 57; Schultze & Cumbaa (2001), Character 88; Zhu & Schultze (2001), Character 199; Zhu *et	al*. (2001), Character 145; Zhu & Yu (2002), Character 145; Cloutier & Arratia (2004), Character 178; Zhu *et al*. (2006), Character 112; Friedman (2007), Character 128; Brazeau (2009), Character 139; Zhu *et al*. (2009), Character 139; Zhu *et al*. (2013), Character 143.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘0’ in *Styloichthys*.
+> - Changing *Ligulalepis* from '?' to 1 (Schultze, 2016).
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '-'.
+
 20. Anterodorsal process on scale: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 20; Lu *et al*. (2016), Character 20; Giles *et al*. (2015), Character 20; Patterson (1982), Character 4; Lauder & Liem (1983), Character 4; Gardiner (1984), Character 1; Gardiner & Schaeffer (1989), Character A20; Schultze (1992), Character 2, in part; Schultze & Cumbaa	(2001), Character 89;	Zhu	&	Schultze (2001), Character 201; Zhu *et al*. (2001), Character 146;	Zhu	&	Yu (2002), Character 146;	Cloutier & Arratia (2004), Character 179;	Friedman & Blom (2006), Character 33; Zhu *et al*.	(2006), Character 113; Friedman (2007), Character 129; Zhu *et al*. (2009), Character 140; Zhu *et al*. (2013), Character 144.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
+> - Changing *Ligulalepis* from '?' to '1' (Schultze, 2016). Changing *Guiyu* from '0' to '1' (Schultze, 2016).
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
+
 21. Body scale profile: 0. distinct crown and base demarcated by a constriction ("neck"); 1. flattened.
 > Lu *et al*. (2017), Character 21; Lu *et al*. (2016), Character 21; Giles *et al*. (2015), Character 21; Davis *et al*. (2012), Character 11.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘1’ in *Styloichthys*.
