@@ -78,12 +78,15 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '2'.
 
 11. Bone cell lacunae in body scale bases: 0. present; 1. absent.
-> Burrow	&	Turner (2010), Character 61; Lu *et al*. (2017), Character 11; Lu *et al*. (2016), Character 11; Giles *et al*. (2015), Character 11.
+> Burrow	&	Turner (2010), Character 61; Giles *et al*. (2015), Character 11; Lu *et al*. (2016), Character 11; Lu *et al*. (2017), Character 11.
 > - Giles *et al*. (2015): Hanke	&	Davis	(2008)	express	uncertainty	about	bone	cell lacunae in	the	scale	bases	of *Gladiobranchus*. However,	Newman *et al*. (2012), working on the	basis	of better-preserved material of *Uraniacanthus* (to	which	*Gladiobranchus* is synonymous) show convincingly	that these	lacunae	are	lacking. *Climatius* is	scored '?' in	spite	of Ørvig's (1967)	report of	acellular	bases. Ørvig figured flat-based	scales from	the head.	This	character	strictly concerns	body scales, which may have been different. *Cheirolepis* is scored	'1'	based	on Ørvig (1967). However,	this is remarkably	poorly documented	in any	accessioned	specimens. *Acanthodes* is scored	'1'	based	on Gross (1947)	and	Valiukevicius (1995).	*Dialipina* is scored from	Schultze (1968). *Psarolepis* is coded '0' based on	Qu *et al*.	(2013).	The presence or absence	of bone cells	in the scale bases of	*Brindabellaspisis* uncertain based	on Burrow &	Turner (1999).
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
-> Burrow	&	Turner (2010), Character 60; Lu *et al*. (2017), Character 12; Lu *et al*. (2016), Character 12; Giles *et al*. (2015), Character 12.
+> Burrow	&	Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Lu *et al*. (2016), Character 12; Lu *et al*. (2017), Character 12.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
-
+> - The coding of *Durialepis* is '2'. The coding of *Holoptychius* is '2'. The coding of *Laccognathus* is '2'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - 
 ## *Squamation*
 
 13. Longitudinal scale alignment in fin webs: 0. present; 1. absent.
