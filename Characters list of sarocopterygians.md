@@ -182,8 +182,9 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '?'.
 ## *Dermal bones of the skull*
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
-> Lu *et al*. (2017), Character 29; Lu *et al*. (2016), Character 29; Giles *et al*. (2015), Character 29.
-> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*. 
+> Giles *et al*. (2015), Character 29; Lu *et al*. (2016), Character 29; Lu *et al*. (2017), Character 29.
+> - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'. 
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
 > Lu *et al*. (2017), Character 30; Lu *et al*. (2016), Character 30; Giles *et al*. (2015), Character 30; Davis *et al*. (2012), Character 16.
 > - Giles *et al*. (2015): Galeaspids are recoded as polymorphic based on Donoghue *et al*. (2000).
