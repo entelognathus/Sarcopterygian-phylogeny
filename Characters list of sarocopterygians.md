@@ -85,7 +85,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 12. Main dentinous tissue forming fin spine: 0. osteodentine; 1. orthodentine.
 > Burrow	&	Turner (2010), Character 60; Giles *et al*. (2015), Character 12; Lu *et al*. (2016), Character 12; Lu *et al*. (2017), Character 12.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '-'.
 > - The coding of ZJYporo is '?'.
 ## *Squamation*
 
@@ -93,13 +93,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > Lu *et al*. (2017), Character 13; Lu *et al*. (2016), Character 13; Giles *et al*. (2015), Character 13; Davis *et al*. (2012), Character 7.
 > - Lu *et al*. (2016; 2017): Changed from ‘-’ to ‘0’ in *Pterichthyodes*.
 > - Giles *et al*. (2015): The character formulation of Davis *et al*. (2012) did not distinguish between ordered arrangements of fin scales and lepidotrichia. *Acanthodians* and *Dialipina* (uncatalogued specimen, Musem für Naturkunde, Berlin) exhibit fin web scales that are not markedly distinguished from the body scales. Fin web scales of *Dialipina* even include a distinct peg-­‐and-­‐socket articulation. This character thus refers to the alignment only, but not to the specialized rectangle-­‐shaped scales in osteichthyans. *Poracanthodes* is changed to '? ' because fin webs do not appear to be preserved in articulated specimens(Valiukevicius 1992). *Brachyacanthus* and *Parexus* scored '1'(pers. obs. SG, NHMUK P.130, P.38593 for *Parexus*, and NHMUK P.6959 and P.9595 *Brachyacanthus*). *Brochoadmones* is scored '0' based on observations on UALVP41495. *Campbellodus* scored '? '.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
 > - The coding of ZJYporo is '?'.
 
 14. Differentiated lepidotrichia: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 14; Lu *et al*. (2016), Character 14; Giles *et al*. (2015), Character 14.
 > - Giles *et al*. (2015): Refers to the distinct rectangular shape of the aligned lepidotrichia-­‐like scales. This character is scored contingently on the state of the previous character. *Dialipina* is coded '0'(uncatalogued specimen, Musem für Naturkunde, Berlin).
-> - 
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
 15. Body scale growth pattern: 0. comprising single odontode unit/generation ("monodontode"); 1. comprising a complex of multipe odontode generations/units ("polyodontode").
 > Lu *et al*. (2017), Character 15; Lu *et al*. (2016), Character 15; Giles *et al*. (2015), Character 15; Davis *et al*. (2012), Character 8.
 > - Giles *et al*. (2015): *Climatius* is scored '1' based on Ørvig(1967) showing multiple apposed cusps on the body scales of this taxon. *Onychodus* is re-­scored '1'. The scales of *Gemuendina* appear to have only a single external tubercle, implying that they may have been monodontode. However, this is not corroborated by any histological data and so *Gemuendina* is conservatively scored '?'.
