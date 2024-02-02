@@ -184,11 +184,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 29. Dermal ornamentation: 0. smooth; 1. parallel, vermiform ridges; 2. concentric ridges; 3. tuberculate.
 > Giles *et al*. (2015), Character 29; Lu *et al*. (2016), Character 29; Lu *et al*. (2017), Character 29.
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘3’ for *Glyptolepis*, from ‘3’ to ‘-’ for *Onychoselache*, from ‘3’ to ‘0’ for *Psarolepis*.
-> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '3'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '3'. The coding of *Quebecius* is '?'.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '3'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '3'. The coding of *Quebecius* is '?'.
 > - The coding of ZJYporo is '0'.
 30. Sensory line network: 0. preserved as open grooves (sulci) in dermal bones; 1. sensory lines pass through canals in dermal bones (open as pores).
-> Lu *et al*. (2017), Character 30; Lu *et al*. (2016), Character 30; Giles *et al*. (2015), Character 30; Davis *et al*. (2012), Character 16.
+> Davis *et al*. (2012), Character 16; Giles *et al*. (2015), Character 30; Lu *et al*. (2016), Character 30; Lu *et al*. (2017), Character 30.
 > - Giles *et al*. (2015): Galeaspids are recoded as polymorphic based on Donoghue *et al*. (2000).
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 31. Sensory canals/grooves: 0. contained within the thickness of dermal bones; 1. contained in prominent ridges on visceral surface of bone.
 > Lu *et al*. (2017), Character 31; Lu *et al*. (2016), Character 31; Giles *et al*. (2015), Character 31; Goujet (1984b), unnumbered	character; Brazeau (2009), Character 17.
 > - Giles *et al*. (2015): A character similar to this appeared in Brazeau (2009). Davis *et al*. (2012) did not include this character, but did not elaborate on the rationale behind this deletion. In its present formulation, this character considers the degree to which grooves or canals for sensory lines are expressed as prominent ridges on the visceral surface of dermal bones. This modification reflects the paucity of section data indicating whether the floor of the groove or canal lies deep to the visceral surface of the body of the containing bone.
