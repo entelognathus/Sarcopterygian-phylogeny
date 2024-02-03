@@ -331,8 +331,12 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 60. Dermal neck joint: 0. overlap; 1. ginglymoid.
 > Lu *et al*. (2017), Character 60; Lu *et al*. (2016), Character 60; Giles *et al*. (2015), Character 60; Zhu *et al*. (2013), Character 169.
 > - Giles *et al*. (2015): The	presence of a dermal neck joint is not a probable	placoderm synapomorphy	per	se.	Rather,	the	articulation of the shoulder and skull in mandibulate	stem gnathostomes	is distinguished from	the condition	in osteichthyans by being a ginglymoid articulation. The articulation in *Brindabellaspis* is peculiar	in that it does not appear to be a dermal linkage	but	was	instead	an endochondral one	(Young	1980).
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
 61. Sensory line scales/plates on head: 0. unspecialized; 1. apposed growth; 2. paralleling canal; 3. semicylindrical C-shaped ring scales.
-> Lu *et al*. (2017), Character 61; Lu *et al*. (2016), Character 61; Giles *et al*. (2015), Character 61; Davis *et al*. (2012), Character 15; Burrow & Turner	(2010),	Character 66.
+> Burrow & Turner	(2010),	Character 66; Davis *et al*. (2012), Character 15; Giles *et al*. (2015), Character 61; Lu *et al*. (2016), Character 61; Lu *et al*. (2017), Character 61 .
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '-'.  
 62. Bony hyoidean gill-cover series (branchiostegals): 0. absent; 1. present.
 >  Lu *et al*. (2017), Character 62; Lu *et al*. (2016), Character 62; Giles *et al*. (2015), Character 62; Davis *et al*. (2012), Character 27.
 > - Giles *et al*. (2015): We	have re-coded	*Acanthodes* and *Homalacanthus* as	'1', reflecting	the	classic interpretation of the	presence of	branchiostegal	rays in these	taxa.	Davis	*et	al*. (2012)	coded	the	filamentous	rays articulating with	the	hyoid	arches of	these	acanthodids	as '0', hypothesizing	that they	might	represent	endoskeletal hyoid rays	like those present in	modern	and	fossil chondrichthyans. This conclusion was	based	on overall morphological	similarity;	the	structures in *Acanthodes* and *Homalacanthus*	are	thin and	filamentous, like	chondrichthyan hyoid rays	and unlike many	(but not all) osteichthyan branchiostegal	rays. Here we	code taxa bearing	other	ossifications	associated with the hyoid	arch (e.g. submandibulars, gulars, suboperculars)	as	'1'	for	this character.
