@@ -240,11 +240,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 41. Pineal opening perforation in dermal skull roof: 0. present; 1. absent.
 > Davis *et al*. (2012), Character 25; Giles *et al*. (2015), Character 41; Lu *et al*. (2016), Character 41; Lu *et al*. (2017), Character 41.
 > - Giles *et al*. (2015): This feature is indicated in a reconstruction of *Romundina* (see Goujet & Young 2004, fig.2), but this is not shown in any specimen photograph or illustration. It is thus unclear whether this is actually observed, or was merely symbolic, indicating the structure's sub­‐dermal location.
->
-> - 
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 42. Dermal plate associated with pineal eminence or foramen: 0. contributes to orbital margin; 1. plate bordered laterally by skull roofing bones.
-> Lu *et al*. (2017), Character 42; Lu *et al*. (2016), Character 42; Giles *et al*. (2015), Character 42.
+> Giles *et al*. (2015), Character 42; Lu *et al*. (2016), Character 42; Lu *et al*. (2017), Character 42.
 > - Giles *et al*. (2015): Among taxa sampled in this analysis, osteostracans, antiarchs, *Brindabellaspis*, and Romundina bear pineal plates that contribute to the margin of the orbit, corresponding to state '0'. We consider taxa where the pineal foramen is bounded by rectilinear skull roofing bones but which lack separate pineal ossifications (e. g. *Mimipiscis*) as showing state '1'. Taxa lacking macromeric cranial skeletons are coded as inapplicable for this character.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '?'. 
 43. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): 0. absent; 1. present.
 > Lu *et al*. (2017), Character 43; Lu *et al*. (2016), Character 43; Giles *et al*. (2015), Character 43; Davis *et al*. (2012), Character 23.
 44. Broad supraorbital vaults: 0. absent; 1. present.
