@@ -197,12 +197,20 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
 > - The coding of ZJYporo is '?'.
 32. Jugal portion of infraorbital canal joins supramaxillary canal: 0. present; 1. absent.
-> Lu *et al*. (2017), Character 32; Lu *et al*. (2016), Character 32; Giles *et al*. (2015), Character 32; Davis *et al*. (2012), Character 17.
+> Davis *et al*. (2012), Character 17; Giles *et al*. (2015), Character 32; Lu *et al*. (2016), Character 32; Lu *et al*. (2017), Character 32.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
 33. Dermal skull roof: 0. includes large dermal plates; 1. consists of undifferentiated plates or tesserae.
-> Lu *et al*. (2017), Character 33; Lu *et al*. (2016), Character 33; Giles *et al*. (2015), Character 33; Davis *et al*. (2012), Character 18.
+> Davis *et al*. (2012), Character 18; Giles *et al*. (2015), Character 33; Lu *et al*. (2016), Character 33; Lu *et al*. (2017), Character 33.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
 34. Anterior pit line of dermal skull roof: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 34; Lu *et al*. (2016), Character 34; Giles *et al*. (2015), Character 34.
+>  Giles *et al*. (2015), Character 34; Lu *et al*. (2016), Character 34; Lu *et al*. (2017), Character 34.
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Cheirolepis*.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
+>
+> 
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
 > Lu *et al*. (2017), Character 35; Lu *et al*. (2016), Character 35; Giles *et al*. (2015), Character 35; Davis *et al*. (2012), Character 19.
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
