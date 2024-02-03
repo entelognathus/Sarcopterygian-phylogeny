@@ -248,38 +248,65 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '-'.
 > - The coding of ZJYporo is '?'. 
 43. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): 0. absent; 1. present.
-> Lu *et al*. (2017), Character 43; Lu *et al*. (2016), Character 43; Giles *et al*. (2015), Character 43; Davis *et al*. (2012), Character 23.
+> Davis *et al*. (2012), Character 23; Giles *et al*. (2015), Character 43; Lu *et al*. (2016), Character 43; Lu *et al*. (2017), Character 43.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 44. Broad supraorbital vaults: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 44; Lu *et al*. (2016), Character 44; Giles *et al*. (2015), Character 44; Dennis & Mile, (1981), Character 16.
+> Dennis & Mile, (1981), Character 16; Giles *et al*. (2015), Character 44; Lu *et al*. (2016), Character 44; Lu *et al*. (2017), Character 44.
 > - Giles *et al*. (2015): This character is contingent on the presence of a dermal skull roof composed of large plates. In coccosteomorph arthrodires, the dorsal surfaces of the orbits, comprising the preorbital and postorbital plates, are formed of broad, concave laminae. Similar vaults on the visceral surface of the dermal skull are absent in other placoderms and osteichthyans.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'. 
 45. Median commissure between supraorbital sensory lines: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 45; Lu *et al*. (2016), Character 45; Giles *et al*. (2015), Character 45.
+> Giles *et al*. (2015), Character 45; Lu *et al*. (2016), Character 45; Lu *et al*. (2017), Character 45.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'. 
 46. Dermal cranial joint at level of sphenoid-otic junction: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 46; Lu *et al*. (2016), Character 46; Giles *et al*. (2015), Character 46; Cloutier & Ahlberg (1996), Character 81;	Ahlberg & Johanson (1998), Character 71;	Zhu	*et al*.	(2001), Character 20;	Zhu	&	Schultze (2001), Character 31; Zhu & Yu	(2002), Character 20;	Zhu & Ahlberg (2004), Character 71; Daeschler *et	al*. (2006), Character 50;	Long *et al*. (2006), Character 3;	Zhu *et	al*. (2006), Character 24; Friedman (2007), Character 19;	Zhu	*et	al*.	(2009), Character 21;	Zhu	*et	al*. (2013), Character 147.
+> Cloutier & Ahlberg (1996), Character 81;	Ahlberg & Johanson (1998), Character 71;	Zhu	*et al*.	(2001), Character 20;	Zhu	&	Schultze (2001), Character 31; Zhu & Yu	(2002), Character 20;	Zhu & Ahlberg (2004), Character 71; Daeschler *et	al*. (2006), Character 50;	Long *et al*. (2006), Character 3;	Zhu *et	al*. (2006), Character 24; Friedman (2007), Character 19;	Zhu	*et	al*.	(2009), Character 21;	Zhu	*et	al*. (2013), Character 147; Giles *et al*. (2015), Character 46; Lu *et al*. (2016), Character 46; Lu *et al*. (2017), Character 46.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 47. Otic canal extends through postparietals: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 47; Lu *et al*. (2016), Character 47; Giles *et al*. (2015), Character 47; Cloutier	&	Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37;	Zhu	& Yu (2002), Character 37;	Friedman (2007), Character 40.
+> Cloutier	&	Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37;	Zhu	& Yu (2002), Character 37;	Friedman (2007), Character 40; Giles *et al*. (2015), Character 47; Lu *et al*. (2016), Character 47; Lu *et al*. (2017), Character 47.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 48. Number of bones of skull roof lateral to postparietals: 0. two; 1. one; 2. more than two.
-> Lund *et al*. (1995), Character 21;	Cloutier & Ahlberg (1996), Character 37; Ahlberg & Johanson (1998), Character 49;	Zhu	&	Ahlberg	(2004), Character 49; Schultze & Cumbaa	(2001), Character 74;	Zhu	&	Schultze	(2001:	character	27), Zhu et al. (2001), Character 19; Zhu & Yu (2002), Character 19;	Cloutier & Arratia (2004), Character 75;	Daeschler *et al*. (2006), Character 39; Zhu *et	al*. (2006), Character 22; Friedman (2007), Character 18;	Zhu	*et al*. (2009), Character 27.
+> Lund *et al*. (1995), Character 21;	Cloutier & Ahlberg (1996), Character 37; Ahlberg & Johanson (1998), Character 49;	Schultze & Cumbaa	(2001), Character 74;	Zhu	&	Schultze	(2001:	character	27), Zhu et al. (2001), Character 19; Zhu & Yu (2002), Character 19; Zhu	&	Ahlberg	(2004), Character 49; Cloutier & Arratia (2004), Character 75;	Daeschler *et al*. (2006), Character 39; Zhu *et	al*. (2006), Character 22; Friedman (2007), Character 18;	Zhu	*et al*. (2009), Character 27; Giles *et al*. (2015), Character 48; Lu *et al*. (2016), Character 48; Lu *et al*. (2017), Character 48.
 > - Lu *et al*. (2016; 2017): We have modified this character to take into account the condition in *Powichthys* and lungfishes (new additions to the matrix), which show more than two bones lateral to the postparietals.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'. 
 49. Suture between paired skull roofing bones (centrals of placoderms; postparietals of osteichthyans): 0. straight; 1. sinusoidal.
-> Lu *et al*. (2017), Character 49; Lu *et al*. (2016), Character 49; Giles *et al*. (2015), Character 49; Miles & Dennis (1979), Character 6.
+> Miles & Dennis (1979), Character 6; Giles *et al*. (2015), Character 49; Lu *et al*. (2016), Character 49; Lu *et al*. (2017), Character 49.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - Changing *Porolepis* from '0' to '0/1' (Jarvik, 1972).
+> - The coding of ZJYporo is '?'. 
 50. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate: 0. absent; 1. present; 2. paranuchals precluded from nuchal by centrals; 3. no median posterior skull roof bone.
-> Lu *et al*. (2017), Character 50; Lu *et al*. (2016), Character 50; Giles *et al*. (2015), Character 50. 
+> Giles *et al*. (2015), Character 50; Lu *et al*. (2016), Character 50; Lu *et al*. (2017), Character 50.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'. 
 51. Paired pits on ventral surface of nuchal plate: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 51; Lu *et al*. (2016), Character 51; Giles *et al*. (2015), Character 51; Miles & Dennis (1979), Character 10;	Dennis & Miles (1981), Character 10.
+> Miles & Dennis (1979), Character 10;	Dennis & Miles (1981), Character 10; Giles *et al*. (2015), Character 51; Lu *et al*. (2016), Character 51; Lu *et al*. (2017), Character 51.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'. 
 52. Sclerotic ring: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 52; Lu *et al*. (2016), Character 52; Giles *et al*. (2015), Character 52.
+> Giles *et al*. (2015), Character 52; Lu *et al*. (2016), Character 52; Lu *et al*. (2017), Character 52.
 > - Giles *et al*. (2015): Coded according to Burrow *et al*. (2011).
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'. 
 53. Consolidated cheek plates: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 53; Lu *et al*. (2016), Character 53; Giles *et al*. (2015), Character 53; Davis *et al*. (2012), Character 24.
+> Davis *et al*. (2012), Character 24; Giles *et al*. (2015), Character 53; Lu *et al*. (2016), Character 53; Lu *et al*. (2017), Character 53.
 > - Giles *et al*. (2015): This character is contingent on dermatocranial cover of the cheek. Taxa lacking any dermal contribution to the cheek are coded as inapplicable.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 54. Cheek plate: 0. undivided; 1. divided (i.e., squamosal and preopercular).
-> Lu *et al*. (2017), Character 54; Lu *et al*. (2016), Character 54; Giles *et al*. (2015), Character 54.
+> Giles *et al*. (2015), Character 54; Lu *et al*. (2016), Character 54; Lu *et al*. (2017), Character 54.
 > - Giles *et al*. (2015): This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-­bearing dermal cheek(preorpercular or suborbital equivalent) is composed of one or multiple bones. State '0' is apparent in actinopterygians, *Guiyu*, *Psarolepis* (preopercular), *Entelognathus* and other placoderms.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'. 
 55. Subsquamosals in taxa with divided cheek: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 55; Lu *et al*. (2016), Character 55; Giles *et al*. (2015), Character 55; Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43.
+> Zhu & Schultze (2001), Character 64; Zhu & Yu (2001), Character 48;	Zhu & Yu (2002), Character 48; Friedman (2007), Character 43; Giles *et al*. (2015), Character 55; Lu *et al*. (2016), Character 55; Lu *et al*. (2017), Character 55.
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'. 
 56. Preopercular shape: 0. rhombic; 1. bar-shaped.
 > Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
 > - Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
