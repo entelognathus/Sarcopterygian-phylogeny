@@ -227,11 +227,16 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > Davis *et al*. (2012), Character 21; Giles *et al*. (2015), Character 38; Lu *et al*. (2016), Character 38; Lu *et al*. (2017), Character 38.
 > - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘-’ for *Ischnacanthus*.
 > - Giles *et al*. (2015): Brazeau (2009) and Davis *et al*. (2012) have scored ptyctodont taxa as lacking endolymphatic duct openings. However, it is unclear if this is the case. Although a small circular foramen is not present in the skull roofs of ptyctodonts, many ptyctodont taxa are described as possessing a "spiracular opening" in their skull roofs(Long 1997; Trinajstic *et al*. 2012). Because the spiracle of gnathostomes is situated between the hyoid and mandibular arches, we consider thisinterpretation extremely doubtful. The purpose of this opening remains unknown, but its interpretation as an endolymphatic opening cannot be ruled out. However, we adopt a conservative approach and code these taxa as '?'. Stensiö (1969) figures *Jagorina* with a posterior dorsal fontanelle and, presumably, interprets this as an endolymphatic opening behind the skull roof. No openings for the endolymphatic ducts are indicated in the skull roof. Examination of the specimen shows that the endolymphatic ducts are parasaggital to the cranial cavity and follow a course up to the skull roof. Because actual openings are not observed, this character is scored '?' for *Jagorina*.
-> - 
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '?'.
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 39; Lu *et al*. (2016), Character 39; Giles *et al*. (2015), Character 39; Davis *et al*. (2012), Character 22.
+> Davis *et al*. (2012), Character 22; Giles *et al*. (2015), Character 39; Lu *et al*. (2016), Character 39; Lu *et al*. (2017), Character 39.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
-> Lu *et al*. (2017), Character 40; Lu *et al*. (2016), Character 40; Giles *et al*. (2015), Character 40.
+> Giles *et al*. (2015), Character 40; Lu *et al*. (2016), Character 40; Lu *et al*. (2017), Character 40.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 41. Pineal opening perforation in dermal skull roof: 0. present; 1. absent.
 > Lu *et al*. (2017), Character 41; Lu *et al*. (2016; ), Character 41; Giles *et al*. (2015), Character 4; Davis *et al*. (2012), Character 25.
 > - Giles *et al*. (2015): This feature is indicated in a reconstruction of *Romundina* (see Goujet & Young 2004, fig.2), but this is not shown in any specimen photograph or illustration. It is thus unclear whether this is actually observed, or was merely symbolic, indicating the structure's sub­‐dermal location.
