@@ -209,19 +209,25 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Cheirolepis*.
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '0'.
 > - The coding of ZJYporo is '?'.
->
 > 
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
-> Lu *et al*. (2017), Character 35; Lu *et al*. (2016), Character 35; Giles *et al*. (2015), Character 35; Davis *et al*. (2012), Character 19.
+> Davis *et al*. (2012), Character 19; Giles *et al*. (2015), Character 35; Lu *et al*. (2016), Character 35; Lu *et al*. (2017), Character 35.
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '-'.
 36. Cranial spines: 0. absent; 1. present, multicuspid; 2. present, monocuspid.
-> Lu *et al*. (2017), Character 36; Lu *et al*. (2016), Character 36; Giles *et al*. (2015), Character 36.
+> Giles *et al*. (2015), Character 36; Lu *et al*. (2016), Character 36; Lu *et al*. (2017), Character 36.
 > - Giles *et al*. (2015): This character is composed as a compound because there are no further dependent characters. Mathematically, this should be equivalent to atomizing and using inapplicability.
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '-'.
 37. Extent of dermatocranial cover: 0. complete; 1. incomplete (limited to skull roof).
-> Lu *et al*. (2017), Character 37; Lu *et al*. (2016), Character 37; Giles *et al*. (2015), Character 37; Davis *et al*. (2012), Character 20.
+> Davis *et al*. (2012), Character 20; Giles *et al*. (2015), Character 37; Lu *et al*. (2016), Character 37; Lu *et al*. (2017), Character 37.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
 38. Openings for endolymphatic ducts in dermal skull roof: 0. present; 1. absent.
-> Lu *et al*. (2017), Character 38; Lu *et al*. (2016), Character 38; Giles *et al*. (2015), Character 38; Davis *et al*. (2012), Character 21.
+> Davis *et al*. (2012), Character 21; Giles *et al*. (2015), Character 38; Lu *et al*. (2016), Character 38; Lu *et al*. (2017), Character 38.
 > - Lu *et al*. (2016; 2017): Changed from ‘0’ to ‘-’ for *Ischnacanthus*.
 > - Giles *et al*. (2015): Brazeau (2009) and Davis *et al*. (2012) have scored ptyctodont taxa as lacking endolymphatic duct openings. However, it is unclear if this is the case. Although a small circular foramen is not present in the skull roofs of ptyctodonts, many ptyctodont taxa are described as possessing a "spiracular opening" in their skull roofs(Long 1997; Trinajstic *et al*. 2012). Because the spiracle of gnathostomes is situated between the hyoid and mandibular arches, we consider thisinterpretation extremely doubtful. The purpose of this opening remains unknown, but its interpretation as an endolymphatic opening cannot be ruled out. However, we adopt a conservative approach and code these taxa as '?'. Stensiö (1969) figures *Jagorina* with a posterior dorsal fontanelle and, presumably, interprets this as an endolymphatic opening behind the skull roof. No openings for the endolymphatic ducts are indicated in the skull roof. Examination of the specimen shows that the endolymphatic ducts are parasaggital to the cranial cavity and follow a course up to the skull roof. Because actual openings are not observed, this character is scored '?' for *Jagorina*.
+> - 
 39. Endolymphatic ducts with oblique course through dermal skull bones: 0. absent; 1. present.
 > Lu *et al*. (2017), Character 39; Lu *et al*. (2016), Character 39; Giles *et al*. (2015), Character 39; Davis *et al*. (2012), Character 22.
 40. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): 0. within median bone; 1. on bones flanking the median bone (e.g. paranuchals).
