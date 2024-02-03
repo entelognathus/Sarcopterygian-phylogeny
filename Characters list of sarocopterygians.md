@@ -308,16 +308,26 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
 > - The coding of ZJYporo is '?'. 
 56. Preopercular shape: 0. rhombic; 1. bar-shaped.
-> Lu *et al*. (2017), Character 56; Lu *et al*. (2016), Character 56; Giles *et al*. (2015), Character 56; Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54;	Friedman (2007), Character 48.
-> - Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*.	2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
+> Zhu *et al*.	(2001), Character 54;	Zhu & Yu (2001), Character 54; Friedman (2007), Character 48; Giles *et al*. (2015), Character 56; Lu *et al*. (2016), Character 56; Lu *et al*. (2017), Character 56.
+> - Giles *et al*. (2015): This character	applies	only to	the	subset of	sarcopterygians	with subdivided	cheek	plates. In onychodonts (Andrews	*et al*. 2006), porolepiforms (Jarvik 1972),	and	coelacanths (Forey 1998),	the preopercular assumes a plate-like	morphology.	By contrast, tetrapodomorphs	bear a	bar-shaped preopercular bone (Jarvik 1980; Long *et al*. 1997).
 > - Lu *et al*. (2016; 2017): Changed from ‘?’ to ‘-’ for *Chondrenchelys*.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '0'.  
 57. Vertical canal associated with preopercular/suborbital canal: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 57; Lu *et al*. (2016), Character 57; Giles *et al*. (2015), Character 57; Friedman	(2007), Character	152, in part.
+> Friedman	(2007), Character	152, in part; Giles *et al*. (2015), Character 57; Lu *et al*. (2016), Character 57; Lu *et al*. (2017), Character 57.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Onychodus* from '1' to '0'.
+> - The coding of ZJYporo is '0'.  
 58. Enlarged postorbital tessera separate from orbital series: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 58; Lu *et al*. (2016), Character 58; Giles *et al*. (2015), Character 58; Davis *et al*. (2012), Character 26.
+> Davis *et al*. (2012), Character 26; Giles *et al*. (2015), Character 58; Lu *et al*. (2016), Character 58; Lu *et al*. (2017), Character 58.
+> - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
+> - The coding of ZJYporo is '-'.  
 59. Extent of maxilla along cheek: 0. to posterior margin of cheek; 1. cheek bones exclude maxilla from posterior margin of cheek.
-> Lu *et al*. (2017), Character 59; Lu *et al*. (2016), Character 59; Giles *et al*. (2015), Character 59; Friedman (2007), Character 151; Zhu *et al*.	(2009), Character 81; Zhu	*et al*. (2013), Character 182.
-> - Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.	
+> Friedman (2007), Character 151; Zhu *et al*.	(2009), Character 81; Zhu	*et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al*. (2016), Character 59; Lu *et al*. (2017), Character 59.
+> - Giles *et al*. (2015): This	character	is contingent	upon the presence of maxillae and a dermal	cheek. The	jaw	bones	of ischnacanthids	are	not	part	of	the	external dermal	skeleton of	the	face and jaw	(e.g. Blais *et al*. 2011), and so	we do	not equate these bones with	maxillae/dentaries.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - Changing *Onychodus* from '-' to '0'.
+> - The coding of ZJYporo is '1'. 
 60. Dermal neck joint: 0. overlap; 1. ginglymoid.
 > Lu *et al*. (2017), Character 60; Lu *et al*. (2016), Character 60; Giles *et al*. (2015), Character 60; Zhu *et al*. (2013), Character 169.
 > - Giles *et al*. (2015): The	presence of a dermal neck joint is not a probable	placoderm synapomorphy	per	se.	Rather,	the	articulation of the shoulder and skull in mandibulate	stem gnathostomes	is distinguished from	the condition	in osteichthyans by being a ginglymoid articulation. The articulation in *Brindabellaspis* is peculiar	in that it does not appear to be a dermal linkage	but	was	instead	an endochondral one	(Young	1980).
