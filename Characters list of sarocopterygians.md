@@ -373,9 +373,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
 > - The coding of ZJYporo is '1'.
 70. Shape of opercular (submarginal) ossification: 0. broad plate that tapers towards its proximal end; 1. narrow, rod-shaped.
->   Lu *et al*. (2017), Character 70; Lu *et al*. (2016), Character 70; Giles *et al*. (2015), Character 70; Davis *et al*. (2012), Character 34.
+> Davis *et al*. (2012), Character 34; Giles *et al*. (2015), Character 70; Lu *et al*. (2016), Character 70; Lu *et al*. (2017), Character 70.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'.
 71. Size of lateral gular plates: 0. extending most of length of the lower jaw; 1. restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals).
->   Lu *et al*. (2017), Character 71; Lu *et al*. (2016), Character 71; Giles *et al*. (2015), Character 71; Davis *et al*. (2012), Character 36.
+> Davis *et al*. (2012), Character 36; Giles *et al*. (2015), Character 71; Lu *et al*. (2016), Character 71; Lu *et al*. (2017), Character 71.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'. The length of lateral gular is approximately equivalent to half of the lower jaw.
 ## *Ventral hyoid arch and gill skeleton*
 72. Gill arches: 0. largely restricted to region under braincase; 1. extend far posterior to braincase.
 >   Lu *et al*. (2017), Character 72; Lu *et al*. (2016), Character 72; Giles *et al*. (2015), Character 72.
