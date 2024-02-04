@@ -338,12 +338,17 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '-'. The coding of *Holoptychius* is '-'. The coding of *Laccognathus* is '-'. The coding of  *Nasogaluakus* is '-'. The coding of *Quebecius* is '-'.
 > - The coding of ZJYporo is '-'.  
 62. Bony hyoidean gill-cover series (branchiostegals): 0. absent; 1. present.
->  Lu *et al*. (2017), Character 62; Lu *et al*. (2016), Character 62; Giles *et al*. (2015), Character 62; Davis *et al*. (2012), Character 27.
+>  Davis *et al*. (2012), Character 27; Giles *et al*. (2015), Character 62; Lu *et al*. (2016), Character 62; Lu *et al*. (2017), Character 62.
 > - Giles *et al*. (2015): We	have re-coded	*Acanthodes* and *Homalacanthus* as	'1', reflecting	the	classic interpretation of the	presence of	branchiostegal	rays in these	taxa.	Davis	*et	al*. (2012)	coded	the	filamentous	rays articulating with	the	hyoid	arches of	these	acanthodids	as '0', hypothesizing	that they	might	represent	endoskeletal hyoid rays	like those present in	modern	and	fossil chondrichthyans. This conclusion was	based	on overall morphological	similarity;	the	structures in *Acanthodes* and *Homalacanthus*	are	thin and	filamentous, like	chondrichthyan hyoid rays	and unlike many	(but not all) osteichthyan branchiostegal	rays. Here we	code taxa bearing	other	ossifications	associated with the hyoid	arch (e.g. submandibulars, gulars, suboperculars)	as	'1'	for	this character.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'. 
 63. Branchiostegal plate series along ventral margin of lower jaw: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 63; Lu *et al*. (2016), Character 63; Giles *et al*. (2015), Character 63.
+> Giles *et al*. (2015), Character 63; Lu *et al*. (2017), Character 63; Lu *et al*. (2016), Character 63.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'. 
 64. Branchiostegal ossifications*: 0. plate-like; 1. narrow and ribbon-like; 2. filamentous.
-> Lu *et al*. (2017), Character 64; Lu *et al*. (2016), Character 64; Giles *et al*. (2015), Character 64; Davis *et al*. (2012), Character 29.
+> Davis *et al*. (2012), Character 29; Giles *et al*. (2015), Character 64; Lu *et al*. (2016), Character 64; Lu *et al*. (2017), Character 64.
+
 65. Branchiostegal ossifications: 0. ornamented; 1. unornamented.
 >Lu *et al*. (2017), Character 65; Lu *et al*. (2016), Character 65; Giles *et al*. (2015), Character 65; Davis *et al*. (2012), Character 30.
 > - Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
