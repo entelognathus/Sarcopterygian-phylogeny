@@ -365,9 +365,13 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
 > - The coding of ZJYporo is '0'.
 68. Lateral gular: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 68; Lu *et al*. (2016), Character 68; Giles *et al*. (2015), Character 68.
+> Lu *et al*. (2017), Character 68; Lu *et al*. (2016), Character 68; Giles *et al*. (2015), Character 68.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 69. Opercular (submarginal) ossification: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 69; Lu *et al*. (2016), Character 69; Giles *et al*. (2015), Character 69; Davis *et al*. (2012), Character 33.
+> Davis *et al*. (2012), Character 33; Giles *et al*. (2015), Character 69; Lu *et al*. (2016), Character 69; Lu *et al*. (2017), Character 69.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 70. Shape of opercular (submarginal) ossification: 0. broad plate that tapers towards its proximal end; 1. narrow, rod-shaped.
 >   Lu *et al*. (2017), Character 70; Lu *et al*. (2016), Character 70; Giles *et al*. (2015), Character 70; Davis *et al*. (2012), Character 34.
 71. Size of lateral gular plates: 0. extending most of length of the lower jaw; 1. restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals).
