@@ -403,23 +403,35 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
 > - The coding of ZJYporo is '?'.
 76. Endoskeletal urohyal: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 76; Lu *et al*. (2016), Character 76; Giles *et al*. (2015), Character 76; Friedman (2007),  Character 164.
+> Friedman (2007), Character 164; Giles *et al*. (2015), Character 76; Lu *et al*. (2016), Character 76; Lu *et al*. (2017), Character 76.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 ## *Dentition and jaw bones*
 77. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 77; Lu *et al*. (2016), Character 77; Giles *et al*. (2015), Character 77; Davis *et al*. (2012), Character 39.
+> Davis *et al*. (2012), Character 39; Giles *et al*. (2015), Character 77; Lu *et al*. (2016), Character 77; Lu *et al*. (2017), Character 77.
 > - Giles *et al*. (2015): The original meaning of this character, as formulated by Brazeau (2009) is clarified by an elaborated formulation. Davis *et al*. (2012) have changed Brazeau's (2009) coding for *Obtusacanthus* from '1' to '0'. This taxon clearly has oral dermal tubercles, manifest as scales on the outer face of the Meckelian cartilage. He we restore a score of '1' for this genus. We also code *Bothriolepis* as '1', based on the presence of the denticulated inferognathals described by Young (1984). The score for *Euthacanthus* is changed to ‘0’, contra Davis *et al*. (2012), as we have not observed teeth in any specimen.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 78. Oral dermal tubercles patterned in organised rows (teeth): 0. absent; 1. present.
->   Lu *et al*. (2017), Character 78; Lu *et al*. (2016), Character 78; Giles *et al*. (2015), Character 78; Davis *et al*. (2012), Character 39.
-> - Giles *et al*. (2015): Teeth are here defined as tubercles borne on the jaw cartilages exhibiting distinct, non-­‐random cusps in serially organised rows.  
+> Davis *et al*. (2012), Character 39; Giles *et al*. (2015), Character 78; Lu *et al*. (2016), Character 78; Lu *et al*. (2017), Character 78.
+> - Giles *et al*. (2015): Teeth are here defined as tubercles borne on the jaw cartilages exhibiting distinct, non-­‐random cusps in serially organised rows.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 79. Enamel(oid) on teeth: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 79; Lu *et al*. (2016), Character 79; Giles *et al*. (2015), Character 79; Rosen *et al*. (1981), Character 26; Lauder & Liem (1983), Character 17; Gardiner (1984), Character 36; Schultze & Cumbaa (2001), Character 104; Zhu & Schultze (2001), Character 212; Zhu *et al*. (2001), Character 156; Zhu & Yu (2002), Character 156; Zhu *et al*. (2006), Character 123; Friedman (2007), Character 139; Zhu *et al*. (2009), Character 153.
+> Rosen *et al*. (1981), Character 26; Lauder & Liem (1983), Character 17; Gardiner (1984), Character 36; Schultze & Cumbaa (2001), Character 104; Zhu & Schultze (2001), Character 212; Zhu *et al*. (2001), Character 156; Zhu & Yu (2002), Character 156; Zhu *et al*. (2006), Character 123; Friedman (2007), Character 139; Zhu *et al*. (2009), Character 153; Giles *et al*. (2015), Character 79; Lu *et al*. (2016), Character 79; Lu *et al*. (2017), Character 79.
 > - Giles *et al*. (2015): Previous authors have restricted consideration to the presence of 'true' enamel only, a putative synapomorphy of sarcopterygians. Given the ambiguity in differentiating enamel and enameloid in many fossil vertebrates, we adopt a more general formulation of this character.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 80. Cap of enameloid restricted to upper part of teeth (acrodin): 0. absent; 1. present.
->   Lu *et al*. (2017), Character 80; Lu *et al*. (2016), Character 80; Giles *et al*. (2015), Character 80; Patterson (1982), Character 12; Gardiner (1984), Character 13; Maisey (1986), Character N6; Gardiner & Schaeffer (1989), Character B1; Cloutier & Ahlberg (1996), Character 7; Taverne (1997), Character 7; Coates (1999), Character 1; Poplin & Lund (2000), Character 21; Schultze & Cumbaa (2001), Character 35; Zhu & Schultze (2001), Character 210; Zhu *et al*. (2001), Character 154; Zhu & Yu (2002), Character 154; Cloutier & Arratia (2004), Character 32; Gardiner *et al*. (2005), Character 15; Friedman & Blom (2006), Character 25; Zhu *et al*. (2006), Character 120; Friedman (2007), Character 137; Zhu *et al*. (2009), Character 151; Friedman & Brazeau (2010), Character 140; Zhu *et al*. (2013), Character 140.
+> Patterson (1982), Character 12; Gardiner (1984), Character 13; Maisey (1986), Character N6; Gardiner & Schaeffer (1989), Character B1; Cloutier & Ahlberg (1996), Character 7; Taverne (1997), Character 7; Coates (1999), Character 1; Poplin & Lund (2000), Character 21; Schultze & Cumbaa (2001), Character 35; Zhu & Schultze (2001), Character 210; Zhu *et al*. (2001), Character 154; Zhu & Yu (2002), Character 154; Cloutier & Arratia (2004), Character 32; Gardiner *et al*. (2005), Character 15; Friedman & Blom (2006), Character 25; Zhu *et al*. (2006), Character 120; Friedman (2007), Character 137; Zhu *et al*. (2009), Character 151; Friedman & Brazeau (2010), Character 140; Zhu *et al*. (2013), Character 140; Giles *et al*. (2015), Character 80; Lu *et al*. (2016), Character 80; Lu *et al*. (2017), Character 80.
 > - Giles *et al*. (2015): Acrodin tooth caps are widely cited as character uniting most actinopterygians to the exclusion of *Cheirolepis* (Patterson 1982; Gardiner 1984). The presence or absence of acrodin is not well documented for most early actinopterygians, but is clearly present in both *Mimipiscis* and *Moythomasia* (Gardiner 1984).
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '0'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
 81. Tooth whorls: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 81; Lu *et al*. (2016), Character 81; Giles *et al*. (2015), Character 81; Davis *et al*. (2012), Character 40.
+> Davis *et al*. (2012), Character 40; Giles *et al*. (2015), Character 81; Lu *et al*. (2016), Character 81; Lu *et al*. (2017), Character 81.
 > - Giles *et al*. (2015): We have restored a code of '1' for *Debeerius*, which bears teeth in families corresponding to the definition of whorls applied by Brazeau (2009). The parasymphysial tooth families of this genus align with a more restrictive view of whorls in having joined bases (Grogan & Lund 2000: 226).
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '1'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '1'.
+> - The coding of ZJYporo is '1'.
 82. Bases of tooth whorls: 0. single, continuous plate; 1. some or all whorls consist of separate tooth units.
 >   Lu *et al*. (2017), Character 82; Lu *et al*. (2016), Character 82; Giles *et al*. (2015), Character 82; Davis *et al*. (2012), Character 41.
 > - Giles *et al*. (2015): *Doliodus* is coded here as '0', reflecting the fact that the teeth described by Turner (2004) represent multiple tooth bases united by thin sheets of bone. It seems probable that seemingly 'isolated' teeth of this genus represent broken whorls (Maisey *et al*. in press).
