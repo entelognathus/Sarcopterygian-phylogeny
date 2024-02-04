@@ -348,15 +348,22 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '1'. 
 64. Branchiostegal ossifications*: 0. plate-like; 1. narrow and ribbon-like; 2. filamentous.
 > Davis *et al*. (2012), Character 29; Giles *et al*. (2015), Character 64; Lu *et al*. (2016), Character 64; Lu *et al*. (2017), Character 64.
-
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'. 
 65. Branchiostegal ossifications: 0. ornamented; 1. unornamented.
->Lu *et al*. (2017), Character 65; Lu *et al*. (2016), Character 65; Giles *et al*. (2015), Character 65; Davis *et al*. (2012), Character 30.
+> Davis *et al*. (2012), Character 30; Giles *et al*. (2015), Character 65; Lu *et al*. (2016), Character 65; Lu *et al*. (2017), Character 65.
 > - Lu *et al*. (2017): Changed from ‘1’ to ‘0’ for *Porolepis*, *Gogonasus*.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 66. Imbricated branchiostegal ossifications: 0. absent; 1. present.
-> Lu *et al*. (2017), Character 66; Lu *et al*. (2016), Character 66; Giles *et al*. (2015), Character 66; Davis *et al*. (2012), Character 31.
-> - Giles *et al*. (2015): Davis *et al*. (2012) changed this character to a different definition from Brazeau (2009). It is here reinstated to the original meaning, reflecting the presence of proximal imbrication. *Mesacanthus* is restored to a score of '1'. 
+> Davis *et al*. (2012), Character 31; Giles *et al*. (2015), Character 66; Lu *et al*. (2016), Character 66; Lu *et al*. (2017), Character 66.
+> - Giles *et al*. (2015): Davis *et al*. (2012) changed this character to a different definition from Brazeau (2009). It is here reinstated to the original meaning, reflecting the presence of proximal imbrication. *Mesacanthus* is restored to a score of '1'.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 67. Median gular: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 67; Lu *et al*. (2016), Character 67; Giles *et al*. (2015), Character 67; Lund *et al*. (1995), Character 64; Cloutier & Ahlberg (1996), Character 66; Forey (1998), Character 45; Coates (1999), Character 11; Lund (2000), Character 49; Schultze & Cumbaa (2001), Character 84; Zhu & Schultze (2001), Character 109; Zhu *et al*. (2001), Character 85; Zhu & Yu (2002), Character 85; Lund & Poplin (2002), Character 47; Cloutier & Arratia (2004), Character 115; Zhu *et al*. (2006), Character 67; Friedman (2007), Character 73; Zhu *et al*. (2009), Character 102; Zhu *et al*. (2013), Character 196.
+> Lund *et al*. (1995), Character 64; Cloutier & Ahlberg (1996), Character 66; Forey (1998), Character 45; Coates (1999), Character 11; Lund (2000), Character 49; Schultze & Cumbaa (2001), Character 84; Zhu & Schultze (2001), Character 109; Zhu *et al*. (2001), Character 85; Zhu & Yu (2002), Character 85; Lund & Poplin (2002), Character 47; Cloutier & Arratia (2004), Character 115; Zhu *et al*. (2006), Character 67; Friedman (2007), Character 73; Zhu *et al*. (2009), Character 102; Zhu *et al*. (2013), Character 196; Giles *et al*. (2015), Character 67; Lu *et al*. (2016), Character 67; Lu *et al*. (2017), Character 67.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '0'.
 68. Lateral gular: 0. absent; 1. present.
 >   Lu *et al*. (2017), Character 68; Lu *et al*. (2016), Character 68; Giles *et al*. (2015), Character 68.
 69. Opercular (submarginal) ossification: 0. absent; 1. present.
