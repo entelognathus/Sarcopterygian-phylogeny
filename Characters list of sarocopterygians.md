@@ -382,18 +382,26 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 > - The coding of ZJYporo is '0'. The length of lateral gular is approximately equivalent to half of the lower jaw.
 ## *Ventral hyoid arch and gill skeleton*
 72. Gill arches: 0. largely restricted to region under braincase; 1. extend far posterior to braincase.
->   Lu *et al*. (2017), Character 72; Lu *et al*. (2016), Character 72; Giles *et al*. (2015), Character 72.
+> Giles *et al*. (2015), Character 72; Lu *et al*. (2016), Character 72; Lu *et al*. (2017), Character 72.
 > - Lu *et al*. (2017): Changed from ‘?’ to ‘0’ in *Chondrenchelys*.
 > - Giles *et al*. (2015): Scores for certain placoderms without preserved or mineralized gill arch and braincase skeletons are based on the outline of the braincase on the visceral surface of the skull roofing bones and the postition of the postbranchial lamina on the shoulder girdle. In placoderms, there is no room for the gill chamber to be extended behind the skull, and must therefore have been placed in a sub-­cranial position.
+> - The coding of *Durialepis* is '0'. The coding of *Holoptychius* is '0'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '0'.
+> - The coding of ZJYporo is '?'. 
 73. Basihyal: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 73; Lu *et al*. (2016), Character 73; Giles *et al*. (2015), Character 73; Davis *et al*. (2012), Character 37.
+> Davis *et al*. (2012), Character 37; Giles *et al*. (2015), Character 73; Lu *et al*. (2016), Character 73; Lu *et al*. (2017), Character 73.
 > - Giles *et al*. (2015): The coding for chondrichthyans has been revised following Pradel *et al*. (2014).
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '1'.
 74. Interhyal: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 74; Lu *et al*. (2016), Character 74; Giles *et al*. (2015), Character 74; Davis *et al*. (2012), Character 38.
+> Davis *et al*. (2012), Character 38; Giles *et al*. (2015), Character 74; Lu *et al*. (2016), Character 74; Lu *et al*. (2017), Character 74.
 > - Giles *et al*. (2015): We agree with Davis *et al*. (2012) that the evidence for an interhyal in *Acanthodes* is weak. We retain their coding of '?' here. On the basis of an articulated hyoid arch of *Ischnacanthus* (NHMUK P.7000), we can confirm the absence of the interhyal in that genus and revise the code to '0'.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '?'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 75. Hypohyal: 0. absent; 1. present.
->   Lu *et al*. (2017), Character 75; Lu *et al*. (2016), Character 75; Giles *et al*. (2015), Character 75; Gardiner (1984), Character 27; Maisey (1986), Character K11; Friedman & Brazeau (2010), Character 12.
+> Gardiner (1984), Character 27; Maisey (1986), Character K11; Friedman & Brazeau (2010), Character 12; Giles *et al*. (2015), Character 75; Lu *et al*. (2016), Character 75; Lu *et al*. (2017), Character 75.
 > - Giles *et al*. (2015): The coding for chondrichthyans has been revised following Pradel *et al*. (2014). The hypohyal is a cartilage that lies at the anterior end of the ceratohyal, and links the ventral half of the hyoid arch with the ventral gill skeleton. This character has been considered an osteichthyan synapomorphy (see Friedman & Brazeau 2010 for a review). Davis *et al*. (2012: 43, supplementary material) query—but do not test—the status of the hypohyal as an osteichthyan synapomorphy, noting occurrences in the chondrichthyans *Debeerius* (Lund & Grogan 2000: fig.7) and *Cobelodus* (Zangerl & Case 1976: fig.13). The putative example in *Debeerius* is peculiar, as it articulates with the anterolateral margin of the median basal element, rather than linking the ceratohyal with this basal cartilage. We consider the condition of the mesial hyoid arch in *Cobelodus* to be unclear.
+> - The coding of *Durialepis* is '?'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '?'. The coding of  *Nasogaluakus* is '?'. The coding of *Quebecius* is '?'.
+> - The coding of ZJYporo is '?'.
 76. Endoskeletal urohyal: 0. absent; 1. present.
 >   Lu *et al*. (2017), Character 76; Lu *et al*. (2016), Character 76; Giles *et al*. (2015), Character 76; Friedman (2007),  Character 164.
 ## *Dentition and jaw bones*
