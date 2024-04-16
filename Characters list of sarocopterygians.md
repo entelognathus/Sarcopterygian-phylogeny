@@ -1,5 +1,5 @@
 # Characters list of sarocopterygians 
-*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013; Mondéjar-Fernández, 2018; Mondéjar-Fernández & Meunier, 2020), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013; Mondéjar-Fernández, 2018), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are addicted. 
+*Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), *Holoptychius* (Jarvik, 1972; Miller & Brazeau, 2007; Down *et al*., 2013; Mondéjar-Fernández, 2018; Mondéjar-Fernández & Meunier, 2020), *Laccognathus* (Vorobyeva, 2006; Downs *et al*., 2013; Mondéjar-Fernández, 2018), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) are added. 
 The changes of histological data are generally based on Mondéjar-Fernández, 2018.
 ## *Histology*
 1. Tessellate prismatic calcified cartilage: 0. absent; 1. present.
