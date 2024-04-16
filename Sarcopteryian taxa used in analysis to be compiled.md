@@ -1,4 +1,4 @@
-# *List of sarcopterygian taxa, geological range (Ma), horizon and locality, and references
+# List of sarcopterygian taxa, geological range (Ma), horizon and locality, and references
 
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
