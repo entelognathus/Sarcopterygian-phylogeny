@@ -1,4 +1,4 @@
-**List of taxa, geological range (Ma), horizon and locality, and references**
+# *List of sarcopterygian taxa, geological range (Ma), horizon and locality, and references
 
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
@@ -8,145 +8,7 @@
 > - [horizon and locality]
 > - [references]
 
-[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
-> Asselian to Sakmarian, 298.9, 290.1
-
-> -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
-> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
-
-[*Aceraspis robustus*](https://deepbone.org/public/#/explor?s_id=72530&functionId=Deepbone_header_searchResultOpen) Kiaer, 1911
-> Gorstian, 427.4, 425.6
-
-> - Sundvollen Formation; Rudstangen, Ringerike, S. Norway.
-> - Heintz, 1939; [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215); [Turner and Turner, 1974](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_54_2_183-192.pdf).
-> - Turner and Turner (1974): "Heintz (1969) argued convincingly that the Rudstangen and Kroksund Faunas were lower Ludlovian in age and the evidence from this study supports this view."
-
-[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
-> upper Lochkovian, 415.0, 410.8
-
-> - Xitun Formation; Qujing, Yunnan, China.
-> - [Zhu *et al*., 2001](https://www.nature.com/articles/35065078); [Zhu and Yu,2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
-
-> - Lochkovian is subdivided into lower and upper Lochkovian.
-
-[*Acronemus tuberculatus*](https://deepbone.org/public/#/explor?s_id=15517&functionId=Deepbone_header_searchResultOpen) (Bassani, 1886)
-> Anisian to Ladinian, 247.2, 237.0
-
-> - Besano Formation, Grenzbitumenzone; Monte San Giorgio, Switzerland.
-> - [Maisey, 2011](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2011.01035.x).
-
-[*Akmonistion zangerli*](https://deepbone.org/public/#/explor?s_id=4892&functionId=Deepbone_header_searchResultOpen) Coates and Sequeira, 2001
-> Serpukhovian, 330.9, 323.2
-
-> - Manse Burn Formation; Bearsden, Scotland.
-> - [Coates and Sequeira, 1998](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/braincase-of-a-primitive-shark/E11D5DAAAFE25E9196D17BC1C4CCBD9C); [Coates and Sequeira, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021[0438:ANSCFT]2.0.CO;2); [Coates et al., 1998](https://www.nature.com/articles/25467); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
-
-[*Andreolepis hedei*](https://deepbone.org/public/#/explor?s_id=2062&functionId=Deepbone_header_searchResultOpen) Gross, 1968
-> Ludlow and Pridoli, 427.4, 419.2
-
-> - Gotland, Sweden; Tabuska River, Central Urals; northern Timan; Novaya Zemlya Archipelago; Severnaya Zemlya Archipelago, Russia.
-> - [Gross, 1968](https://doi.org/10.1111/j.1502-3931.1968.tb01736.x); [Fredholm, 1988](https://www.tandfonline.com/doi/pdf/10.1080/11035898809452655); [Märss, 2001](https://www.kirj.ee/public/va_ge/g50-3-3.pdf); [Botella *et al*., 2007](https://www.nature.com/articles/nature05989); [Chen *et al*., 2016a](https://www.nature.com/articles/nature19812)
-
-[*Anglaspis macculloughi*](https://deepbone.org/public/#/explor?s_id=72700&functionId=Deepbone_header_searchResultOpen) (Woodward 1891) 
-> Pridoli to Lochkovian, 423.0, 410.8
-
-> - Welsh Borders, UK, and the Artois-Ardenne regions of France and Belgium.
-> - [Randle and Sansom, 2016](https://www.tandfonline.com/doi/full/10.1080/14772019.2016.1208293).
-
-[*Arabosteus variabilis*](https://deepbone.org/public/#/explor?s_id=73906&functionId=Deepbone_header_searchResultOpen) Olive et al., 2011
-> Pragian to lower Emsian, 410.8, 400.45
-
-> - Qasr Limestone Member, Jauf Formation; Al Huj section, Al Qalibah area, Saudi Arabia.
-> - [Olive et al., 2011](https://bioone.org/journals/Geodiversitas/volume-33/issue-3/g2011n3a1/A-new-Placoderm-fish-Acanthothoraci-from-the-Early-Devonian-Jauf/10.5252/g2011n3a1.short); [Olive et al., 2014](https://link.springer.com/article/10.1134/S003103011409010X).
-
-> - Emsian is subdivided into lower and upper Emsian.
-
-[*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
-> upper Givetian, 384.4, 382.7
-
-> - Gauja Formation; Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
-> - Nilsson, 1941; Upeniece and Upenieks, 1992; Hemmings, 1978; [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
-
-[*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair 1900
-> upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
-
-> - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
-> - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
-
-[*Austroptyctodus gardineri*](https://deepbone.org/public/#/explor?s_id=4246&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
-> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
-
-[*Bannhuanaspis vukhuci*](https://deepbone.org/public/#/explor?s_id=8388&functionId=Deepbone_header_searchResultOpen) Janvier *et al*., 1993
-> Pragian, 410.8, 407.6
-
-> - Si Ka Formation; Bac Thai Province, northern Vietnam
-> - [Janvier *et al*., 1993](https://www.academia.edu/download/34975424/1993a-A_new_Early_Devonian_Galeaspid_from_Bac_Thai_Province.pdf).
-> - The age of the Si Ka Formation is revised as the Pragian (Gai *et al*., 2022).
-
-[*Benneviaspis holtedahli*](https://deepbone.org/public/#/explor?s_id=72544&functionId=Deepbone_header_searchResultOpen) Stensiö, 1927
-> Lochkovian, 419.2, 410.8
-
-> - Ben Nevis Formation, Red Bay Group; Spitsbergen.
-> - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955); Ørvig, 1957.
-
-[*Boreaspis macrorhynchus*](https://deepbone.org/public/#/explor?s_id=72552&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
-> Pragian, 410.8, 407.6
-
-> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
-> - [Wangsjo, 1952](https://brage.npolar.no/npolar-xmlui/bitstream/handle/11250/173537/Skrifter097A.pdf?sequence=1); [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955)
-
-[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 400.45, 358.9
-
-> - wide distribution.
-> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
-
-[*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
-> Lochkovian, 419.2, 410.8
-
-> - Lower Old Red Sandstone, Farnell and Tealing, Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Newman and Davidson, 2010](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Early+Devonian+fish+from+the+Midland+Valley+of+Scotland&btnG=)
-> - Newman and Davidson (2010): "*Brachyacanthus scutiger* is one of the smallest acanthodian species in the Midland Valley. It was first found at Farnell such as the specimen in Figure 15A (NMS
-G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B (NMS G.1891.92.214)."
-
-[*Brindabellaspis stensioi*](https://deepbone.org/public/#/explor?s_id=3060&functionId=Deepbone_header_searchResultOpen) Young, 1980
-> Emsian, 407.6, 393.3
-
-> - New South Wales, Australia
-> - [Young, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020321285); [King *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsos.180094); [Zhu Y. et al., 2021](https://www.cell.com/current-biology/pdf/S0960-9822(20)31898-4.pdf)
-
-[*Brochoadmones milesi*](https://deepbone.org/public/#/explor?s_id=2071&functionId=Deepbone_header_searchResultOpen) Bernascek and Dineley, 1977
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - [Hanke and Wilson, 2006](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2006)26[526:AOTEDA]2.0.CO;2)
-
-[*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
-> Emsian, 407.6, 393.3
-
-> - Buchan, Victoria and New South Wales
-> - [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Long et al., 2014](https://www.publish.csiro.au/zo/zo13081)
-
-[*Campbellodus decipiens*](https://deepbone.org/public/#/explor?s_id=2179&functionId=Deepbone_header_searchResultOpen) Miles and Young, 1977
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
-> - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
-
-[*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier and Wilson, 1996.
-
-[*Cephalaspis lyelli*](https://deepbone.org/public/#/explor?s_id=72556&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
-> Lochkovian, 419.2, 410.8
-
-> - Glammis, Forfarshire and Lower Old Red Sandstone, Glamis, Angus, Scotland
-> - Stensiö, 1932; White, 1958
+## Outgrop taxa
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
@@ -163,362 +25,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Escuminac Formation; Quebec, Canada.
 > - Arratia and Cloutier, 1996; [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
 
-[*Cheiracanthus* spp.](https://deepbone.org/public/#/explor?s_id=3735&functionId=Deepbone_header_searchResultOpen) 
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - Burrow et al., 2020
-> - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
-
-[Chimaeroidei](https://deepbone.org/public/#/explor?s_id=2789&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian to present, 330.9, 0
-
-> - wide distribution.
-> - Didier, 1995
-
-[*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen) (Traquair, 1888)
-> Visean, 346.7, 330.9
-
-> - Glencartholm fish beds (Holkerian), Scotland.
-> - [Moy-Thomas, 1935](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1935.tb06256.x); [Finarelli and Coates, 2011](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2011.1107); [Finarelli and Coates, 2014](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/chondrenchelys-problematica-traquair-1888-redescribed-a-lower-carboniferous-eellike-holocephalan-from-scotland/88BFED87BFB557EAA7A7EEE40E38FC87).
-
-[*Chuchinolepis dongmoensis*](https://deepbone.org/public/#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
-> lower Pragian, 410.8, 409.2
-
-> - Bac Bun Formation.; Lang Son , Bac Thai, Vietnam
-> - Tông-Dzuy and Janvier, 1990
-
-> - Pragian is subdivided into lower and upper Pragian.
-
-[*Cladodoides wildungensis*](https://deepbone.org/public/#/explor?s_id=4448&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921
-> upper Frasnian, 375.7, 372.2
-
-> - Wildungen Limestone, Wildungen, Germany
-> - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
-> - [Otto Jaekel](https://en.wikipedia.org/wiki/Otto_Jaekel) accepted a professor position at Sun Yat-sen University in Guangzhou in 1928. He died after a short and unexpected illness on March 6, 1929 in the German Hospital in Beijing.
-
-[*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen) Newberry, 1889
-> upper Famennian, 363.3, 358.9
-
-> - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
-> - Bendix-Almgreen, 1975; [Maisey, 2007](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2007/issue-307/0003-0090_2007_307_1_TBIPSA_2.0.CO_2/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-CLADOSELACHIAN-SHARKS/10.1206/0003-0090(2007)307[1:TBIPSA]2.0.CO;2.full); Schaeffer, 1981
-> - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
-
-[*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
-> Lochkovian, 419.2, 410.8
-
-> - Lower Old Red Sandstone; Balruddery Den, Forfarshire, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
-
-[*Cobelodus aculeatus*](https://deepbone.org/public/#/explor?s_id=168237&functionId=Deepbone_header_searchResultOpen) (Cope, 1894)
-> Sakmarian, 293.52, 290.1
-
-> - USA.
-> - Zergerl, 1973; Zergerl, 1976; Ivanov, 2005
-
-[*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Miles and Westoll, 1968](https://doi.org/10.1017/S0080456800024078).
-
-[*Compagopiscis croucheri*](https://deepbone.org/public/#/explor?s_id=2199&functionId=Deepbone_header_searchResultOpen) Gardiner and Miles, 1994
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - [Gardiner and Miles, 1994](https://academic.oup.com/zoolinnean/article/112/4/443/2646294)
-
-[*Cowralepis mclachlani*](https://deepbone.org/public/#/explor?s_id=2470&functionId=Deepbone_header_searchResultOpen) Ritchie, 2005
-> upper Givetian, 384.4, 382.7
-
-> - Merriganowry Shale Mb; near Cowra, New South Wales, Australia (locality 6 in Young, 1999). 
-> - [Ritchie, 2005](https://search.informit.org/doi/epdf/10.3316/informit.866171708656189); [Carr *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10719)
-
-[*Culmacanthus stewarti*](https://deepbone.org/public/#/explor?s_id=163468&functionId=Deepbone_header_searchResultOpen) Long, 1983
-> uppermost Givetian, 384.37, 382.7
-
-> - Avon River Group; Mount Howitt, Victoria, Australia.
-> - Long, 1983
-
-[*Damocles serratus*](https://deepbone.org/public/#/explor?s_id=5017&functionId=Deepbone_header_searchResultOpen) Lund, 1986
-> Serpukhovian, 330.9, 323.2
-
-> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - Lund, 1986; Lund and Grogan, 1997
-
-[*Dartmuthia gemmifera*](https://deepbone.org/public/#/explor?s_id=72560&functionId=Deepbone_header_searchResultOpen) Patten, 1931
-> Gorstian to Pridoli, 427.4, 419.2
-
-> - Paadla formation, Saaremaa, Estonia
-> - Gross, 1968; Märss et al., 2015; Afanassieva, 1995; Bremer et al., 2021
-
-[*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen) Grogan and Lund, 2000
-> Bashkirian, 323.2, 315.2
-
-> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - Grogan and Lund, 2000
-
-[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
-> upper Lochkovian, 415.0, 410.8
-
-> - Xitun Formation, Qujing, Yunnan, China
-> - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
-
-[*Diandongpetalichthys liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=3251&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> lower Lochkovian, 419.2, 415.0
-
-> - Xishancun Formation, Qujing, Yunnan, China
-> - [Zhu, 1991]
-
-[*Dialipina salgueiroensis*](https://deepbone.org/public/#/explor?s_id=1971&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
-> Emsian, 407.6, 393.3
-
-> - Anderson River, about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories, Canada.
-> - Schultze, 1968; [Schultze and Cumbaa, 2001](https://www.taylorfrancis.com/chapters/edit/10.1201/b12434-21/dialipina-characters-basal-actinopterygians-hans-peter-schultze-stephen-cumbaa)
-
-[*Dicksonosteus arcticus*](https://deepbone.org/public/#/explor?s_id=2423&functionId=Deepbone_header_searchResultOpen) Goujet, 1975
-> Pragian, 410.8, 407.6
-
-> - Austfjorden Member, Wood Bay Formation; Spitsbergen.
-> - Goujet, 1975; Goujet, 1984
-
-[*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Newman, 2010](https://www.academia.edu/4717315/Middle_Devonian_fish_from_the_Orcadian_Basin_of_Scotland_IPC3_pre_conference_field_trip_guide); [Burrow *et al*., 2016](https://www.researchgate.net/publication/299452946_The_diplacanthid_fishes_Acanthodii_Diplacanthiformes_Diplacanthidae_from_the_Middle_Devonian_of_Scotlan)
-
-> - Used to be [*Diplacanthus striatus*](https://deepbone.org/public/#/explor?s_id=4074&functionId=Deepbone_header_searchResultOpen).
-> - Synonyms: *Diplacanthus striatus* Agassiz, 1844, *Diplacanthus striatulus* Agassiz, 1844, *Diplacanthus crassispinus* Agassiz, 1844, *Diplacanthus gibbus* M’Coy, 1848
-> - The three species of *Diplacanthus* are distinguished from the other acanthodians by the presence of two dorsal fin spines and a heavily ossified shoulder girdle. The other two species are *Diplacanthus longispinus* Agassiz, 1845 and *Diplacanthus tenuistriatus* Traquair, 1894.
-
-[*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=2899&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Famennian, 387.8, 358.9
-
-> - Frasnian of Germany. 
-> - Forey, 1998
-> - Type species, *D. kayseri* (v. Koenen 1895) from the Frasnian of Germany. *D. heiligenstockiensis* (Jessen, 1966) from the Frasnian of Bergish-Gladbach, Germany. *D. jaekeli* Stensio 1922 from the Frasnian of Ense, Wildungen, Germany.
-> - **other ages to be checked**
-
-[*Diplodoselache woodi*](https://deepbone.org/public/#/explor?s_id=2815&functionId=Deepbone_header_searchResultOpen) Dick, 1981
-> Visean, 346.7, 330.9
-
-> - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Oil Shale Group (Dunnet Shales); Midland Valley, Scotland.
-> - [Dick, 1981](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/diplodoselache-woodi-gen-et-sp-nov-an-early-carboniferous-shark-from-the-midland-valley-of-scotland/92D4573C48B4D626AD8BD89BA14196B3).
-
-[*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=2900&functionId=Deepbone_header_searchResultOpen)
-> Eifelian to Givetian, 393.3, 382.7
-
-> - [horizon and locality]
-> - White, 1965; Ahlberg and Trewin, 1995
-
-[*Dobunnacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=3641&functionId=Deepbone_header_searchResultOpen) (Miles, 1973)
-> Lochkovian, 419.2, 410.8
-
-> - Wayne Herbert Quarry, Herefordshire, UK.
-> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Dearden *et al*., 2021](https://onlinelibrary.wiley.com/doi/10.1002/spp2.1369)
-
-> - Dearden *et al*. (2021) assigned [*Vernicomacanthus waynensis*](https://deepbone.org/public/#/explor?s_id=163473&functionId=Deepbone_header_searchResultOpen) to a new acanthodian genus *Dobunnacanthus*. The type species of *Vernicomacanthus*, *V. uncinatus*, should be coded independently.
-
-[*Doliodus latispinosus*](https://deepbone.org/public/#/explor?s_id=2102&functionId=Deepbone_header_searchResultOpen) (Whiteaves, 1881)
-> lower Emsian, 407.6, 400.45
-
-> - Atholville beds, Campbellton Formation, New Brunswick, Canada; upper York River Formation, Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada.
-> - [Burrow and Desbiens, 2023](https://revistas.uv.es/index.php/sjpalaeontology/article/view/26372); [Maisey *et al*., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00330.x); [Miller *et al*., 2003](https://www.nature.com/articles/nature02001)
-
-> - Used to be [*Doliodus problematicus*](https://deepbone.org/public/#/explor?s_id=168308&functionId=Deepbone_header_searchResultOpen).
-
-[*Dwykaselachus oosthuizeni*](https://deepbone.org/public/#/explor?s_id=72908&functionId=Deepbone_header_searchResultOpen) Oelofsen 1986
-> Kungurian, 283.5, 273.0
-
-> - base of the Prince Albert Formation, Ecca Gr, Karoo Supergroup; Cape Fold Belt mountains, South Africa.
-> - [Coates et al., 2017](https://www.nature.com/articles/nature20806)
-> - Early Permian dating estimates vary from the early Artinskian to the latest Kungurian stage.
-> - **No specimen data in deepbone.**
-
-[*Eastmanosteus calliaspis*](https://deepbone.org/public/#/explor?s_id=2447&functionId=Deepbone_header_searchResultOpen) Dennis-Bryan, 1987
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - The type species of *Eastmanosteus* Obruchev 1964 is *E. pustulosus* (Eastman) 1897. 
-> - [Dennis-Bryan, 1987](https://academic.oup.com/zoolinnean/article-abstract/90/1/1/2658205)
-
-[*Egertonodus basanus*](https://deepbone.org/public/#/explor?s_id=14827&functionId=Deepbone_header_searchResultOpen) (Egerton, 1845)
-> Aptian, 121.4, 113.0
-
-> - Atherfield Clay of the Isle of Wight and near Bexhill on the Sussex coast in southern England.
-> - Maisey, 1983; Maisey 1987; Teng et al., 2019
-
-[*Ellopetalichthys scheii*](https://deepbone.org/public/#/explor?s_id=2382&functionId=Deepbone_header_searchResultOpen) (Kiaer, 1915)
-> upper Givetian, 384.4, 382.7
-
-> - Bird Fiord Formation, southwestern Ellesmereland, Arctic Canada.
-> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Castiello, 2021](https://pubs.geoscienceworld.org/cjes/article-abstract/58/1/93/594043/Endocranial-morphology-of-the-petalichthyid)
-
-[*Entelognathus primordialis*](https://deepbone.org/public/#/explor?s_id=1382&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2013
-> Ludfordian, 425.6, 423.0
-
-> - Kuanti Formation; Qujing, Yunnan, China.
-> - Zhu et al., 2013
-
-[*Epipetalichthys wildungensis*](https://deepbone.org/public/#/explor?s_id=2384&functionId=Deepbone_header_searchResultOpen) Stensiö, 1925
-> upper Frasnian, 375.7, 372.2
-
-> -  Kellwasserkalk of *Manticoceras* beds, Schmidt Quarry near Bad Wildungen, Hessen, Germany. 51.0867, 9.1317
-> - [Ørvig, 1957](https://foreninger.uio.no/ngf/ngt/pdfs/NGT_37_3&4_285-354.pdf); [Sallan and Coates, 2010](https://www.pnas.org/doi/abs/10.1073/pnas.0914000107)
-
-[*Escuminaspis laticeps*](https://deepbone.org/public/#/explor?s_id=72575&functionId=Deepbone_header_searchResultOpen) Traquair, 1880
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Janvier et al., 2004
-
-[*Eugaleaspis changi*](https://deepbone.org/public/#/explor?s_id=373&functionId=Deepbone_header_searchResultOpen) (Liu, 1965)
-> lower Lochkovian, 419.2, 415.0
-
-> - Xishancun Formation; Qujing, YUnnan, China.
-> - Liu, 1965; 1975; 1980; Zhu and Gai, 2007
-
-[*Eurycaraspis incilis*](https://deepbone.org/public/#/explor?s_id=3257&functionId=Deepbone_header_searchResultOpen) Liu, 1991
-> Givetian, 387.7, 382.7
-
-> - Xichong Formation; Qujing, Yunnan, China.
-> - Liu, 1991
-
-[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Jarvik, 1980a; b
-
-[*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen) Powrie, 1864
-> Lochkovian, 419.2, 410.8
-
-> - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman et al., 2014.
-
-[*Falcatus falcatus*](https://deepbone.org/public/#/explor?s_id=4953&functionId=Deepbone_header_searchResultOpen)  (St. John and Worthen)
-> Serpukhovian, 330.9, 323.2
-
-> - Bear Gulch Limestone, Heath Formation, Big Snowy Group, Montana, USA.
-> - Lund, 1985
-
-[*Gavinia syntrips*](https://deepbone.org/public/#/explor?s_id=4164&functionId=Deepbone_header_searchResultOpen) Long, 1999
-> uppermost Givetian, 384.37, 382.7
-
-> - Avon River Group; Mount Howitt, Victoria, Australia.
-> - Long, 1999
-
-[*Gavinaspis convergens*](https://deepbone.org/public/#/explor?s_id=2473&functionId=Deepbone_header_searchResultOpen) Dupret et al., 2009
-> upper Lochkovian, 415.0, 410.8
-
-> - Xitun Formation; Qujing, Yunnan, China.
-> - [Dupret et al., 2009](https://pubs.geoscienceworld.org/geolmag/article-abstract/145/2/257/65693/The-earliest-phyllolepid-Placodermi-Arthrodira?redirectedFrom=fulltext)
-
-[*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
-> upper Pragian to lower Emsian, 409.2, 400.45
-
-> - Hunsrückschiefer; Rheinland, Germany.
-> - Gross, 1963
-
-[*Gladbachus adentatus*](https://deepbone.org/public/#/explor?s_id=4229&functionId=Deepbone_header_searchResultOpen) Heidtke and Krätschmer, 2001
-> Givetian, 387.7, 382.7
-
-> - Rheinisches Schiefergebirge, Germany.
-> - Coates et al., 2018
-
-[*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) Bernacsek and Dineley, 1977
-> Lochkovian, 419.2, 410.8
-
-> - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke and Davis, 2008
-
-[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
-> upper Eifelian to lower Givetian, 389.6, 386.0
-
-> - Canning Land, East Greenland.
-> - Jarvik, 1972; Ahlberg, 1989;
-
-[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
-
-[*Groenlandaspis antarcticus*](https://deepbone.org/public/#/explor?s_id=154139&functionId=Deepbone_header_searchResultOpen) Ritchie, 1975
-> Givetian, 387.7, 382.7
-
-> - Taylor Group; Mount Ritchie, Australia and Mount Mestchel, Antarctica
-> - [Ritchie, 1975](https://www.nature.com/articles/254569a0); [Young, 1989](https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1989.047.01.05)
-
-[*Guangxipetalichthys tiaomajianensis*](https://deepbone.org/public/#/explor?s_id=3262&functionId=Deepbone_header_searchResultOpen) Ji and Pan, 1997
-> lower to middle Givetian, 387.7, 384.4
-
-> - Tiaomajian Formation.; Bobai, Guangxi, China
-> - [Ji and Pan, 1997](https://www.vertpala.ac.cn/EN/Y1997/V35/I01/18)
-
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2009
-> Ludfordian, 425.6, 423.0
-
-> - Kuanti Formation; Qujing, Yunnan, China.
-> - [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Zhu et al., 2009](https://www.nature.com/articles/nature07855); [Cui et al., 2019](https://www.nature.com/articles/s41598-019-40845-7)
-
-[*Gyracanthides* spp.](https://deepbone.org/public/#/explor?s_id=2800&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - wide distribution.
-> - Warren et al., 2000
-
-[*Halimacanthodes ahlbergi*](https://deepbone.org/public/#/explor?s_id=5108&functionId=Deepbone_header_searchResultOpen) Burrow et al., 2012
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Burrow et al., 2012
-
-[*Hamiltonichthys mapesi*](https://deepbone.org/public/#/explor?s_id=15546&functionId=Deepbone_header_searchResultOpen) Maisey, 1989
-> Gzhelian, 303.7, 298.9
-
-> - Middle Virgilian, Upper Shawnee Group or Wabaunsee Group, Hartford Limestone, Hamilton Quarry, Sec. 8, T24S, RI 2E, Greenwood County, Kansas, USA.
-> - [Maisey, 1989](https://digitallibrary.amnh.org/items/32cc5279-0c3b-4ce0-87c3-45216f3bcd40).
-
-[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
-> lower to middle Telychian, 438.5, 433.4 
-
-> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
-> - Pan and Liu, 1975; Shan et al., 2023   
-
-[*Helodus simplex*](https://deepbone.org/public/#/explor?s_id=15021&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1838)
-> Moscovian, 315.2, 307.0
-
-> - Staffordshire, England and Lanarkshire, Scotland
-> - [Moy-Thomas, 1936](https://www.cambridge.org/core/journals/geological-magazine/article/abs/on-the-structure-and-affinities-of-the-carboniferous-cochliodont-helodus-simplex/27FD58E632E3D0EA03CF68CB10E53903).
-
-[*Hemicyclaspis murchisoni*](https://deepbone.org/public/#/explor?s_id=72577&functionId=Deepbone_header_searchResultOpen) (Egerton, 1857)
-> Pridoli, 423.0, 419.2
-
-> - Downton Castle Sandstone Formation?, Lower Old Red Sandstone, Downtonian (=Pridoli), Anglo-Welsh Basin, UK.
-> - Stensiö, 1932
-> - Dittonian (roughly = Lochkovian, Gedinnian).
-
-[*Holonema westolli*](https://deepbone.org/public/#/explor?s_id=2425&functionId=Deepbone_header_searchResultOpen) Miles, 1971
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation, Gogo, Canning Basin; Gneudna Formation, Carnarvon Basin，Western Australia. -17.75, 125.17
-> - [Miles, 1971](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1971.0111)； [Trinajstic, 1999](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1999n1a4.pdf).
-> - Trinajstic (1999) reported the isolated scales from the late Givetian to early Frasnian Gneudna Formation.
-
-[*Homalacanthus concinnus*](https://deepbone.org/public/#/explor?s_id=3736&functionId=Deepbone_header_searchResultOpen) (Whiteaves)
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Russell, 1951
-
-[*Homalodontus aplopagus*](https://deepbone.org/public/#/explor?s_id=5472&functionId=Deepbone_header_searchResultOpen)
-> Olenekian, 251.2, 247.2
-
-> - Vega-Phroso Siltstone Member, Sulphur Mountain Formation; Wapiti Lake, British Columbia, Canada.
-> - [Mutter et al., 2007](https://doi.org/10.1111/j.1096-3642.2007.00244.x); [Mutter et al., 2008](https://doi.org/10.1111/j.1096-3642.2008.00488.x).
-
 [*Howqualepis rostridens*](https://deepbone.org/public/#/explor?s_id=3036&functionId=Deepbone_header_searchResultOpen) Long, 1988
 > uppermost Givetian, 384.37, 382.7
 
@@ -526,100 +32,17 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Long, 1988](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6632197).
 > - Used to be of early Frasnian, Late Devonian age (Young, 1983, 1993). For the updated age for the Mt. Howitt fish fauna, see Long (1999). The age data in the deepbone should be revised accordingly.
 
-
-[*Incisoscutum ritchiei*](https://deepbone.org/public/#/explor?s_id=2232&functionId=Deepbone_header_searchResultOpen) Dennis and Miles, 1981
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - [Dennis and Miles, 1981](https://academic.oup.com/zoolinnean/article-abstract/73/3/213/2658833); [Giles et al., 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.20119)
-
-[*Iniopera richardsoni*](https://deepbone.org/public/#/explor?s_id=15171&functionId=Deepbone_header_searchResultOpen) Zangerl and Case, 1973
-> Moscovian to Kasimovian, 315.2, 303.7
-
-> - Logan Quarry shale, Lower Wiley cyclothem (Staunton formation), Reserve Township, Parke County, Indiana, USA.
-> - Zangerl and Case, 1973
-
-[*Ischnacanthus gracilis*](https://deepbone.org/public/#/explor?s_id=3103&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861) 
-> Lochkovian, 419.2, 410.8
-
-> - Lower part of the Arbuthnott Group, Midland Valley (the Strathmore region), Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2018](https://bibliotekanauki.pl/articles/139010.pdf).
-> - Burrow et al., 2018: "The Lochkovian Man on the Hill (MOTH) locality in the Northwest Territories, Canada, is also known to have several ischnacanthiform taxa, originally all assigned by Bernacsek and Dineley (1977) to *Ischnacanthus gracilis*, but now all referred to other genera (Blais et al. 2015), or as yet undetermined." **The MOTH point in the deepbone should be updated.***
-
-[*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
-> upper Frasnian, 375.7, 372.2
-
-> - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
-> - Stensiö, 1969; Young, 1986
-> - **data of one specimen in Deepbone incorrect. not in Gogo.** 
-
-[*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
-> middle Lochkovian, 416.4, 413.6
-
-> - Lower member, Kureika Formation, Sida River, Kotui Basin, Siberia, Russia
-> - [Giles et al., 2015c](https://www.nature.com/articles/nature14065)
-
-> - Here Lochkovian is subdivided into lower, middle and upper Lochkovian. In the rest, it is subdivided into lower and upper Lochkovian.
-
 [*Kansasiella eatoni*](https://deepbone.org/public/#/explor?s_id=3023&functionId=Deepbone_header_searchResultOpen) (Poplin, 1975)
 > upper Pennsylvanian, 307.0, 298.9
 
 > - Kansas, USA.
 > - Poplin, 1974; 1975
 
-[*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
-
-[*Kawichthys moodiei*](https://deepbone.org/public/#/explor?s_id=15555&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2011
-> Gzhelian, 303.7, 298.9
-
-> - Douglas Group; Kansas, UsA.
-> - [Pradel et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024938).
-
-[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
-> upper Emsian, 400.45, 393.3
-
-> - Chuandong Formation; Qujing, Yunnan, China.
-> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
-
 [*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) (Eastman, 1908)
 > upper Tournaisian or lower Visean, 350.8, 341.4
 
 > - New Providence Shale Member, Stockdale Formation; Kentucky, USA.
 > - Rayner, 1951; [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A). 
-
-[*Kimaspis tienshanica*](https://deepbone.org/public/#/explor?s_id=2097&functionId=Deepbone_header_searchResultOpen) Mark-Kurik, 1973
-> Lochkovian, 419.2, 410.8
-
-> - Dzhalpak Formation, South Tien Shan, North Nuratau Ridge, Uzbekistan.
-> - Mark-Kurik, 1973
-
-[*Kolymaspis sibirica*](https://deepbone.org/public/#/explor?s_id=2099&functionId=Deepbone_header_searchResultOpen) Bystrow, 1956
-> Lochkovian, 419.2, 410.8
-
-> - river Taskan, Kolyma basin, north-east Siberia.
-> - Bystrow, 1956
-
-[*Kosoraspis peckai*](https://deepbone.org/public/#/explor?s_id=2117&functionId=Deepbone_header_searchResultOpen)  Gross, 1959
-> upper Lochkovian, 415.0, 410.8
-
-> - Radotín Limestone; Prague Basin, Czech Republic.
-> - Denison, 1978; Gross, 1959
-
-[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
-> upper Lochkovian to lower Pragian, 415.0, 409.2
-
-> - Dnister Series; Podolia, Ukraine
-> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
-
-[*Latviacanthus ventspilsensis*](https://deepbone.org/public/#/explor?s_id=5100&functionId=Deepbone_header_searchResultOpen) Schultze and Zidek, 1982
-> Pragian, 410.8, 407.6
-
-> - a drilling core at Ventspils, Latvia.
-> - Schultze and Zidek, 1982
 
 [*Lawrenciella schaefferi*](https://deepbone.org/public/#/explor?s_id=3024&functionId=Deepbone_header_searchResultOpen) Poplin, 1984
 > upper Pennsylvanian, 307.0, 298.9
@@ -633,69 +56,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Taemas, New South Wales, Australia
 > - [Basden and Young, 2001](https://www.jstor.org/stable/20062015); [Basden et al., 2000](https://www.nature.com/articles/35003183); [Burrow, 1994](https://www.researchgate.net/publication/283738609_Form_and_function_in_scales_of_Ligulalepis_toombsi_Schultze_a_palaeoniscoid_from_the_Early_Devonian_of_Australia); [Schultze, 1968](https://www.researchgate.net/publication/259483525_Palaeoniscoidea-Schuppen_aus_dem_Unterdevon_Australiens_und_Kanadas_und_aus_dem_Mitteldevon_Spitzbergens)
 
-[*Lophosteus superbus*](https://deepbone.org/public/#/explor?s_id=2066&functionId=Deepbone_header_searchResultOpen) Pander, 1856
-> upper Pridoli, 421.1, 419.2
-
-> -  Ohesaare cliff, Saaremaa (German: Ösel), Estonia.
-> - [Gross, 1969](https://www.idunn.no/doi/pdf/10.1111/j.1502-3931.1969.tb01249.x); [Gross, 1971](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1971.tb01285.x); Burrow and Simpson, 1995; Pickett *et al*., 2000; [Schultze and Märss, 2004](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f99adfb847826be1f10d0bb85f87a59e6a8ab98a#page=57); [Botella *et al*., 2007](https://www.nature.com/articles/nature05989); [Jerve *et al*., 2016](https://peerj.com/articles/2521/); [Chen *et al*., 2017](https://royalsocietypublishing.org/doi/full/10.1098/rsos.161084); [Chen *et al*., 2020](https://elifesciences.org/articles/60985)
-> -  Type locality: *Ozarkodina remscheidensis remscheidensis* Conodont Subzone (Viira and Männik 1997), Ohesaare Regional Stage, upper Pridoli, Upper Silurian.
-> -  Schultze and Märss, 2004: Included species: *Lophosteus superbus* Pander, 1856; *Lophosteus* cf. *superbus* Burrow and Turner, 2000; *Lophosteus canadensis* Schultze and Märss, 2004; *Lophosteus connexus* Märss, 1986; *Lophosteus incrementus* Burrow, 1995; *Lophosteus ohesaarensis* Schultze and Märss, 2004; *Lophosteus uralensis* Schultze and Märss, 2004; *Lophosteus* sp. indet. Turner, 2000. Ludlow-Pridoli, Late Silurian to Lochkovian, Early Devonian.
-
-[*Lunaspis broili*](https://deepbone.org/public/#/explor?s_id=2134&functionId=Deepbone_header_searchResultOpen) Broili, 1929
-> upper Pragian to lower Emsian, 409.2, 400.45
-
-> - Hunsrückschiefer Rheinische Schidcrgcbirge, Germany
-> - Gross, 1961
-
-[*Lupopsyrus pygmaeus*](https://deepbone.org/public/#/explor?s_id=2060&functionId=Deepbone_header_searchResultOpen) Bernacsek & Dineley, 1977
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
-> - Hanke and Wilson, 2006; Hanke and Davis, 2012
-
-[*Macropetalichthys rapheidolabis*](https://deepbone.org/public/#/explor?s_id=2387&functionId=Deepbone_header_searchResultOpen) Norwood and Owen, 1846
-> Eifelian, 393.3, 387.7
-
-> - Onondaga limestone, Genesee County, New York, U. S. A; Columbus and Delaware limestone, Ohio, U. S. A; Jeffersonville formation, Indiana, U. S. A; Ontaria, Canada.
-> - Stensiö, 1925; 1963; 1969
-
-[*Materpiscis attenboroughi*](https://deepbone.org/public/#/explor?s_id=2203&functionId=Deepbone_header_searchResultOpen) Long, et al., 2008
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Canning Basin, Australia. -17.75, 125.17
-> - [Long et al., 2008](https://www.nature.com/articles/nature06966); [Trinajstic et al., 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.661379)
-
 [*Meemannia eos*](https://deepbone.org/public/#/explor?s_id=2872&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2006
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - [Zhu et al., 2006](https://www.nature.com/articles/nature04563); [2010](https://www.researchgate.net/profile/Min-Zhu-36/publication/225038586_Meemannia_eos_a_basal_sarcopterygian_fish_from_the_Lower_Devonian_of_China_-expanded_description_and_significance/links/02e7e51a2e85ae0402000000/Meemannia-eos-a-basal-sarcopterygian-fish-from-the-Lower-Devonian-of-China-expanded-description-and-significance.pdf); [Lu et al., 2016](https://www.cell.com/current-biology/pdf/S0960-9822(16)30398-0.pdf)
-
-[*Megamastax amblyodus*](https://deepbone.org/public/#/explor?s_id=61368&functionId=Deepbone_header_searchResultOpen) Choo et al., 2014
-> Ludfordian, 425.6, 423.0
-
-> - Kuanti Formation; Qujing, Yunnan, China.
-> - [Choo et al., 2014](https://www.nature.com/articles/srep05242); this study.
-
-[*Mesacanthus mitchelli*](https://deepbone.org/public/#/explor?s_id=3738&functionId=Deepbone_header_searchResultOpen) (Egerton, 1861)
-> Lochkovian, 419.2, 410.8
-
-> - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009);[Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf).
-
-[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
-> middle Givetian, 386.0, 384.4
-
-> - Middle Old Red Sandstone of Caithness (John O'Groats Sandstone), Orkney (Eday Flags) and Shetland (Brindister Flags), Scotland.
-> - Hemmings, 1978; Long et al., 2015
-
-[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen) Schultze, 1973
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Cloutier, 1996; Forey, 1998
-
-> - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Formation is middle Frasian.
 
 [*Mimipiscis toombsi*](https://deepbone.org/public/#/explor?s_id=3040&functionId=Deepbone_header_searchResultOpen) (Gardiner and Bartram, 1977)
 > lower Frasnian, 382.7, 379.2
@@ -705,18 +70,6 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - [Gardiner, 1984](https://www.biodiversitylibrary.org/part/83365); [Gardiner and Bartram, 1977](https://cir.nii.ac.jp/crid/1573950399498017280); [Giles and Friedman, 2014](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/virtual-reconstruction-of-endocast-anatomy-in-early-rayfinned-fishes-osteichthyes-actinopterygii/0C7074E6C0E4798499799A5E59D63D4A)
 
 > Used to be *Mimia toombsi* (Gardiner and Bartram, 1977). Renamed by (Choo, 2012) due to the preoccupation of the former genus by the butterfly *Mimia* Evans, 1953.
-
-[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
-> lower Lochkovian, 419.2, 415.0
-
-> - Xishancun Formation; Qujing, Yunnan, China.
-> - Zhu and Janvier, 1996
-
-[*Minjinia turgenensis*](https://deepbone.org/public/#/explor?s_id=74213&functionId=Deepbone_header_searchResultOpen) Brazeau et al., 2020
-> Pragian, 410.8, 407.6
-
-> - Upper part of Tsagaan-Salaa Gol Formation; Turgen Strictly Protected Area, Uvs province, western Mongolia.
-> - [Brazeau et al., 2020](https://www.nature.com/articles/s41559-020-01290-2).
 
 [*Moythomasia durgaringa*](https://deepbone.org/public/#/explor?s_id=3041&functionId=Deepbone_header_searchResultOpen) Gardiner and Bartram, 1977
 > lower Frasnian, 382.7, 379.2
@@ -730,35 +83,77 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Merrimerriwa Formation.; Cobar, Wilcannia, Australia
 > - [Ritchie, 2004](https://www.idunn.no/doi/abs/10.18261/9781405169868-2004-05).
 
-[*Nectaspis areolate*](https://deepbone.org/public/#/explor?s_id=171921&functionId=Deepbone_header_searchResultOpen) Wangsjo, 1952
-> early Emsian, 407.6, 393.3
+[*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
+> lower Famennian, 372.2, 367.7
 
-> - Keltiefjellet Division (Lykta Fauna), Wood Bay Formation; Spitzbergen.
-> - Wangsjo, 1952; [Janvier, 1981](https://palaeovertebrata.com/Articles/view/89).
+> - Famenne Formation; Massive of Philippeville, Belgium.
+> - [Taverne, 1997](https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences-earth-sciences/67-1997/irscnb_p4087_00eebfp_67_bulletin-4-red.pdf).
 
-[*Nerepisacanthus denisoni*](https://deepbone.org/public/#/explor?s_id=2854&functionId=Deepbone_header_searchResultOpen) Burrow, 2011
-> upper Pridoli, 421.1, 419.2
+[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
+> Frasnian, 382.7, 372.2
 
-> - New Brunswick, Canada (Ludlow or Pridoli); Williamsville Member, Bertie Formation; near Stevenville, Ontario, Canada
-> - [Burrow and Rudkin, 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104171).
+> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry (now flooded), Pas-de-Calas, France.
+> - [Giles et al., 2015b](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1485)
 
-[*Norselaspis glacialis*](https://deepbone.org/public/#/explor?s_id=72599&functionId=Deepbone_header_searchResultOpen) Janvier, 1981
-> lower Pragian, 410.8, 409.2
+## Sarcopterygian taxa
 
-> - Sigurdfjellet Division, Wood Bay Formation; Spitzbergen.
-> - [Janvier, 1981](https://palaeovertebrata.com/Articles/view/89).
+[*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
+> upper Lochkovian, 415.0, 410.8
 
-[*Notopetalichthys hillsi*](https://deepbone.org/public/#/explor?s_id=2391&functionId=Deepbone_header_searchResultOpen) Woodward, 1941
-> Emsian, 407.6, 393.3
+> - Xitun Formation; Qujing, Yunnan, China.
+> - [Zhu *et al*., 2001](https://www.nature.com/articles/35065078); [Zhu and Yu,2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
 
-> - Murrumbidgee Group, near Wee Jasper on the shores of Lake Burrinjuck, New South Wales, Australia.
-> - Woodward, 1941; [Young, 2004](https://www.tandfonline.com/doi/abs/10.1671/1942-1).
+[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
+> upper Lochkovian, 415.0, 410.8
 
-[*Obtusacanthus corroconis*](https://deepbone.org/public/#/explor?s_id=167662&functionId=Deepbone_header_searchResultOpen) Hanke and Wilson, 2004
-> Lochkovian, 419.2, 410.8
+> - Xitun Formation, Qujing, Yunnan, China
+> - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
-> - Hanke and Wilson, 2006
+[*Diplocercides* spp.](https://deepbone.org/public/#/explor?s_id=2899&functionId=Deepbone_header_searchResultOpen)
+> Givetian to Famennian, 387.8, 358.9
+
+> - Frasnian of Germany. 
+> - Forey, 1998
+> - Type species, *D. kayseri* (v. Koenen 1895) from the Frasnian of Germany. *D. heiligenstockiensis* (Jessen, 1966) from the Frasnian of Bergish-Gladbach, Germany. *D. jaekeli* Stensio 1922 from the Frasnian of Ense, Wildungen, Germany.
+> - **other ages to be checked**
+
+[*Dipterus* spp.](https://deepbone.org/public/#/explor?s_id=2900&functionId=Deepbone_header_searchResultOpen)
+> Eifelian to Givetian, 393.3, 382.7
+
+> - [horizon and locality]
+> - White, 1965; Ahlberg and Trewin, 1995
+
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Quebec, Canada.
+> - Jarvik, 1980a; b
+
+[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
+> upper Eifelian to lower Givetian, 389.6, 386.0
+
+> - Canning Land, East Greenland.
+> - Jarvik, 1972; Ahlberg, 1989;
+
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
+> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
+
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
+> upper Emsian, 400.45, 393.3
+
+> - Chuandong Formation; Qujing, Yunnan, China.
+> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
+
+[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen) Schultze, 1973
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Quebec, Canada.
+> - Cloutier, 1996; Forey, 1998
+
+> - Frasnian is subdivided into early, middle and late Frasian. The age of the Escuminac Formation is middle Frasian.
 
 [*Onychodus jandemarrai*](https://deepbone.org/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen) Andrews et al., 2005
 > lower Frasnian, 382.7, 379.2
@@ -766,85 +161,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
 > - [Andrews et al., 2005](https://www.researchgate.net/publication/213769142_The_structure_of_the_sarcopterygian_Onychodus_jandemarrai_n_sp_from_Gogo_Western_Australia_with_a_functional_interpretation_of_the_skeleton)
 
-[*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
-> middle Visean, 341.4, 336.2
-
-> - Wardie Shales (Holkerian Substage), Glencartholm, Dumfries District (Dumfries and Galloway Region), Scotland.
-> - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Dick and Maisey, 1980](https://www.palass.org/sites/default/files/media/publications/palaeontology/volume_23/vol23_part2_pp363-374.pdf); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x).
-
-[*Osorioichthys marginis*](https://deepbone.org/public/#/explor?s_id=3045&functionId=Deepbone_header_searchResultOpen) Taverne, 1997
-> lower Famennian, 372.2, 367.7
-
-> - Famenne Formation; Massive of Philippeville, Belgium.
-> - [Taverne, 1997](https://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences-earth-sciences/67-1997/irscnb_p4087_00eebfp_67_bulletin-4-red.pdf).
-
 [*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 > - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
-
-[*Ozarcus mapesae*](https://deepbone.org/public/#/explor?s_id=3057&functionId=Deepbone_header_searchResultOpen) Pradel *et al*., 2014
-> Serpukhovian, 330.9, 323.2
-
-> - Lower Shale Member, Fayetteville Formation, Chesterian, Upper Mississippian; near Leslie, Searcy County, Arkansas, USA.
-> - [Pradel *et al*., 2014](https://www.nature.com/articles/nature13195).
-
-[*Palaeospondylus gunni*](https://deepbone.org/public/#/explor?s_id=4070&functionId=Deepbone_header_searchResultOpen) Traquair, 1890
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras Quarry, Scotland.
-> - [references]
-> - **The age in Deepbone is incorrect.**
-> - **This taxon is not in the character matrix.**
-
-[*Pampetalichthys longhuaensis*](https://deepbone.org/public/#/explor?s_id=3268&functionId=Deepbone_header_searchResultOpen) (Zhu and Wang, 1996)
-> lower Emsian, 407.6, 400.45
-
-> - Xujiachong Formation; Qujing, Yunnan, China.
-> - Zhu, 2000; Zhu and Wang, 1996
-
-[*Parabuchanosteus murrumbidgeensis*](https://deepbone.org/public/#/explor?s_id=2430&functionId=Deepbone_header_searchResultOpen)  (White, 1952)
-> Pragian to Emsian, 410.8, 393.3
-> - Murrumbidgee Group; Burrinjuck Dam, NSW, Australia.
-> - White and Toombs, 1972; Young, 1979
-
-[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang et al., 2001
-> Lochkovian, 419.2, 410.8
-
-> - Xitun Formation, Qujing, Yunnan, China.
-> - Zhang et al., 2001; Zhu et al., 2012; Wang et al. 2020
-
-[*Parexus recurvus*](https://deepbone.org/public/#/explor?s_id=2092&functionId=Deepbone_header_searchResultOpen) Agassiz, 1845
-> Lochkovian, 419.2, 410.8
-
-> - Upper part of the Arbuthnott Group; Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2013](http://dx.doi.org/10.1080/03115518.2013.765656).
-
-[*Paucicanthus vanelsti*](https://deepbone.org/public/#/explor?s_id=2807&functionId=Deepbone_header_searchResultOpen) Hanke, 2002
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - [Hanke, 2002](https://cdnsciencepub.com/doi/abs/10.1139/e02-023)
-
-[*Pauropetalichthys magnoculus*](https://deepbone.org/public/#/explor?s_id=3259&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2015
-> upper Emsian, 400.45, 393.3
-
-> - Chuandong Formation; Qujing, Yunnan, China.
-> - [Pan *et al*., 2015](https://www.sciencedirect.com/science/article/pii/S1631068314001924)
-
-[*Polybranchiaspis liaojiaoshanensis*](https://deepbone.org/public/#/explor?s_id=468&functionId=Deepbone_header_searchResultOpen) Liu, 1965
-> Lochkovian, 419.2, 410.8
-
-> - Xishancun and Xitun formations, Qujing, Yunnan, China; northern Vietnam.
-> - Liu, 1965; 1975
-
-[*Poracanthodes menneri*](https://deepbone.org/public/#/explor?s_id=163481&functionId=Deepbone_header_searchResultOpen) Valiukevicius, 1992
-> lower Lochkovian, 419.2, 415.0
-
-> - Severnaya Zemlya Formation; October Revolution Island, Severnaya Zemlya Archipelago, Russia.
-> - Valiukevicius, 1992
-> - Also cited as *Zemlyacanthus (Poracanthodes) menneri* (Valiukevicius, 1992).
 
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
@@ -858,56 +179,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Drake Bay Formation, Drake Bay, west coast of Prince of Wales Island, Arctic Canada
 > - Jessen, 1975; [Jessen, 1980](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8020476066); [King et al., 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12563)
 
-[*Procephalaspis oeselensis*](https://deepbone.org/public/#/explor?s_id=72628&functionId=Deepbone_header_searchResultOpen) (Robertson, 1939)
-> Ludlow, 427.4, 423.0
-
-> - Paadla Formation, Oesel, Saaremaa Island, Estonia.
-> - [Denison, 1951](https://agris.fao.org/search/en/providers/122376/records/647472d32d5d435c424edc0c).
-
-[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
-> Lochkovian, 419.2, 410.8
-
-> - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke, 2008
-
 [*Psarolepis romeri*](https://deepbone.org/public/#/explor?s_id=3056&functionId=Deepbone_header_searchResultOpen) Yu, 1998
 > Ludlow to Lochkovian, 427.4, 410.8
 
 > - Xishancun formation and Xitun formation of Qujing, Yunnan,China; The north of Central Vietnam
 > - [Tong-Duzy et al., 1997](https://www.researchgate.net/publication/287763677_Silurian_vertebrates_from_Central_Vietnam); [Yu, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011055); [Zhu et al., 1999](https://www.nature.com/articles/17594); [Zhu and Yu, 2004](https://www.researchgate.net/publication/213776823_Lower_jaw_character_transformations_of_early_Sarcopterygians_and_their_phylogenetic_and_functional_significance); [Zhu and Yu, 2009](https://royalsocietypublishing.org/doi/10.1098/rsbl.2008.0784)
-
-
-[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
-> upper Eifelian, 389.6, 387.7
-
-> - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland.
-> - This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
-> - Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
-
-[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
-> Lochkovian, 419.2, 410.8
-
-> - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
-> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Dineley, 1999; [Brazeau, 2009](https://www.nature.com/articles/nature07436); [Brazeau, 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2012.01130.x).
-
-[*Ptyctolepis brachynotus*](https://deepbone.org/public/#/explor?s_id=3095&functionId=Deepbone_header_searchResultOpen) Lu et al., 2017
-> Pragian, 410.8, 407.6
-
-> - Posongchong Formation; Zhaotong, Yunnan, China.
-> - [Lu et al., 2017](https://www.nature.com/articles/s41467-017-01801-z)
-
-[*Pucapampella rodrigae*](https://deepbone.org/public/#/explor?s_id=5142&functionId=Deepbone_header_searchResultOpen) Janvier et al., 1986
-> Emsian, 407.6, 393.3
-
-> - La Paz region (Belén Formation), and Cochabamba - Sucre areas (Icla Formation), Bolivia.
-> - Maisey and Anderson, 2001
-> - The Bolivian material is from the lower member of the Belén Formation (La Paz region, Bolivia) and from near the top of the Icla Formation (Cochabamba and Sucre areas, Bolivia); all this material is considered to be Emsian in age. Previous records of pucapampellids from the Givetian Sica Sica Formation are probably erroneous, and no pucapampellid specimens have been collected in situ from there; the same is true for the Eifelian to early Givetian Huamampampa Formation (for further details, see Janvier and Maisey 2010).
-
-[*Qilinyu rostrata*](https://deepbone.org/public/#/explor?s_id=1384&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2016
-> Ludfordian, 425.6, 423.0
-
-> - Kuanti Formation; Qujing, Yunnan, China.
-> - [Zhu et al., 2016](https://www.science.org/doi/10.1126/science.aah3764)
 
 [*Qingmenodus yui*](https://deepbone.org/public/#/explor?s_id=3097&functionId=Deepbone_header_searchResultOpen) Lu and Zhu, 2010
 > upper Pragian, 409.2, 407.6
@@ -915,107 +191,11 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Posongchong Formation; Zhaotong, Yunnan, China.
 > - [Lu and Zhu, 2010](https://royalsocietypublishing.org/doi/10.1098/rspb.2009.0708); [Lu et al., 2016](https://www.science.org/doi/10.1126/sciadv.1600154)
 
-[*Quasipetalichthys haikouensis*](https://deepbone.org/public/#/explor?s_id=2392&functionId=Deepbone_header_searchResultOpen) Liu, 1973
-> Givetian, 387.7, 382.7
-
-> - Haikou Formation.; Kunming, Yunnan, China.
-> - Liu, 1991
-
-[*Radotina kosorensis*](https://deepbone.org/public/#/explor?s_id=2290&functionId=Deepbone_header_searchResultOpen) Gross, 1950
-> Lochkovian, 419.2, 410.8
-
-> -  Lochkov Formation; Černarokle quarries near Kosoř in Prague-Radotin, Prague Basin, Czech Republic
-> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
-
-[*Radotina tesselata*](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen) Gross, 1958
-> Pragian, 410.8, 407.6
-
-> - Praha Formation, Koneprusy near Beroun, south-east of Prague, probably the area of the present day Houbas Quarry, Prague Basin, Czech Republic.
-> - Gross, 1958; [Vaškaninová and Ahlberg, 2017](https://deepbone.org/public/#/explor?s_id=2291&functionId=Deepbone_header_searchResultOpen)
-
-[*Ramirosuarezia boliviana*](https://deepbone.org/public/#/explor?s_id=5143&functionId=Deepbone_header_searchResultOpen) Pradel et al., 2009
-> Eifelian, 393.3, 387.7
-
-> - Icla Formation, Department of Cochabamba, Bolivia.
-> - [Pradel et al., 2009](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6395.2008.00350.x)
-
-[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
-> Frasnian, 382.7, 372.2
-
-> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry (now flooded), Pas-de-Calas, France.
-> - [Giles et al., 2015b](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1485)
-
-[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - wide distribution.
-> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
-
-[*Rhadinacanthus longispinus*](https://deepbone.org/public/#/explor?s_id=3141&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1844)
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Burrow et al., 2016](https://palaeo-electronica.org/content/2016/1398-scottishdiplacanthid-fishes).
-
-[*Rhamphodopsis threiplandi*](https://deepbone.org/public/#/explor?s_id=2353&functionId=Deepbone_header_searchResultOpen) Watson
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf); [Miles, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/99/2680217)
-
-[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
-> upper Lochkovian, 415.0, 410.8
-
-> - Prince of Wales Island, Canada.
-> - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
-
-[*Shearsbyaspis oepiki*](https://deepbone.org/public/#/explor?s_id=78336&functionId=Deepbone_header_searchResultOpen) Young, 1985
-> Emsian, 407.6, 393.3
-
-> - Taemas Formation, Taemas-Wee Jasper area, New South Wale, Australia.
-> - Young, 1985; [Castiello, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12345).
-
-[*Shenacanthus vermiformis*](https://deepbone.org/public/#/explor?s_id=166632&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
-> middle Telychian, 436.8, 435.1
-
-> - Huixingshao Formation; Xiushan, Chongqing, China.
-> - Zhu Y. *et al*., 2022
-
-[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) Gai *et al*., 2011
-> lower Telychian, 438.5, 436.8 
-
-> - Kangshan Formation; Changxing County, Zhejiang Province, China
-> - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
-
-[*Sigaspis lepidophora*](https://deepbone.org/public/#/explor?s_id=2483&functionId=Deepbone_header_searchResultOpen) Goujet, 1973
-> lower Pragian, 410.8, 409.2
-
-> - Sigurdfjellet Formation; Svalbard, Spitsbergen.
-> - Goujet, 1973
-
-[*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
-> Famennian, 372.2, 358.9
-
-> - Wutung Formation; Nanjing, Jiangsu, China
-> - Liu and P'an, 1958; Ritchie et al., 1992
-
-[*Sinopetalichthys kueiyangensis*](https://deepbone.org/public/#/explor?s_id=3264&functionId=Deepbone_header_searchResultOpen) P'an et al., 1975
-> lower Emsian, 407.6, 400.45
-
-> - Guiyang, Guizhou, China.
-> - [Zhao and Zhu, 2010](https://www.sciencedirect.com/science/article/abs/pii/S1871174X09000663)
-
 [*Sparalepis tingi*](https://deepbone.org/public/#/explor?s_id=2870&functionId=Deepbone_header_searchResultOpen) Choo *et al*., 2017
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Choo *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170929)
-
-[*Squalus* spp.](https://deepbone.org/public/#/explor?s_id=2773&functionId=Deepbone_header_searchResultOpen)
-> Pliocene to present, 5.33, 0
-
-> - wide distribution.
-> - Gans and Parsons, 1964
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
@@ -1023,147 +203,17 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Xitun Formation, Qujing, Yunnan, China
 > - [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871); [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052)
 
-[*Sudaspis chlupaci*](https://deepbone.org/public/#/explor?s_id=2293&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
-> Lochkovian, 419.2, 410.8
-
-> - Lochkov Formation, Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
-> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
-
-[*Synechodus dubrisiensis*](https://deepbone.org/public/#/explor?s_id=16462&functionId=Deepbone_header_searchResultOpen) (Mackie, 1863)
-> Upper Jurassic to Maastrichtian, 161.5, 66.0
-
-> - Lower Chalk, Dover, England.
-> - [Maisey, 1985](https://digitallibrary.amnh.org/items/f703fca3-f17d-4211-9604-df4e9aeaa420).
-
-[*Tamiobatis vetustus*](https://deepbone.org/public/#/explor?s_id=18774&functionId=Deepbone_header_searchResultOpen) Eastman, 1897
-> upper Famennian, 363.3, 358.9
-
-> - Cleveland Shale Member, Ohio Shale Formation, Cleveland, Ohio, USA.
-> - Schaeffer, 1981; Williams, 1998
-
-[*Tetanopsyrus lindoei*](https://deepbone.org/public/#/explor?s_id=5111&functionId=Deepbone_header_searchResultOpen) Gagnier et al., 1999
-> Lochkovian, 419.2, 410.8
-
-> - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier et al., 1999; Hanke et al., 2001
-
-[*Tetanopsyrus breviacanthias*](https://deepbone.org/public/#/explor?s_id=5112&functionId=Deepbone_header_searchResultOpen) Hanke et al., 2001
-> Lochkovian, 419.2, 410.8
-
-> - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier et al., 1999; Hanke et al., 2001
-
-[*Tlamaspis inopinatus*](https://deepbone.org/public/#/explor?s_id=2292&functionId=Deepbone_header_searchResultOpen) Vaškaninová and Ahlberg, 2017
-> Lochkovian, 419.2, 410.8
-
-> - Lochkov Formation; Černarokle near Kosoř in Prague-Radotin, Prague Basin, Czech Republic.
-> - [Vaškaninová and Ahlberg, 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174794)
-
-[*Tremataspis mammillata*](https://deepbone.org/public/#/explor?s_id=72648&functionId=Deepbone_header_searchResultOpen) Patten, 1931
-> Gorstian, 427.4, 425.6
-
-> - Himmiste beds; Saaremaa, Estonia.
-> - Denison, 1947; 1951; Robertson, 1937; Robertson, 1938
-
-[*Tribodus limae*](https://deepbone.org/public/#/explor?s_id=2812&functionId=Deepbone_header_searchResultOpen) Brito and Ferreira, 1989 
-> Albian, 113.0, 100.5
-
-> - Upper (Romualdo) Member, Santana Formation; northeastern Brazil.
-> - [Lane and Maisey, 2009](https://www.tandfonline.com/doi/abs/10.1080/02724634.2009.10010359); [Lane, 2010](http://www.bioone.org/doi/full/10.1206/681.1); [Lane and Maisey, 2012](https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/visceral-skeleton-and-jaw-suspension-in-the-durophagous-hybodontid-shark-tribodus-limae-from-the-lower-cretaceous-of-brazil/5FB57E72FCE3993A631B48F0DCD12651); Maisey and Denton, 2016
-
-[*Triodus moorei*](https://deepbone.org/public/#/explor?s_id=154606&functionId=Deepbone_header_searchResultOpen) Woodward, 1889
-> Bashkirian to Changhsingian, 323.2, 251.9
-
-> - USA.
-> - Heidtke et al., 2004; Soler-Gijon and Hampe, 1998
-
-[*Tristychius arcuatus*](https://deepbone.org/public/#/explor?s_id=2810&functionId=Deepbone_header_searchResultOpen) (Agassiz, 1837)
-> lower Serpukhovian, 330.9, 328.3
-
-> - Base of Lower Oil Shale Group (Granton Sandstones) to Upper Limestone Group (South Parrot Coal-Shale); Midland Valley (Lothian, Fife and Strathclyde Regions), Scotland.
-> - [Dick, 1978](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/on-the-carboniferous-shark-tristychius-arcuatus-agassiz-from-scotland/98465509DDF9A6F3BEC97C1823329F16); [Coates and Gess, 2007](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2007.00719.x). 
-
-[*Uraniacanthus curtus*](https://deepbone.org/public/#/explor?s_id=17896&functionId=Deepbone_header_searchResultOpen) (Powrie, 1870)
-> Lochkovian, 419.2, 410.8
-
-> - Middle Valley, Scotland.
-> - [Newman *et al*., 2012](https://bioone.org/journals/Geodiversitas/volume-34/issue-4/g2012n4a2/The-Early-Devonian-Acanthodian-iUraniacanthus-curtus-i-Powrie-1870-n/10.5252/g2012n4a2.full).
-
-[*Uraniacanthus probaton*](https://deepbone.org/public/#/explor?s_id=167565&functionId=Deepbone_header_searchResultOpen) (Bernacsek and Dineley, 1977)
-> Lochkovian, 419.2, 410.8
-
-> - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke and Davis, 2008; [Newman *et al*., 2012](https://bioone.org/journals/Geodiversitas/volume-34/issue-4/g2012n4a2/The-Early-Devonian-Acanthodian-iUraniacanthus-curtus-i-Powrie-1870-n/10.5252/g2012n4a2.full).
-
-> - *Uraniacanthus* Miles, 1973 has priority over *Gladiobranchus* Bernacsek & Dineley, 1977 (Newman *et al*., 2012). As such, [*Gladiobranchus probaton*](https://deepbone.org/public/#/explor?s_id=163474&functionId=Deepbone_header_searchResultOpen) was referred to as *U. probaton*.
-
 [*Uranolophus wyomingensis*](https://deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen) Denison, 1968
 > Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation; Wyoming, USA.
 > - [Denison, 1968](https://agris.fao.org/search/en/providers/122376/records/647472ae425ec3c088f2eeb7).
 
-[*Vernicomacanthus uncinatus*](https://deepbone.org/public/#/explor?s_id=3640&functionId=Deepbone_header_searchResultOpen) (Powrie, 1864)
-> Lochkovian, 419.2, 410.8
-
-> - Tillywhandland (‘Turin Hill’) and Canterland Den (NHMUK PV P 6967, a pectoral fin spine) near Forfar, and Balruddery Den, near Dundee, all in Angus, UK. Lower Old Red Sandstone, Dundee Flagstone Formation, Arbuthnott–Garvock Gr. 
-> - [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf)
-> - **This taxon is not in the character matrix.**
-
-[*Waengsjoeaspis excellens*](https://deepbone.org/public/#/explor?s_id=171922&functionId=Deepbone_header_searchResultOpen) (Wangsjo, 1952)
-> Lochkovian, 419.2, 410.8
-
-> - Fraenkelryggen Formation, Red Bay Group; Spitsbergen.
-> - [Janvier, 1985](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=9246955).
-
-[*Wenshanaspis zhichangensis*](https://deepbone.org/public/#/explor?s_id=511&functionId=Deepbone_header_searchResultOpen) Zhao et al., 2002
-> Pragian, 410.8, 407.6
-
-> - Posongchong Formation; Wenshan, Yunnan, China.
-> - Zhao et al., 2002
-
-[*Wijdeaspis warrooensis*](https://deepbone.org/public/#/explor?s_id=165882&functionId=Deepbone_header_searchResultOpen) Young, 1978
-> Emsian, 407.6, 393.3
-
-> - Taemas Formation, Taemas-Wee Jasper region, New South Wales; Buchan Group, Buchan, Victoria, Australia.
-> - Young, 1978; Barker and Bone, 1995; Basden, 1999; Obruchev, 1964; Heintz, 1929; Long, 1984.
-
-[*Wuttagoonaspis fletcheri*](https://deepbone.org/public/#/explor?s_id=3621&functionId=Deepbone_header_searchResultOpen) Ritchie, 1973
-> Emsian to Eifelian, 407.6, 387.7
-
-> - Mulga Downs Group; Wilcannia, Australia
-> - Ritchie, 1973
-
-[*Xiushanosteus mirabilis*](https://deepbone.org/public/#/explor?s_id=166631&functionId=Deepbone_header_searchResultOpen) Zhu Y. *et al*., 2022
-> middle Telychian, 436.8, 435.1
-
-> - Huixingshao Formation; Xiushan, Chongqing, China.
-> - [Zhu Y. *et al*., 2022](https://www.nature.com/articles/s41586-022-05136-8)
-
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
-
-[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8 
-
-> - South China and northern Vietnam.
-> - Zhang, 1980; Zhu, 1996
-
-[*Zenaspis salweyi*](https://deepbone.org/public/#/explor?s_id=72667&functionId=Deepbone_header_searchResultOpen) Egerton, 1857
-> Lochkovian, 419.2, 410.8
-
-> - Podolia, Ukraine.
-> - [Stensiö, 1932](https://agris.fao.org/search/en/providers/122376/records/6474729ba4e07c0bc4bfd2b6).
-
-**New taxa under study**
-New placoderm close to the crown gnathostome node
-
-New early Silurian osteichthyan
-
-New Middle Devonian petalichthyid from Zhujiangyuan
 
 **References**
 
