@@ -207,7 +207,7 @@ The changes of histological data are generally based on Mondéjar-Fernández, 20
 34. Anterior pit line of dermal skull roof: 0. absent; 1. present.
 >  Giles *et al*. (2015), Character 34; Lu *et al*. (2016), Character 34; Lu *et al*. (2017), Character 34.
 > - Lu *et al*. (2016; 2017): Changed from ‘1’ to ‘0’ for *Cheirolepis*.
-> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '0'.
+> - The coding of *Durialepis* is '1'. The coding of *Holoptychius* is '1'. The coding of *Laccognathus* is '0'. The coding of  *Nasogaluakus* is '1'. The coding of *Quebecius* is '1'.
 > - The coding of ZJYporo is '?'.
 > 
 35. Tessera morphology: 0. large interlocking polygonal plates; 1. microsquamose, not larger than body squamation.
